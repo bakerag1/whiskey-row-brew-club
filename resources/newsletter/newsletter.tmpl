@@ -1,0 +1,149 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <style>
+        aria-label {
+            color: blue;
+        }
+        hr {
+            margin: 2.0em auto;
+        }
+
+        h2 {
+            padding-top: 3.0em;
+            color: teal;
+        }
+        ul {
+            padding-left: 5px;
+        }
+
+        ul:before {
+            content: attr(aria-label);
+            font-size: 120%;
+            font-weight: bold;
+            margin-left: -15px;
+        }
+
+        table.meetings {
+            display: inline-table;
+            border: 1px solid black;
+            border-collapse: collapse;
+            width: 70%
+        }
+        th.meetings {
+            text-align: center;
+            background-color: rgb(44, 190, 190);
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        td.meetings {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<table style="width: 100%;table-layout: fixed;">
+    <tr>
+        <td style="width: 70%; font-size: 18; right-padding: 15px;">
+            <div style="text-align: center; font-size: 80;">WRBC Monthly</div>
+            <br>
+            <div style="text-align: center; font-size: 20;">Monthly newsletter of the Whiskey Row Brew Club</div><br>
+            <div style="text-align: center;">
+            {{range .Config.Toplinks}}
+                <a href="{{.Url}}">{{.Name}}</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            {{end}}
+            </div><br>
+            <h2>News</h2>
+            {{ .MonthInfo.News }}
+        </td>
+        <td style="width: 30%; padding: 15px; text-align: left; vertical-align: top;left-padding: 5px;">
+            <table>
+                <tr>
+                    <td align="center">
+                        <div style="text-align: center; font-size: 20;">July 2023</div><br>
+                        <img style="width: 200;" src="https://drive.google.com/uc?id=1VDD5jTpDrlUjG6cTUwky5sjnnYa4iE4Q" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <ul style="list-style-type: none;" aria-label="Club Events">
+                            {{range .MonthInfo.ClubEvents}}
+                                <li>
+                                {{if .Url}}
+                                    <a href="{{.Url}}">{{.Name}}</a>
+                                {{else}}
+                                    {{.Name}}
+                                {{end}}
+                                {{if .Info}}
+                                    <ul style="font-style: italic;list-style-type: none;"><li>{{.Info}}</li></ul>
+                                {{end}}
+                                </li>
+                            {{end}}
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <ul style="list-style-type: none;" aria-label="Beer Events">
+                            {{range .MonthInfo.BeerEvents}}
+                                <li>
+                                {{if .Url}}
+                                    <a href="{{.Url}}">{{.Name}}</a>
+                                {{else}}
+                                    {{.Name}}
+                                {{end}}
+                                {{if .Info}}
+                                    <ul style="font-style: italic;list-style-type: none;"><li>{{.Info}}</li></ul>
+                                {{end}}
+                                </li>
+                            {{end}}
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <ul style="list-style-type: none;" aria-label="Competitions">
+                            {{range .MonthInfo.Competitions}}
+                                <li>
+                                {{if .Url}}
+                                    <a href="{{.Url}}">{{.Name}}</a>
+                                {{else}}
+                                    {{.Name}}
+                                {{end}}
+                                {{if .Info}}
+                                    <ul style="font-style: italic;list-style-type: none;"><li>{{.Info}}</li></ul>
+                                {{end}}
+                                </li>
+                            {{end}}
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </td>
+
+    </tr>
+    <table>
+        <h2>Upcoming Meetings</h2>
+        <table class="meetings">
+            <thead>
+                <th class="meetings">date</th>
+                <th class="meetings">gauntlet</th>
+                <th class="meetings">education</th>
+            </thead>
+            {{range .MonthInfo.Meetings}}
+                <tr>
+                    <td class="meetings">{{ .Date}}</td>
+                    <td class="meetings">{{ .Gauntlet}}</td>
+                    <td class="meetings">{{ .Education}}</td>
+                </tr>          
+            {{end}}
+        </table>
+        
+    <div style="text-align: center;position:fixed; bottom:0;"><h2>Board of Directors</h2><br>
+        {{ range $i, $e := .MonthInfo.Board }}
+            <a><bold>{{ $e.Position }}:</bold> {{ $e.Name }}</a> {{ if (modIsZero $i 3) }}</br>{{ end }}
+        {{ end }}
+    <div>
+</html>
