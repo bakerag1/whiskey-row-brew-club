@@ -1,0 +1,31 @@
+baseURL: 'https://whiskeyrowbrewclub.com/'
+languageCode: 'en-us'
+title: 'Whiskey Row Brew Club'
+theme: hyde
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Params:
+  description: "Homebrewing club based in Prescott, AZ"
+  logo: /favicon.png
+  themeColor: "theme-base-0f"
+  meta:
+    favicon: false
+
+Menus:
+  main:
+    - Name: Club Calendar
+      Url: /club-calendar
+    - Name: Competitions
+      Url: /competitions
+    - Name: Membership
+      Url: /membership
+    - Name: Education Topics
+      Url: /education-topics
+    - Name: Meeting Minutes
+      Url: /meeting-minutes
+    - Name: Member Businesses
+      Url: /member-businesses

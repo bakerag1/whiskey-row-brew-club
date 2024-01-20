@@ -1,0 +1,78 @@
+club-events:
+  - name: Wren House Brew Day
+    url:
+    info: Spring TBD
+beer-events:
+  - name: Copper State Beer Fest
+    url: https://www.copperstatebeerfest.com/
+    info: 1/13 Mesa
+  - name: Strong Beer Fest
+    url: https://chooseazbrews.com/strong-beer-festival-2024/
+    info: 2/17 Scottsdale
+competitions:
+  - name: Cactus Classic - ASH
+    url: https://azhomebrewers.org/competition
+    info: dates TBD maybe March
+  - name: Lazy G Pro-Am
+    url: https://www.whiskeyrowbrewclub.com/p/lazy-g-club-only-competition.html
+    info: American Pale Ale - enries due 4/18
+meetings:
+  - date: 2024-01-18
+    gauntlet: Munich Dunkel (8a)
+    education: Mead 101
+    location: Cocky's Chicken & Brew
+  - date: 2024-02-15
+    gauntlet: Baltic Porter (9c)
+    education: Brewing American Pale Ale
+    location: Cocky's Chicken & Brew
+  - date: 2024-03-21
+    gauntlet: California Common (19b)
+    education: Monster Mash
+    location: Cocky's Chicken & Brew
+news: |
+  I hope everyone enjoyed the holiday party as much as I did! Members can look
+  at some pictures of it on <a href="https://drive.google.com/drive/folders/1FnFVIoR_UFxNhwjCpYXRTzou_OgUd_nX?usp=sharing">Google Drive</a>
+  The raffle had people walking away with great bottles of mead and beer, pounds
+  of hops and specialty grain, gift cards, and merch provided by the club
+  and local businesses. A silent auction provided great deals on full sacks of
+  grain, as well as some good fun. This brought in significant funds for the club
+  so look forward to voting on some cool ways to spend the money this year.
+  <br><br>
+  This past year was a blast! We saw some record gauntlet turnouts with 9 entries
+  in October and 11 in December, with 9 different brewers earning points towards Brewer
+  of the Year (Congratulations Wes!). We ran into 
+  capacity problems at our meetings from all the new/renewed interest in the club. We 
+  participated in 4 AZ beer festivals, judging best of show awards for two. We had a 
+  bunch of folks go to HomebrewCon in San Diego and served our brew to homebrewers from 
+  all over the world. We earned at least 6 medals in AZ competitions, and had one 
+  second round entry in NHC. The campout was amazing as usual, and our new Oktoberfest
+  party was wunderbar. Our VP is brewing at newly opened Brown Bag Burger + Brewery
+  in Downtown Prescott, expecting to have house made beers on tap in early February.
+  <br><br>
+  2024 is shaping up to be even better. We're excited to try a new general meeting 
+  location this month, Cocky's Chicken & Brew! They really know their way around the fryer and have a
+  small but good tap selection, as well as unbelievable prices. Order food
+  at the counter and beer at the bar. We are targeting 3 festivals this year and we
+  should be able to serve our own beer at all 3! The Lazy G comp will be all American
+  Pale Ale, so it will be a really tight competition, get brewing. HomebrewCon is in Denver this year,
+  combined with GABF, hopefully we can have a good turnout and win some hardware at NHC.
+
+board:
+  - position: President/Web Admin
+    name: Andrew Baker 
+  - position: Vice President
+    name: John Allen
+  - position: Treasurer
+    name: Greg Gannon
+  - position: Merchandise
+    name: Mike and Jodi Maas 
+  - position: Education
+    name: Seth Kuhnke 
+  - position: Events
+    name: Ashley Kuhnke
+  - position: Membership
+    name: Shelley Deardroff
+  - position: General Secretary
+    name: Stephanie Baker 
+  - position: At-Large
+    name: Tuk Jacobson; Ryan Hawkins; Janine Kauffmann; Wes Meuller
