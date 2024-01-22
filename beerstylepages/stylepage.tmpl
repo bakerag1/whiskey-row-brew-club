@@ -1,0 +1,35 @@
+---
+title: {{ .Style_id }} - {{ .Name }}
+category: {{ if hasPrefix .Category_id "X" }}100{{ else }}{{ .Category_id }}{{ end }}
+---
+
+ABV: {{ .Alcohol_by_volume.Minimum.Value }}-{{ .Alcohol_by_volume.Maximum.Value }}%  
+OG/FG: {{ .Original_gravity.Minimum.Value }}-{{ .Original_gravity.Maximum.Value }}/{{ .Final_gravity.Minimum.Value }}-{{ .Final_gravity.Maximum.Value }}  
+SRM: {{ .Color.Minimum.Value }}-{{ .Color.Maximum.Value }}  
+
+## Overall Impression
+{{ .Overall_impression }}
+
+## Appearance
+{{ .Appearance }}
+
+## Aroma
+{{ .Aroma }}
+
+## Flavor
+{{ .Flavor }}
+
+## Mouthfeel
+{{ .Mouthfeel }}
+
+## Style Comparison
+{{ .Style_comparison }}
+
+## Ingredients
+{{ .Ingredients }}
+
+## History
+{{ .History }}
+
+## Comments
+{{ .Comments }}

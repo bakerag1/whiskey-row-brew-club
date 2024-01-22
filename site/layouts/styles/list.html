@@ -1,0 +1,10 @@
+{{ define "main" -}}
+<ul class="posts">
+{{ $pages := collections.Sort .Data.Pages "Params.category" }}
+{{ range $pages -}}
+  <li style="list-style-type: none;">
+    <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+  </li>
+{{- end }}
+</ul>
+{{- end }}

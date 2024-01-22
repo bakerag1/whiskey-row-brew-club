@@ -17,15 +17,24 @@ Params:
 
 Menus:
   main:
-    - Name: Club Calendar
+    - Weight: 10
+      Name: Club Calendar
       Url: /club-calendar
-    - Name: Competitions
+    - Weight: 20
+      Name: Competitions
       Url: /competitions
-    - Name: Membership
+    - Weight: 30
+      Name: Membership
       Url: /membership
-    - Name: Education Topics
+    - Weight: 40
+      Name: Education Topics
       Url: /education-topics
-    - Name: Meeting Minutes
+    - Weight: 50
+      Name: Meeting Minutes
       Url: /meeting-minutes
-    - Name: Member Businesses
+    - Weight: 60
+      Name: Member Businesses
       Url: /member-businesses
+    - Weight: 70
+      Name: Beer Styles
+      Url: /styles

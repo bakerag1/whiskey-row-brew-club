@@ -38,3 +38,4 @@ test/*
 # hugo
 public/
 */public
+*/.hugo_build.lock
