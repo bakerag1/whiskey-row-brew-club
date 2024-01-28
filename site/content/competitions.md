@@ -92,7 +92,7 @@ aliases = ['/p/gauntlet.html']
                 <td></td>
             </tr>
 			<tr>
-                <td><a href="https://www.whiskeyrowbrewclub.com/p/lazy-g-club-only-competition.html">Lazy G Pro-Am</a></td>
+                <td><a href="https://whiskeyrowbrewclub.com/lazy-g-club-only-competition">Lazy G Pro-Am</a></td>
                 <td>American Pale Ale (18b-bjcp, American-Style Pale Ale-BA)</td>
               <td></td>
             </tr>
