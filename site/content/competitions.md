@@ -69,7 +69,7 @@ aliases = ['/p/gauntlet.html']
             <tr>
                 <td>January Gauntlet</td>
                 <td>club meeting: Munich Dunkel (8a)</td>
-                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td>1st: Andrew; 2nd: Susan; 3rd: Tom</td>
             </tr>
             <tr>
                 <td>February Gauntlet</td>
@@ -92,7 +92,7 @@ aliases = ['/p/gauntlet.html']
                 <td></td>
             </tr>
 			<tr>
-                <td><a href="https://whiskeyrowbrewclub.com/lazy-g-club-only-competition">Lazy G Pro-Am</a></td>
+                <td><a href="/lazy-g-club-only-competition">Lazy G Pro-Am</a></td>
                 <td>American Pale Ale (18b-bjcp, American-Style Pale Ale-BA)</td>
               <td></td>
             </tr>
