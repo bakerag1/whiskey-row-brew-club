@@ -7,6 +7,7 @@ import (
 	"log"
 	"os"
 	"text/template"
+	"time"
 
 	"gopkg.in/yaml.v2"
 )
@@ -76,7 +77,12 @@ func (c *monthData) getMonthInfo(yyyyMM string) *monthData {
 	if err != nil {
 		log.Fatalf("Unmarshal: %v", err)
 	}
-
+	d, err := time.Parse("2006-January", yyyyMM)
+	if err != nil {
+		panic(err)
+	}
+	c.Month = d.Format("January")
+	c.Year = d.Format("2006")
 	return c
 }
 
@@ -94,6 +100,8 @@ type monthData struct {
 	Meetings     []event `yaml:"meetings"`
 	News         string  `yaml:"news"`
 	Board        []board `yaml:"board"`
+	Month        string
+	Year         string
 }
 type event struct {
 	Name      string `yaml:"name"`
