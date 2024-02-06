@@ -82,7 +82,7 @@ aliases = ['/p/gauntlet.html']
                 <td></td>
             </tr>
             <tr>
-                <td><a href="https://azhomebrewers.org/brewcomp/">Cactus Classic</a></td>
+                <td><a href="https://beerawardsplatform.com/2024-ash-cactus-classic">Cactus Classic</a></td>
                 <td>TBD</td>
                 <td></td>
             </tr>
@@ -98,7 +98,7 @@ aliases = ['/p/gauntlet.html']
             </tr>
             <tr>
                 <td>May Gauntlet</td>
-                <td>club meeting: Mexican Lager clone challenge, specific brand TBD</td>
+                <td>club meeting: Mexican Lager clone challenge, Modelo Especial</td>
                 <td></td>
             </tr>
             <tr>
@@ -108,7 +108,13 @@ aliases = ['/p/gauntlet.html']
             </tr>
             <tr>
                 <td><a href="https://www.homebrewersassociation.org/national-homebrew-competition/">National Homebrew Competition</a></td>
-                <td>First Round: TBD</td>
+                <td>
+                    <ul>
+                        <li>2/27 registration opens 10am</li>
+                        <li>enter up to 10 beers</li>
+                        <li>first round sites receiving and judging in May and June</li>
+                    </ul>
+                </td>
                 <td></td>
             </tr>
             <tr>
