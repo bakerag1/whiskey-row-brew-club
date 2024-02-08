@@ -2,7 +2,7 @@
 title: "Lazy G Club-Only Competition"
 author: "bakerag"
 type: "landing"
-logo: "/LGcollabLogo.png"
+logo: "LGcollabLogo.png"
 description: "A member-only competition hosted by Lazy G Brewhouse"
 aliases:
   - '/p/lazy-g-club-only-competition.html'
