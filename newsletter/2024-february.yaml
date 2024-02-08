@@ -1,0 +1,73 @@
+club-events:
+  - name: Highway Cleanup
+    info: 3/16
+  - name: Wren House Brew Day
+    info: Spring TBD
+beer-events:
+  - name: ABV Beer Dinner
+    url: https://www.eventbrite.com/e/abv-dinner-tickets-90021738443
+    info: 2/24 Flagstaff benefiting Veteran Services
+  - name: Strong Beer Fest
+    url: https://chooseazbrews.com/strong-beer-festival-2024/
+    info: 2/17 Scottsdale
+  - name: Whiskey Row Brew Fest
+    info: 6/15 Prescott
+competitions:
+  - name: Cactus Classic - ASH
+    url: https://beerawardsplatform.com/2024-ash-cactus-classic
+    info: ASH member registration open, general opens 2/16, entries due 3/18
+  - name: Lazy G Pro-Am
+    url: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition
+    info: American Pale Ale - enries due 4/18
+  - name: National Homebrew Competition
+    url: https://www.homebrewersassociation.org/national-homebrew-competition/
+    info: registration 2/27 shipping in May
+meetings:
+  - date: 2024-02-15
+    gauntlet: '<a href="https://whiskeyrowbrewclub.com/styles/bjcp/2021/9c-baltic-porter/">Baltic Porter (9c)</a>'
+    education: Brewing American Pale Ale
+    location: Cocky's Chicken & Brew
+  - date: 2024-03-21
+    gauntlet: '<a href="https://whiskeyrowbrewclub.com/styles/bjcp/2021/19b-california-common/">California Common (19b)</a>'
+    education: Monster Mash
+    location: Cocky's Chicken & Brew
+  - date: 2024-04-18
+    gauntlet: '<a href="https://whiskeyrowbrewclub.com/styles/bjcp/2021/18b-american-pale-ale/">American Pale Ale(18b)</a>'
+    education: TBD
+    location: Cocky's Chicken & Brew
+news: |
+  In case you missed it, the meeting at Cocky's was a blast, they are terrific hosts and we had an epic Mead 101 topic!
+  <br><br>
+  As you probably already heard, our own Vice President, John Allen is the brewer at the newly opened Brown Bag Burgers + Brewery,
+  what you may not know is that his beers are now on-tap! Stop by and grab a pint or three! 
+  <br><br>
+  In competition news, the Cactus Classic has opened registration for ASH members, and will open generally on 2/16. This competition
+  is on the Master Homebrewer Circuit, so don't delay registering, these competitions have a tendency to sell out very fast. Since it's
+  in Phoenix, we also have the opportunity to volunteer as judges and stewards at the competition. Also, registration for
+  National Homebrew Con is coming up February 27, with 10 entries, this could be a game changer for the Brewer of the Year
+  competition! Be sure to list your club as Whiskey Row Brew Club. Also, coming up very soon is our Lazy G Pro-Am competition.
+  The winner will get to help brew their recipe at Lazy G, and have it entered in the Great American
+  Beer Festival Pro-Am competition. They will also, probably get some sweet merch and we'll have a tapping
+  party when they start serving it. A pre-requisite for both NHC and the Lazy G competition is that you are
+  an active member of American Homebrewers Association, when you are signing up, use the code WRBC to get $5
+  off, plus $5 will go to the club.
+
+board:
+  - position: President/Web Admin
+    name: Andrew Baker 
+  - position: Vice President
+    name: John Allen
+  - position: Treasurer
+    name: Greg Gannon
+  - position: Merchandise
+    name: Mike and Jodi Maas 
+  - position: Education
+    name: Seth Kuhnke 
+  - position: Events
+    name: Ashley Kuhnke
+  - position: Membership
+    name: Shelley Deardroff
+  - position: General Secretary
+    name: Stephanie Baker 
+  - position: At-Large
+    name: Tuk Jacobson; Ryan Hawkins; Janine Kauffmann; Wes Meuller
