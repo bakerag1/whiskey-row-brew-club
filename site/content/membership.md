@@ -8,7 +8,7 @@ aliases = ['/p/membership.html']
 +++
 
 <p>Club dues are $35 for an individual, $50 for a couple per calendar year. You do not have to buy before you try, come to a meeting or event and check it out!</p><p>
-<form action="/join-club">
+<form action="/join-the-club">
     <input type="submit" value="Join Now!" style="font-size: 20pt; border:8px; border-radius: 10px; background-color: lime;"/>
 </form>
 <h1 style="text-align: left;">Benefits include</h1>
