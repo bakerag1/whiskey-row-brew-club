@@ -1,6 +1,9 @@
 {{ define "main" -}}
 <div class="post">
-  <h1>{{ .Title }}</h1>
+    <div style="float: left;">{{ if .PrevInSection }}<a  href="{{.PrevInSection.RelPermalink}}">&lt;&lt; {{ .PrevInSection.Title }}</a>{{ end }}</div>
+      <div style="float: right;">{{ if .NextInSection }}<a  href="{{.NextInSection.RelPermalink}}">{{ .NextInSection.Title }} &gt;&gt;</a>{{ end }}</div>
+<br>
+<h1>{{ .Title }}</h1>
   {{ .Content }}
 </div>
 
