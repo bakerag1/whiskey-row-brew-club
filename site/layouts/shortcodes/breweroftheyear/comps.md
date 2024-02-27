@@ -9,7 +9,7 @@
     <b>{{ .date }}<b> - {{ $title }}<br>
     {{ if .info }}
     &nbsp;&nbsp;{{ .info }}
-    {{ if .link }}<a href="{{ .link }}">link</a>{{ end }}
+    {{ if .link }}<a href="{{ .link }}">details</a>{{ end }}
     <br>
     {{ end }}
     {{ with .style }}
@@ -20,7 +20,7 @@
     {{ end }}
     {{ with .winners }}
       {{ range . }}
-        {{ .position }}: {{ .name }}{{ with .recipeLink}} - <a href="{{ .recipeLink }}">recipe</a>{{ end }}
+        &nbsp;&nbsp;{{ .position }}: {{ .name }}{{ with .recipeLink}} - <a href="{{ .recipeLink }}">recipe</a>{{ end }}
         <br>
       {{ end }}
     {{ end }}

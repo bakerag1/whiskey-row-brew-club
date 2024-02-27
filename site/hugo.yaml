@@ -21,11 +21,14 @@ Menus:
       Name: Club Calendar
       Url: /club-calendar
     - Weight: 20
-      Name: Competitions
-      Url: /competitions
-    - Weight: 30
       Name: Membership
       Url: /membership
+    - Weight: 30
+      Name: Brewer Of The Year
+      Url: /brewer-of-the-year
+    - Weight: 30
+      Name: Lazy G Competition
+      Url: /lazy-g-club-only-competition
     - Weight: 40
       Name: Education Topics
       Url: /education-topics
