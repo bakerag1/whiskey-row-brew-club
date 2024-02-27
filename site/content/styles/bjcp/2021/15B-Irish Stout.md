@@ -1,6 +1,8 @@
 ---
 title: 15B - Irish Stout
 category: 15
+aliases: 
+  - "15B"
 ---
 
 ABV: 3.8-5%  

@@ -1,6 +1,8 @@
 ---
 title: X4 - Catharina Sour
 category: 100
+aliases: 
+  - "X4"
 ---
 
 ABV: 4-5.5%  

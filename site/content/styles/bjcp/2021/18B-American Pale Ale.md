@@ -1,6 +1,8 @@
 ---
 title: 18B - American Pale Ale
 category: 18
+aliases: 
+  - "18B"
 ---
 
 ABV: 4.5-6.2%  

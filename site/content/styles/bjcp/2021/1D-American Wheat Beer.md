@@ -1,6 +1,8 @@
 ---
 title: 1D - American Wheat Beer
 category: 1
+aliases: 
+  - "1D"
 ---
 
 ABV: 4-5.5%  

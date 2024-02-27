@@ -1,6 +1,8 @@
 ---
 title: 31A - Alternative Grain Beer
 category: 31
+aliases: 
+  - "31A"
 ---
 
 ABV: 0-0%  

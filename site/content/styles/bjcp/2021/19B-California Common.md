@@ -1,6 +1,8 @@
 ---
 title: 19B - California Common
 category: 19
+aliases: 
+  - "19B"
 ---
 
 ABV: 4.5-5.5%  

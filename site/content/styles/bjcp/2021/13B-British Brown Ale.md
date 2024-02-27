@@ -1,6 +1,8 @@
 ---
 title: 13B - British Brown Ale
 category: 13
+aliases: 
+  - "13B"
 ---
 
 ABV: 4.2-5.9%  

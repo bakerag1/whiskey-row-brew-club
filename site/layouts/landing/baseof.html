@@ -1,7 +1,7 @@
 {{ partial "landing-head.html" . }}
   <body>
       <div style="background-color: #8f5536;">
-          <img src="{{ .Page.Params.Logo }}" alt="Competition Logo" width="450pt" style="display: flex; margin-left: auto; margin-right: auto; padding: 10px;"/>
+          <img src="{{ if .Page.Params.Logo }}{{ .Page.Params.Logo }}{{ else }}/favicon.png{{ end }}" alt="Competition Logo" width="450pt" style="display: flex; margin-left: auto; margin-right: auto; padding: 10px;"/>
       </div>
       <div class="wrbclogo">
         <a href="{{ .Site.BaseURL }}">

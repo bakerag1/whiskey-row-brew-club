@@ -1,6 +1,8 @@
 ---
 title: 20B - American Stout
 category: 20
+aliases: 
+  - "20B"
 ---
 
 ABV: 5-7%  

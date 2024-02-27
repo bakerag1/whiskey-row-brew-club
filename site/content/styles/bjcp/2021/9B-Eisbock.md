@@ -1,6 +1,8 @@
 ---
 title: 9B - Eisbock
 category: 9
+aliases: 
+  - "9B"
 ---
 
 ABV: 9-14%  

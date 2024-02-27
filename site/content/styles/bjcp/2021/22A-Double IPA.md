@@ -1,6 +1,8 @@
 ---
 title: 22A - Double IPA
 category: 22
+aliases: 
+  - "22A"
 ---
 
 ABV: 7.5-10%  

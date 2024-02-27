@@ -1,6 +1,8 @@
 ---
 title: 7A - Vienna Lager
 category: 7
+aliases: 
+  - "7A"
 ---
 
 ABV: 4.7-5.5%  

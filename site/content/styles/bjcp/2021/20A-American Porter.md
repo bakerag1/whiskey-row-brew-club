@@ -1,6 +1,8 @@
 ---
 title: 20A - American Porter
 category: 20
+aliases: 
+  - "20A"
 ---
 
 ABV: 4.8-6.5%  

@@ -1,6 +1,8 @@
 ---
 title: 14B - Scottish Heavy
 category: 14
+aliases: 
+  - "14B"
 ---
 
 ABV: 3.3-3.9%  

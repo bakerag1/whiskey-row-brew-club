@@ -1,6 +1,8 @@
 ---
 title: 13A - Dark Mild
 category: 13
+aliases: 
+  - "13A"
 ---
 
 ABV: 3-3.8%  

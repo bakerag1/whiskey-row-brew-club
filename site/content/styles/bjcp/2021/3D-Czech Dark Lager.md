@@ -1,6 +1,8 @@
 ---
 title: 3D - Czech Dark Lager
 category: 3
+aliases: 
+  - "3D"
 ---
 
 ABV: 4.4-5.8%  

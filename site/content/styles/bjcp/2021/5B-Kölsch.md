@@ -1,6 +1,8 @@
 ---
 title: 5B - Kölsch
 category: 5
+aliases: 
+  - "5B"
 ---
 
 ABV: 4.4-5.2%  

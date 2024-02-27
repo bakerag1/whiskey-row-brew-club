@@ -1,6 +1,8 @@
 ---
 title: X1 - Dorada Pampeana
 category: 100
+aliases: 
+  - "X1"
 ---
 
 ABV: 4.3-5.5%  

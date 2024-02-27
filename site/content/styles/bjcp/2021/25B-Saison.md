@@ -1,6 +1,8 @@
 ---
 title: 25B - Saison
 category: 25
+aliases: 
+  - "25B"
 ---
 
 ABV: 5-7%  

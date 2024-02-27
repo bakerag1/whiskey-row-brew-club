@@ -1,6 +1,8 @@
 ---
 title: X3 - Italian Grape Ale
 category: 100
+aliases: 
+  - "X3"
 ---
 
 ABV: 4.5-12%  

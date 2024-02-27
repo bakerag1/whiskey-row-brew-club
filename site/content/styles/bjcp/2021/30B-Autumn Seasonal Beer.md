@@ -1,6 +1,8 @@
 ---
 title: 30B - Autumn Seasonal Beer
 category: 30
+aliases: 
+  - "30B"
 ---
 
 ABV: 0-0%  

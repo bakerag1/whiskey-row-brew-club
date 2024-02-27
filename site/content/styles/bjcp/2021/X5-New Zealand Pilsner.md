@@ -1,6 +1,8 @@
 ---
 title: X5 - New Zealand Pilsner
 category: 100
+aliases: 
+  - "X5"
 ---
 
 ABV: 4.5-5.8%  

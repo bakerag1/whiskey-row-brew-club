@@ -1,6 +1,8 @@
 ---
 title: 31B - Alternative Sugar Beer
 category: 31
+aliases: 
+  - "31B"
 ---
 
 ABV: 0-0%  

@@ -1,6 +1,8 @@
 ---
 title: X2 - IPA Argenta
 category: 100
+aliases: 
+  - "X2"
 ---
 
 ABV: 5-6.5%  

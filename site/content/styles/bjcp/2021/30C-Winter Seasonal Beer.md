@@ -1,6 +1,8 @@
 ---
 title: 30C - Winter Seasonal Beer
 category: 30
+aliases: 
+  - "30C"
 ---
 
 ABV: 0-0%  

@@ -1,6 +1,8 @@
 ---
 title: 3C - Czech Amber Lager
 category: 3
+aliases: 
+  - "3C"
 ---
 
 ABV: 4.4-5.8%  

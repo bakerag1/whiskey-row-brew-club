@@ -1,6 +1,8 @@
 ---
 title: 17D - English Barley Wine
 category: 17
+aliases: 
+  - "17D"
 ---
 
 ABV: 8-12%  

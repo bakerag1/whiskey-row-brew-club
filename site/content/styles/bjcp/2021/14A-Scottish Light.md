@@ -1,6 +1,8 @@
 ---
 title: 14A - Scottish Light
 category: 14
+aliases: 
+  - "14A"
 ---
 
 ABV: 2.5-3.3%  

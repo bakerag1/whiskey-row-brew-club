@@ -1,6 +1,8 @@
 ---
 title: 29D - Grape Ale
 category: 29
+aliases: 
+  - "29D"
 ---
 
 ABV: 6-8.5%  

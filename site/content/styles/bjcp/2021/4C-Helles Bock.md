@@ -1,6 +1,8 @@
 ---
 title: 4C - Helles Bock
 category: 4
+aliases: 
+  - "4C"
 ---
 
 ABV: 6.3-7.4%  

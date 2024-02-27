@@ -1,0 +1,158 @@
+winners:
+  2023: 
+    - name: Wes Mueller
+      post: /posts/2023-brewer-of-the-year-wes-mueller
+  2022: 
+    - name: John Allen
+      post: /posts/2022-brewer-of-the-year-john-allen
+  2021: 
+    - name: John Allen
+  2019: 
+    - name: Kenny
+compTypes:
+  - id: gauntlet
+    displayName: Gauntlet
+    description: monthy competitions for the club
+    points:
+      first: 3
+      second: 2
+      third: 1
+  - id: club
+    displayName: WRBC Sanctioned Competition
+    description: Whiskey Row Brew Club hosted competition
+    points:
+      first: 3
+      second: 2
+      third: 1
+  - id: NHC
+    displayName: National Homebrew Competition
+    description: The biggest homebrew competition in the world, hosted by the AHA
+    points:
+      first: 6
+      second: 4
+      third: 2
+      round1-first: 3
+      round1-second: 2
+      round1-third: 1
+      breweroftheyear: 
+      misc:
+  - id: AZ-BJCP
+    displayName: BJCP sanctioned competition in Arizona
+    points:
+      first: 3
+      second: 2
+      third: 1
+      bos: 4
+schedule:
+  2024:
+    - date: 2024-01-18
+      style:
+        name: Munich Dunkel
+        guide: bjcp
+        guideYear: 2021
+        category: 8A
+      compType: gauntlet
+      winners:
+        - name: Andrew
+          recipeLink:
+          position: first
+        - name: Susan
+          position: second
+        - name: Tom
+          position: third
+    - date: 2024-02-15
+      style:
+        name: Baltic Porter
+        guide: bjcp
+        guideYear: 2021
+        category: 9C
+      compType: gauntlet
+      winners:
+        - name: Andrew
+          recipeLink:
+          position: first
+        - name: Susan
+          position: second
+        - name: Susan
+          position: third
+    - date: 2024-03-21
+      style:
+        name: California Common
+        guide: bjcp
+        guideYear: 2021
+        category: 19B
+      compType: gauntlet
+    - date: 2024-04-07
+      info: ASH Cactus Classic
+      link: https://beerawardsplatform.com/2024-ash-cactus-classic
+      compType: AZ-BJCP
+    - date: 2024-04-18
+      style:
+        name: American Pale Ale
+        guide: bjcp
+        guideYear: 2021
+        category: 18B
+      compType: gauntlet
+    - date: 2024-04-18
+      info: Lazy-G Pro-Am Competition
+      link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
+      style:
+        name: American Pale Ale
+        guide: bjcp
+        guideYear: 2021
+        category: 18B
+      compType: club
+    - date: 2024-05-16
+      style:
+        name: Modelo Especial clone
+      compType: gauntlet
+    - date: 2024-06-20
+      style:
+        name: TBD
+      compType: gauntlet
+    - date: 2024-07-20
+      info: Horseshoes & Homebrews
+      style:
+        name: Session (Declare your style)
+      compType: gauntlet
+    - date: 2024-07-01
+      info: National Homebrew Competition - first round
+      link: https://www.homebrewersassociation.org/news/get-ready-registration-opens-in-1-week/
+      compType: NHC
+    - date: 2024-08-15
+      style:
+        name: Farmhouse (declare your style)
+      compType: gauntlet
+    - date: 2024-09-19
+      style:
+        name: Märzen
+        guide: bjcp
+        guideYear: 2021
+        category: 6A
+      compType: gauntlet
+    - date: 2024-10-17
+      style:
+        name: British Strong
+        guide: bjcp
+        guideYear: 2021
+        category: 17A
+      compType: gauntlet
+    - date: 2024-10-01
+      info: ASH Copper State Cup
+      compType: AZ-BJCP
+    - date: 2024-11-21
+      info: AZ Mead & Cider Competition
+      compType: AZ-BJCP
+    - date: 2024-11-21
+      style:
+        name: Belgian Dubbel
+        guide: bjcp
+        guideYear: 2021
+        category: 16B
+      compType: gauntlet
+    - date: 2024-12-17
+      info: Holiday Party (date subject to change)
+      style:
+        name: TBD
+      compType: gauntlet
+      

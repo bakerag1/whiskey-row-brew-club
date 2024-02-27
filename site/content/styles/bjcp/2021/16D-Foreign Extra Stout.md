@@ -1,6 +1,8 @@
 ---
 title: 16D - Foreign Extra Stout
 category: 16
+aliases: 
+  - "16D"
 ---
 
 ABV: 6.3-8%  

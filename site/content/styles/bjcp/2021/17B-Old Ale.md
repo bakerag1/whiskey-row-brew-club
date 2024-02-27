@@ -1,6 +1,8 @@
 ---
 title: 17B - Old Ale
 category: 17
+aliases: 
+  - "17B"
 ---
 
 ABV: 5.5-9%  

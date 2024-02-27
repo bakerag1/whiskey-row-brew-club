@@ -1,6 +1,8 @@
 ---
 title: 29B - Fruit and Spice Beer
 category: 29
+aliases: 
+  - "29B"
 ---
 
 ABV: 0-0%  

@@ -1,6 +1,8 @@
 ---
 title: 25C - Belgian Golden Strong Ale
 category: 25
+aliases: 
+  - "25C"
 ---
 
 ABV: 7.5-10.5%  

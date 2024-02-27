@@ -1,6 +1,8 @@
 ---
 title: 24C - Bière de Garde
 category: 24
+aliases: 
+  - "24C"
 ---
 
 ABV: 6-8.5%  

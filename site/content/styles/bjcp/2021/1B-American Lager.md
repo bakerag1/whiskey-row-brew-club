@@ -1,6 +1,8 @@
 ---
 title: 1B - American Lager
 category: 1
+aliases: 
+  - "1B"
 ---
 
 ABV: 4.2-5.3%  

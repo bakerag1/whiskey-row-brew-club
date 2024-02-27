@@ -1,6 +1,8 @@
 ---
 title: 4A - Munich Helles
 category: 4
+aliases: 
+  - "4A"
 ---
 
 ABV: 4.7-5.4%  

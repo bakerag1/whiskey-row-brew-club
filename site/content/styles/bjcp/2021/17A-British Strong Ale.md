@@ -1,6 +1,8 @@
 ---
 title: 17A - British Strong Ale
 category: 17
+aliases: 
+  - "17A"
 ---
 
 ABV: 5.5-8%  

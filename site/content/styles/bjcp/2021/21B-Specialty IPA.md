@@ -1,6 +1,8 @@
 ---
 title: 21B - Specialty IPA
 category: 21
+aliases: 
+  - "21B"
 ---
 
 ABV: 5.5-9%  

@@ -1,6 +1,8 @@
 ---
 title: 26A - Belgian Single
 category: 26
+aliases: 
+  - "26A"
 ---
 
 ABV: 4.8-6%  

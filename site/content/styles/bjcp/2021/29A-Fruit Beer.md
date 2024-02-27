@@ -1,6 +1,8 @@
 ---
 title: 29A - Fruit Beer
 category: 29
+aliases: 
+  - "29A"
 ---
 
 ABV: 0-0%  

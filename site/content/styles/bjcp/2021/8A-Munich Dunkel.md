@@ -1,6 +1,8 @@
 ---
 title: 8A - Munich Dunkel
 category: 8
+aliases: 
+  - "8A"
 ---
 
 ABV: 4.5-5.6%  

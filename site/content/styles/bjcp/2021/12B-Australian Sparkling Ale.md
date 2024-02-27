@@ -1,6 +1,8 @@
 ---
 title: 12B - Australian Sparkling Ale
 category: 12
+aliases: 
+  - "12B"
 ---
 
 ABV: 4.5-6%  

@@ -1,6 +1,8 @@
 ---
 title: 22C - American Barleywine
 category: 22
+aliases: 
+  - "22C"
 ---
 
 ABV: 8-12%  

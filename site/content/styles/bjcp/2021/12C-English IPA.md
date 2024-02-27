@@ -1,6 +1,8 @@
 ---
 title: 12C - English IPA
 category: 12
+aliases: 
+  - "12C"
 ---
 
 ABV: 5-7.5%  

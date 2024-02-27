@@ -1,6 +1,8 @@
 ---
 title: 1C - Cream Ale
 category: 1
+aliases: 
+  - "1C"
 ---
 
 ABV: 4.2-5.6%  

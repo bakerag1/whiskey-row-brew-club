@@ -1,6 +1,8 @@
 ---
 title: 15A - Irish Red Ale
 category: 15
+aliases: 
+  - "15A"
 ---
 
 ABV: 3.8-5%  

@@ -1,6 +1,8 @@
 ---
 title: 26C - Belgian Tripel
 category: 26
+aliases: 
+  - "26C"
 ---
 
 ABV: 7.5-9.5%  

@@ -1,6 +1,8 @@
 ---
 title: 7B - Altbier
 category: 7
+aliases: 
+  - "7B"
 ---
 
 ABV: 4.3-5.5%  

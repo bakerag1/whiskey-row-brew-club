@@ -1,6 +1,8 @@
 ---
 title: 23E - Gueuze
 category: 23
+aliases: 
+  - "23E"
 ---
 
 ABV: 5-8%  

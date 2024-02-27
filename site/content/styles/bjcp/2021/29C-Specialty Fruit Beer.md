@@ -1,6 +1,8 @@
 ---
 title: 29C - Specialty Fruit Beer
 category: 29
+aliases: 
+  - "29C"
 ---
 
 ABV: 0-0%  

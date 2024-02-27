@@ -1,6 +1,8 @@
 ---
 title: 16A - Sweet Stout
 category: 16
+aliases: 
+  - "16A"
 ---
 
 ABV: 4-6%  

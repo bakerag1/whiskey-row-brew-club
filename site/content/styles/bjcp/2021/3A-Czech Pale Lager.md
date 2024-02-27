@@ -1,6 +1,8 @@
 ---
 title: 3A - Czech Pale Lager
 category: 3
+aliases: 
+  - "3A"
 ---
 
 ABV: 3-4.1%  

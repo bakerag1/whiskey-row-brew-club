@@ -1,6 +1,8 @@
 ---
 title: 32A - Classic Style Smoked Beer
 category: 32
+aliases: 
+  - "32A"
 ---
 
 ABV: 0-0%  

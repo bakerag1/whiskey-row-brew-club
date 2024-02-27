@@ -1,6 +1,8 @@
 ---
 title: 34B - Mixed-Style Beer
 category: 34
+aliases: 
+  - "34B"
 ---
 
 ABV: 0-0%  

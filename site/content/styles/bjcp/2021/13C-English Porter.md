@@ -1,6 +1,8 @@
 ---
 title: 13C - English Porter
 category: 13
+aliases: 
+  - "13C"
 ---
 
 ABV: 4-5.4%  

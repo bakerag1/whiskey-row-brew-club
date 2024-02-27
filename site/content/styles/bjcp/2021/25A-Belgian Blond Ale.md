@@ -1,6 +1,8 @@
 ---
 title: 25A - Belgian Blond Ale
 category: 25
+aliases: 
+  - "25A"
 ---
 
 ABV: 6-7.5%  

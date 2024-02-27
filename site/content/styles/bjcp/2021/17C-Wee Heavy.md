@@ -1,6 +1,8 @@
 ---
 title: 17C - Wee Heavy
 category: 17
+aliases: 
+  - "17C"
 ---
 
 ABV: 6.5-10%  

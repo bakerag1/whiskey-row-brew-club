@@ -1,6 +1,8 @@
 ---
 title: 23C - Oud Bruin
 category: 23
+aliases: 
+  - "23C"
 ---
 
 ABV: 4-8%  

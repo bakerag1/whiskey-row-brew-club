@@ -1,6 +1,8 @@
 ---
 title: 19A - American Amber Ale
 category: 19
+aliases: 
+  - "19A"
 ---
 
 ABV: 4.5-6.2%  

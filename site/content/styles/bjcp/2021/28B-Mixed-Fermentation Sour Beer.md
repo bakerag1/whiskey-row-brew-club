@@ -1,6 +1,8 @@
 ---
 title: 28B - Mixed-Fermentation Sour Beer
 category: 28
+aliases: 
+  - "28B"
 ---
 
 ABV: 0-0%  

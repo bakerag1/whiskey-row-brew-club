@@ -1,6 +1,8 @@
 ---
 title: 8B - Schwarzbier
 category: 8
+aliases: 
+  - "8B"
 ---
 
 ABV: 4.4-5.4%  

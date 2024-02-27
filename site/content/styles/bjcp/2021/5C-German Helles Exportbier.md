@@ -1,6 +1,8 @@
 ---
 title: 5C - German Helles Exportbier
 category: 5
+aliases: 
+  - "5C"
 ---
 
 ABV: 5-6%  

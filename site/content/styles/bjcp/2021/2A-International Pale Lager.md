@@ -1,6 +1,8 @@
 ---
 title: 2A - International Pale Lager
 category: 2
+aliases: 
+  - "2A"
 ---
 
 ABV: 4.5-6%  

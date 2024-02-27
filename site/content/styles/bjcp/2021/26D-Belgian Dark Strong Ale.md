@@ -1,6 +1,8 @@
 ---
 title: 26D - Belgian Dark Strong Ale
 category: 26
+aliases: 
+  - "26D"
 ---
 
 ABV: 8-12%  

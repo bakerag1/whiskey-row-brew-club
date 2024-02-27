@@ -1,6 +1,6 @@
 {{ define "main" -}}
 <nav>
-  <a href="{{ .CurrentSection.RelPermalink }}">Home</a>
+  <a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a>
   {{ range .CurrentSection.Pages }}
      | <a href="{{ .RelPermalink}}">{{ .LinkTitle }}</a>
   {{ end }}
@@ -8,7 +8,6 @@
 <div class="post">
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ . }}
   {{ if .Params.Gallery }}
     {{ partial "image-gallery" }}
   {{ end }}

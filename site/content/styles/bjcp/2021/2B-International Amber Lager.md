@@ -1,6 +1,8 @@
 ---
 title: 2B - International Amber Lager
 category: 2
+aliases: 
+  - "2B"
 ---
 
 ABV: 4.5-6%  

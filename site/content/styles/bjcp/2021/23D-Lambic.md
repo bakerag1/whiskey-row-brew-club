@@ -1,6 +1,8 @@
 ---
 title: 23D - Lambic
 category: 23
+aliases: 
+  - "23D"
 ---
 
 ABV: 5-6.5%  

@@ -1,6 +1,8 @@
 ---
 title: 34A - Commercial Specialty Beer
 category: 34
+aliases: 
+  - "34A"
 ---
 
 ABV: 0-0%  

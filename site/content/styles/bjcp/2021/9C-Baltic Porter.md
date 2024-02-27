@@ -1,6 +1,8 @@
 ---
 title: 9C - Baltic Porter
 category: 9
+aliases: 
+  - "9C"
 ---
 
 ABV: 6.5-9.5%  

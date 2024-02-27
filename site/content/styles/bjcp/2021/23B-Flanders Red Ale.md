@@ -1,6 +1,8 @@
 ---
 title: 23B - Flanders Red Ale
 category: 23
+aliases: 
+  - "23B"
 ---
 
 ABV: 4.6-6.5%  

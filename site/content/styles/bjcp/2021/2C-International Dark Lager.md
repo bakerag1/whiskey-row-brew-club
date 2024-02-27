@@ -1,6 +1,8 @@
 ---
 title: 2C - International Dark Lager
 category: 2
+aliases: 
+  - "2C"
 ---
 
 ABV: 4.2-6%  

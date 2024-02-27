@@ -1,6 +1,8 @@
 ---
 title: 30D - Specialty Spice Beer
 category: 30
+aliases: 
+  - "30D"
 ---
 
 ABV: 0-0%  

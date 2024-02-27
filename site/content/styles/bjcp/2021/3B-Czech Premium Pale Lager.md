@@ -1,6 +1,8 @@
 ---
 title: 3B - Czech Premium Pale Lager
 category: 3
+aliases: 
+  - "3B"
 ---
 
 ABV: 4.2-5.8%  

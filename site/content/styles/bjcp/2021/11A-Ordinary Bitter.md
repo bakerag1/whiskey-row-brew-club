@@ -1,6 +1,8 @@
 ---
 title: 11A - Ordinary Bitter
 category: 11
+aliases: 
+  - "11A"
 ---
 
 ABV: 3.2-3.8%  

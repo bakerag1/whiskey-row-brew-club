@@ -1,6 +1,8 @@
 ---
 title: 23A - Berliner Weisse
 category: 23
+aliases: 
+  - "23A"
 ---
 
 ABV: 2.8-3.8%  

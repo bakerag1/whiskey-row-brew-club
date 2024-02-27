@@ -1,6 +1,8 @@
 ---
 title: 10C - Weizenbock
 category: 10
+aliases: 
+  - "10C"
 ---
 
 ABV: 6.5-9%  

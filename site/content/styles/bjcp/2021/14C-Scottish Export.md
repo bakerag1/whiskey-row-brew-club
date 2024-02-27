@@ -1,6 +1,8 @@
 ---
 title: 14C - Scottish Export
 category: 14
+aliases: 
+  - "14C"
 ---
 
 ABV: 3.9-6%  

@@ -1,6 +1,8 @@
 ---
 title: 26B - Belgian Dubbel
 category: 26
+aliases: 
+  - "26B"
 ---
 
 ABV: 6-7.6%  

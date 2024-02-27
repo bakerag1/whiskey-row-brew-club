@@ -1,6 +1,8 @@
 ---
 title: 5A - German Leichtbier
 category: 5
+aliases: 
+  - "5A"
 ---
 
 ABV: 2.4-3.6%  

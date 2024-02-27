@@ -1,6 +1,8 @@
 ---
 title: 22B - American Strong Ale
 category: 22
+aliases: 
+  - "22B"
 ---
 
 ABV: 6.3-10%  

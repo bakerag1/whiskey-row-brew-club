@@ -1,6 +1,8 @@
 ---
 title: 23F - Fruit Lambic
 category: 23
+aliases: 
+  - "23F"
 ---
 
 ABV: 5-7%  

@@ -1,6 +1,8 @@
 ---
 title: 28D - Straight Sour Beer
 category: 28
+aliases: 
+  - "28D"
 ---
 
 ABV: 4.5-7%  

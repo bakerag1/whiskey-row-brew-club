@@ -1,6 +1,8 @@
 ---
 title: 6B - Rauchbier
 category: 6
+aliases: 
+  - "6B"
 ---
 
 ABV: 4.8-6%  

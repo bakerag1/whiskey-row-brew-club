@@ -1,6 +1,8 @@
 ---
 title: 18A - Blonde Ale
 category: 18
+aliases: 
+  - "18A"
 ---
 
 ABV: 3.8-5.5%  

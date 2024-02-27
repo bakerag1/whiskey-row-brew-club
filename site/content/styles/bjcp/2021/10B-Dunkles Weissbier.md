@@ -1,6 +1,8 @@
 ---
 title: 10B - Dunkles Weissbier
 category: 10
+aliases: 
+  - "10B"
 ---
 
 ABV: 4.3-5.6%  

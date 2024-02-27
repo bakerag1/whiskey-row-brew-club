@@ -1,6 +1,8 @@
 ---
 title: 19C - American Brown Ale
 category: 19
+aliases: 
+  - "19C"
 ---
 
 ABV: 4.3-6.2%  

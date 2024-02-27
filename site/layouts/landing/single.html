@@ -1,6 +1,7 @@
 {{ define "main" -}}
 <nav>
-    <a href="{{ .CurrentSection.RelPermalink }}">Home</a>
+    <a href="/">Home</a> | 
+    <a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a>
   {{ range .CurrentSection.Pages }}
      | <a href="{{ .RelPermalink}}">{{ .LinkTitle }}</a>
   {{ end }}

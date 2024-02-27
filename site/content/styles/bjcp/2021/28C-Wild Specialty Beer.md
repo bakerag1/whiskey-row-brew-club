@@ -1,6 +1,8 @@
 ---
 title: 28C - Wild Specialty Beer
 category: 28
+aliases: 
+  - "28C"
 ---
 
 ABV: 0-0%  

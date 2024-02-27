@@ -1,6 +1,8 @@
 ---
 title: 9A - Doppelbock
 category: 9
+aliases: 
+  - "9A"
 ---
 
 ABV: 7-10%  

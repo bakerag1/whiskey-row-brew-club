@@ -1,6 +1,8 @@
 ---
 title: 32B - Specialty Smoked Beer
 category: 32
+aliases: 
+  - "32B"
 ---
 
 ABV: 0-0%  

@@ -1,6 +1,8 @@
 ---
 title: 6C - Dunkles Bock
 category: 6
+aliases: 
+  - "6C"
 ---
 
 ABV: 6.3-7.2%  

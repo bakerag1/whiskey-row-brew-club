@@ -1,6 +1,8 @@
 ---
 title: 4B - Festbier
 category: 4
+aliases: 
+  - "4B"
 ---
 
 ABV: 5.8-6.3%  

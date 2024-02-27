@@ -1,6 +1,8 @@
 ---
 title: 21A - American IPA
 category: 21
+aliases: 
+  - "21A"
 ---
 
 ABV: 5.5-7.5%  

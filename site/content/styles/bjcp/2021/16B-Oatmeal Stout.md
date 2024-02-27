@@ -1,6 +1,8 @@
 ---
 title: 16B - Oatmeal Stout
 category: 16
+aliases: 
+  - "16B"
 ---
 
 ABV: 4.2-5.9%  

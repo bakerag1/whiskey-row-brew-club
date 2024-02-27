@@ -1,6 +1,8 @@
 ---
 title: 6A - Märzen
 category: 6
+aliases: 
+  - "6A"
 ---
 
 ABV: 5.6-6.3%  

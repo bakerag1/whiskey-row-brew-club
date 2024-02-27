@@ -1,6 +1,8 @@
 ---
 title: 15C - Irish Extra Stout
 category: 15
+aliases: 
+  - "15C"
 ---
 
 ABV: 5-6.5%  

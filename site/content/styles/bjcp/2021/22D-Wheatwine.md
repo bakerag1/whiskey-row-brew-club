@@ -1,6 +1,8 @@
 ---
 title: 22D - Wheatwine
 category: 22
+aliases: 
+  - "22D"
 ---
 
 ABV: 8-12%  

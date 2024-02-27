@@ -1,6 +1,8 @@
 ---
 title: 20C - Imperial Stout
 category: 20
+aliases: 
+  - "20C"
 ---
 
 ABV: 8-12%  

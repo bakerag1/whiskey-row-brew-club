@@ -1,6 +1,8 @@
 ---
 title: 16C - Tropical Stout
 category: 16
+aliases: 
+  - "16C"
 ---
 
 ABV: 5.5-8%  

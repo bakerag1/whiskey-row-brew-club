@@ -1,6 +1,8 @@
 ---
 title: 11B - Best Bitter
 category: 11
+aliases: 
+  - "11B"
 ---
 
 ABV: 3.8-4.6%  

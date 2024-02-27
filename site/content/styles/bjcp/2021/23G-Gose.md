@@ -1,6 +1,8 @@
 ---
 title: 23G - Gose
 category: 23
+aliases: 
+  - "23G"
 ---
 
 ABV: 4.2-4.8%  

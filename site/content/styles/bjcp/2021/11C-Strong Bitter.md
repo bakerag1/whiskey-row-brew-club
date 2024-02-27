@@ -1,6 +1,8 @@
 ---
 title: 11C - Strong Bitter
 category: 11
+aliases: 
+  - "11C"
 ---
 
 ABV: 4.6-6.2%  

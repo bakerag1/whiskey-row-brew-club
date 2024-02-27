@@ -1,6 +1,8 @@
 ---
 title: 30A - Spice, Herb, or Vegetable Beer
 category: 30
+aliases: 
+  - "30A"
 ---
 
 ABV: 0-0%  

@@ -1,6 +1,8 @@
 ---
 title: 1A - American Light Lager
 category: 1
+aliases: 
+  - "1A"
 ---
 
 ABV: 2.8-4.2%  

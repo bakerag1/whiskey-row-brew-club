@@ -1,6 +1,8 @@
 ---
 title: 34C - Experimental Beer
 category: 34
+aliases: 
+  - "34C"
 ---
 
 ABV: 0-0%  

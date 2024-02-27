@@ -1,6 +1,8 @@
 ---
 title: 28A - Brett Beer
 category: 28
+aliases: 
+  - "28A"
 ---
 
 ABV: 0-0%  

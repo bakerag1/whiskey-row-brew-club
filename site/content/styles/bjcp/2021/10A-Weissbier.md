@@ -1,6 +1,8 @@
 ---
 title: 10A - Weissbier
 category: 10
+aliases: 
+  - "10A"
 ---
 
 ABV: 4.3-5.6%  

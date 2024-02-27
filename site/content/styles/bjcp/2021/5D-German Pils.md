@@ -1,6 +1,8 @@
 ---
 title: 5D - German Pils
 category: 5
+aliases: 
+  - "5D"
 ---
 
 ABV: 4.4-5.2%  

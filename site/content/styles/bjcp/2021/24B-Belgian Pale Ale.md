@@ -1,6 +1,8 @@
 ---
 title: 24B - Belgian Pale Ale
 category: 24
+aliases: 
+  - "24B"
 ---
 
 ABV: 4.8-5.5%  

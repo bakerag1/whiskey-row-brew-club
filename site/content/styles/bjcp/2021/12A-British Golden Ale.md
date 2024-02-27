@@ -1,6 +1,8 @@
 ---
 title: 12A - British Golden Ale
 category: 12
+aliases: 
+  - "12A"
 ---
 
 ABV: 3.8-5%  

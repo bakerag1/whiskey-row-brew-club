@@ -1,6 +1,8 @@
 ---
 title: 21C - Hazy IPA
 category: 21
+aliases: 
+  - "21C"
 ---
 
 ABV: 6-9%  

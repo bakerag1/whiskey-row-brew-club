@@ -1,6 +1,8 @@
 ---
 title: 24A - Witbier
 category: 24
+aliases: 
+  - "24A"
 ---
 
 ABV: 4.5-5.5%  
