@@ -8,7 +8,11 @@
       src: url('/fonts/gentlemancaller.ttf');
     }
 
-    .card {
+    h3 {
+      font-family: GentCaller;
+    }
+    
+    .card-front {
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
       transition: 0.3s;
       border-radius: 10px;
@@ -16,6 +20,16 @@
       height: 5.4cm;
       background-image: url("/member-card.png");
       background-size: contain;
+    }
+    .card-back {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      transition: 0.3s;
+      border-radius: 10px;
+      width: 8.6cm;
+      height: 5.4cm;
+      background-color: antiquewhite;
+      background-size: contain;
+      text-align: center;
     }
 
     img {
@@ -32,7 +46,7 @@
   </style>
 </head>
 <div>
-  <div class="card">
+  <div class="card-front">
     {{ $v := .Params.QRCode }}
     <img {{ printf "src=%q" $v | safeHTMLAttr }} />
     <p class="name">{{ .Title }}</p>
@@ -40,6 +54,13 @@
       <p style="padding-left: 3mm;">Member Since {{ .Page.Params.MemberSince }}</p>
     {{ end }}
     </p>
+  </div>
+  <div class="card-back">
+    <h3>Discounts</h3>
+    <ul>
+      <li>Brown Bag Burgers + Brewery $1 off Beers</li>
+    </ul>
+  </div>
   </div>
 </div>
 
