@@ -4,7 +4,6 @@ use (
 	./beerstylepages
 	./membercards
 	./newsletter
-	./site/themes/hyde
 	./styles
 	./event-notice
 )

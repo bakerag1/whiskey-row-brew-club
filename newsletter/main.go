@@ -26,12 +26,15 @@ func main() {
 		"modIsZero": func(i int, m int) bool {
 			return i%m == 0 && i != 0
 		},
+		"now": func() string {
+			return time.Now().UTC().String()
+		},
 	}
 
 	var cfg config
 	cfg.getConf()
 
-	f, err := os.Create(fmt.Sprintf("%v-newsletter.html", yyyyMM))
+	f, err := os.Create(fmt.Sprintf("../site/content/posts/%v-news.html", yyyyMM))
 	if err != nil {
 		panic(err)
 	}

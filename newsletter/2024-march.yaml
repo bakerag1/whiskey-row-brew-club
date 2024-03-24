@@ -11,6 +11,7 @@ club-events:
 beer-events:
   - name: Party in the Pines
     info: 6/1 Prescott
+    url: https://partyinthepinesprescott.com/
   - name: Real Wild & Woodsy Brew fest
     info: 6/8 Flagstaff (inconsisitent naming)
     url: https://chooseazbrews.com/real-wild-woodsy-flagstaff/
