@@ -1,10 +1,14 @@
 {{ define "main" -}}
-<ul class="posts">
+<input type="text" id="filter" onkeyup="filter()" 
+placeholder="style name">
+
+<ul id="stylelist" class="posts">
 {{ $pages := collections.Sort .Data.Pages "Params.category" }}
-{{ range $pages -}}
-  <li style="list-style-type: none;">
-    <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
-  </li>
+  {{ range $pages -}}
+    <li style="list-style-type: none;">
+      <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+    </li>
+  {{- end }}
+  </ul>
 {{- end }}
-</ul>
-{{- end }}
+
