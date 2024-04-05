@@ -108,7 +108,7 @@ schedule:
       compType: gauntlet
     - date: 2024-06-20
       style:
-        name: TBD
+        name: Wheat beer (declare your style min. 40% wheat)
       compType: gauntlet
     - date: 2024-07-20
       info: Horseshoes & Homebrews
@@ -153,6 +153,6 @@ schedule:
     - date: 2024-12-17
       info: Holiday Party (date subject to change)
       style:
-        name: TBD
+        name: Best of Show (declare your style)
       compType: gauntlet
       
