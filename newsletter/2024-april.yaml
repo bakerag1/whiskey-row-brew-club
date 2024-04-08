@@ -1,0 +1,75 @@
+club-events:
+  - name: Wren House Brew Day
+    url: https://whiskeyrowbrewclub.com/posts/2024-may-brewday/
+    info: May 5
+  - name: Horseshoes & Homebrews
+    info: Campout July 18-21
+beer-events:
+  - name: Smelter Town's ClarkdALE Beer Fest
+    info: 5/18 12-6 @ Smelter Town Brewery
+    url: https://www.smeltertownbrewery.com/_files/ugd/41c998_03f71caea20645f283d7e3d3db3c13f9.pdf
+  - name: Party in the Pines
+    info: 6/1 Prescott
+    url: https://partyinthepinesprescott.com/
+  - name: Real Wild & Woodsy Brew fest
+    info: 6/8 Flagstaff
+    url: https://chooseazbrews.com/real-wild-woodsy-flagstaff/
+  - name: Whiskey Row Brew Fest
+    info: 6/15 Prescott
+    url: https://prescott.events/whiskey-row-brew-fest
+competitions:
+  - name: Lazy G Pro-Am
+    url: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition
+    info: American Pale Ale - enries due 4/18 at the meeting or coordinate with John A. to turn them in no later than 5/1.
+  - name: National Homebrew Competition
+    url: https://www.homebrewersassociation.org/national-homebrew-competition/
+    info: shipping in May, first round winners announced in July
+meetings:
+  - date: 2024-04-18
+    gauntlet: '<a href="https://whiskeyrowbrewclub.com/styles/bjcp/2021/18b-american-pale-ale/">American Pale Ale(18b)</a>'
+    education: Advancements in Homebrew Equipment
+    location: Cocky's Chicken & Brew
+  - date: 2024-05-16
+    gauntlet: Modelo Especial clone
+    education: Brewing Session Beers
+    location: Cocky's Chicken & Brew
+  - date: 2024-06-20
+    gauntlet: Wheat beer (declare your style min. 40% wheat)
+    education: Temperature Control
+    location: Cocky's Chicken & Brew
+news: |
+  The Lazy G competition is closing in, get your Pale Ale brewed! The entry deadline has been extended to 5/3,
+  you will need to make arrangements with John A. if you are unable to turn yours in at the April General Meeting.
+  The gauntlet is the same style, so there's a good chance we'll all get to sample the winning brews this year!
+  <br><br>
+  Our National Homebrew Day celebration will be May 5th at the Wren House Patio. We'll start brewing at 10am,
+  the beer sales start at 1pm and we'll be making session mead too, members will have access to enough honey for
+  a five gallon batch. We've done a few of these and they are always a blast.
+  <br><br>
+  We have a lot of events this summer, please express your interest through this Google Form
+  <a href="https://forms.gle/WMggFK7pPcM9QAER7">Summer Event Signup</a>
+  <br><br>
+  We've finally nailed down the whole gauntlet calendar for 2024. June is any style wheat beer, must contain a
+  minimum of 40% wheat in the grist, most are good summer beers, but they don't have to be. The holiday party 
+  will be an anything goes best of show: ordinary bitter vs. pastry stout; flanders red vs american light 
+  lager; bring your A game... and your B game!
+
+board:
+  - position: President/Web Admin
+    name: Andrew Baker 
+  - position: Vice President
+    name: John Allen
+  - position: Treasurer
+    name: Greg Gannon
+  - position: Merchandise
+    name: Mike and Jodi Maas 
+  - position: Education
+    name: Seth Kuhnke 
+  - position: Events
+    name: Ashley Kuhnke
+  - position: Membership
+    name: Shelley Deardroff
+  - position: General Secretary
+    name: Stephanie Baker 
+  - position: At-Large
+    name: Tuk Jacobson; Ryan Hawkins; Janine Kauffmann; Wes Meuller
