@@ -15,6 +15,10 @@ Params:
   meta:
     favicon: false
 
+services:
+  googleAnalytics:
+    ID: G-Y9ZG00Q0KH
+    
 Menus:
   main:
     - Weight: 10
