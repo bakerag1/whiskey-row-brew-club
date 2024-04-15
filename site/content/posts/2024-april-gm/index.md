@@ -1,6 +1,6 @@
 ---
 title: April General Meeting
-date: 2024-04-08T15:06:13Z
+date: 2024-04-15T16:13:21Z
 author: bakerag
 ---
 
