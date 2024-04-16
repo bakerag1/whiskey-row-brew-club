@@ -82,10 +82,27 @@ schedule:
         guideYear: 2021
         category: 19B
       compType: gauntlet
+      winners:
+        - name: Susan
+          position: first
+        - name: Wes
+          position: second
+        - name: Tom
+          position: third
     - date: 2024-04-07
       info: ASH Cactus Classic
       link: https://beerawardsplatform.com/2024-ash-cactus-classic
       compType: AZ-BJCP
+      winners:
+        - name: Andrew
+          position: second
+          category: Baltic Porter
+        - name: Susan
+          position: third
+          category: Dry Mead
+        - name: Susan
+          position: second
+          category: Melomel
     - date: 2024-04-18
       style:
         name: American Pale Ale

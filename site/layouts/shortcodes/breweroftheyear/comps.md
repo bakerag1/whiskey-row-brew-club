@@ -20,7 +20,9 @@
     {{ end }}
     {{ with .winners }}
       {{ range . }}
-        &nbsp;&nbsp;{{ .position }}: {{ .name }}{{ with .recipeLink}} - <a href="{{ .recipeLink }}">recipe</a>{{ end }}
+        &nbsp;&nbsp;{{ .position }}: {{ .name }}
+        {{ with .category }} <i>{{ . }}</i> {{ end }}
+        {{ with .recipeLink}} - <a href="{{ .recipeLink }}">recipe</a>{{ end }}
         <br>
       {{ end }}
     {{ end }}
