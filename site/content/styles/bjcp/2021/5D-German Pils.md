@@ -3,6 +3,7 @@ title: 5D - German Pils
 category: 5
 aliases: 
   - "5D"
+examples: ABK Pils Anno 1907, Jever Pilsener, König Pilsener, Paulaner Pils, Bierstadt Slow-Pour Pils, Rothaus Pils, Schönramer Pils, Trumer Pils
 ---
 
 ABV: 4.4-5.2%  
@@ -35,3 +36,6 @@ Adapted from Czech Pilsner to suit brewing conditions in Germany, particularly w
 
 ## Comments
 Modern examples of Pils tend to become paler in color, drier and sharper in finish, and more bitter moving from South to North in Germany, often mirroring increasing sulfates in the water. Pils found in Bavaria tend to be a bit softer in bitterness with more malt flavor and late hop character, yet still with sufficient hops and crispness of finish to differentiate itself from Munich Helles. The use of the term ‘Pils’ is more common in Germany than ‘Pilsner’ to differentiate it from the Czech style, and (some say) to show respect.
+
+## Commercial Examples
+ABK Pils Anno 1907, Jever Pilsener, König Pilsener, Paulaner Pils, Bierstadt Slow-Pour Pils, Rothaus Pils, Schönramer Pils, Trumer Pils

@@ -3,6 +3,7 @@ title: 17C - Wee Heavy
 category: 17
 aliases: 
   - "17C"
+examples: Belhaven Wee Heavy, Broughton Old Jock, McEwan’s Scotch Ale, Orkney Skull Splitter, Traquair House Ale, The Duck-Rabbit Wee Heavy Scotch-Style Ale
 ---
 
 ABV: 6.5-10%  
@@ -35,3 +36,6 @@ Descended from Edinburgh Ales, a stronger malty beer brewed in a range of streng
 
 ## Comments
 A range of strengths is allowable; not all versions are very strong. Also known as “Strong Scotch Ale,” the term “wee heavy” means “small strong” and traces to the beer that made the term famous, Fowler’s Wee Heavy, a 12 Guinea Ale.
+
+## Commercial Examples
+Belhaven Wee Heavy, Broughton Old Jock, McEwan’s Scotch Ale, Orkney Skull Splitter, Traquair House Ale, The Duck-Rabbit Wee Heavy Scotch-Style Ale

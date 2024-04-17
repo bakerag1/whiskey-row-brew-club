@@ -3,6 +3,7 @@ title: 24C - Bière de Garde
 category: 24
 aliases: 
   - "24C"
+examples: Ch’Ti Blonde, Jenlain Ambrée, La Choulette Brune, Russian River Perdition,Saint Sylvestre 3 Monts Blonde, Two Brothers Domaine Dupage
 ---
 
 ABV: 6-8.5%  
@@ -35,3 +36,6 @@ Name roughly means beer for keeping. A traditional farmhouse artisanal ale from 
 
 ## Comments
 Cellar, musty, moldy, or rustic character often mentioned in literature are signs of mishandled imports, not fresh, authentic products. Age and oxidation can also increase fruitiness and caramel flavors, but increase harshness. While caramel and fruit can be part of the style, do not confuse the oxidation character for the proper base beer.
+
+## Commercial Examples
+Ch’Ti Blonde, Jenlain Ambrée, La Choulette Brune, Russian River Perdition,Saint Sylvestre 3 Monts Blonde, Two Brothers Domaine Dupage

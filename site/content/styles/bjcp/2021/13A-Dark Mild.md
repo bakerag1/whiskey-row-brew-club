@@ -3,6 +3,7 @@ title: 13A - Dark Mild
 category: 13
 aliases: 
   - "13A"
+examples: Brain’s Dark,Greene King XX Mild, Hobson’s Champion Mild, Mighty Oak Oscar Wilde, Moorhouse Black Cat, Theakston Traditional Mild
 ---
 
 ABV: 3-3.8%  
@@ -35,3 +36,6 @@ Historically, ‘mild’ was simply an unaged beer, and could be used as an adje
 
 ## Comments
 Most are low-gravity session beers around 3.2%, although some versions may be made in the stronger (4%+) range for export, festivals, seasonal or special occasions. Generally served on cask; session-strength bottled versions don’t often travel well. A wide range of interpretations are possible. Pale (medium amber to light brown) versions exist, but these are even more rare than dark milds; these guidelines only describe the modern dark version.
+
+## Commercial Examples
+Brain’s Dark,Greene King XX Mild, Hobson’s Champion Mild, Mighty Oak Oscar Wilde, Moorhouse Black Cat, Theakston Traditional Mild

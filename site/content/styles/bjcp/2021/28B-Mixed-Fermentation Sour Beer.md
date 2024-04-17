@@ -3,6 +3,7 @@ title: 28B - Mixed-Fermentation Sour Beer
 category: 28
 aliases: 
   - "28B"
+examples: Boulevard Love Child, Jester King Le Petit Prince, Jolly Pumpkin Oro de Calabaza, Lost Abbey Ghosts in the Forest, New Belgium Le Terroir, Russian River Temptation
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Modern American craft beer interpretations of Belgian sour ales, or experimentat
 
 ## Comments
 The base beer style becomes less relevant in this style because the various yeast and bacteria tend to dominate the profile. Bitterness is often reserved since bitter and sour flavors clash on the palate. Inappropriate characteristics include diacetyl, solvent, ropy or viscous texture, and heavy oxidation.
+
+## Commercial Examples
+Boulevard Love Child, Jester King Le Petit Prince, Jolly Pumpkin Oro de Calabaza, Lost Abbey Ghosts in the Forest, New Belgium Le Terroir, Russian River Temptation

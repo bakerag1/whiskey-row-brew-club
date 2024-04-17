@@ -3,6 +3,7 @@ title: 26D - Belgian Dark Strong Ale
 category: 26
 aliases: 
   - "26D"
+examples: Achel Extra Bruin, Boulevard The Sixth Glass, Chimay Blue, Rochefort 10, St. Bernardus Abt 12, Westvleteren 12
 ---
 
 ABV: 8-12%  
@@ -35,3 +36,6 @@ Westvleteren started making their version just before World War II, with Chimay 
 
 ## Comments
 Also known as a Belgian Quad, mainly outside of Belgium (Quadruple is the name of a specific beer). Has a wider range of interpretation than manyother Belgian styles. Traditional versions tend to be drier than many modern commercial versions, which can be rather sweet and full-bodied. Manyexamples are simply known by their strength or color designation. Some might be labeled Grand Cru, but this is more of a statement of quality than style.
+
+## Commercial Examples
+Achel Extra Bruin, Boulevard The Sixth Glass, Chimay Blue, Rochefort 10, St. Bernardus Abt 12, Westvleteren 12

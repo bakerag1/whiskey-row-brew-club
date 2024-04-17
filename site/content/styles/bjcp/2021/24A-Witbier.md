@@ -3,6 +3,7 @@ title: 24A - Witbier
 category: 24
 aliases: 
   - "24A"
+examples: Allagash White, Blanche de Bruxelles, Celis White, Hoegaarden White, Ommegang Witte,St. Bernardus Wit
 ---
 
 ABV: 4.5-5.5%  
@@ -35,3 +36,6 @@ One of a group of medieval Belgian white beers from the Leuven area, it died out
 
 ## Comments
 Historical versions may have had some lactic sourness but this is absent in fresh modern versions. Spicing has some variety, but should not be overdone. Coriander of certain origin or age might give an inappropriate ham or celery character. The beer tends to be perishable, so younger, fresher, properly-handled examples are most desirable. An impression of sweetness is often due to low bitterness, not residual sugar. Most examples seem to be approximately 5% ABV.
+
+## Commercial Examples
+Allagash White, Blanche de Bruxelles, Celis White, Hoegaarden White, Ommegang Witte,St. Bernardus Wit

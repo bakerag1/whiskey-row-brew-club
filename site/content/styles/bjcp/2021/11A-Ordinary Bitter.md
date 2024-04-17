@@ -3,6 +3,7 @@ title: 11A - Ordinary Bitter
 category: 11
 aliases: 
   - "11A"
+examples: Bateman’s XB, Brains Bitter, Brakspear Gravity, Fuller's Chiswick Bitter, Greene King IPA, Tetley’s Original Bitter
 ---
 
 ABV: 3.2-3.8%  
@@ -35,3 +36,6 @@ See comments in category introduction.
 
 ## Comments
 The lowest gravity member of the British Bitter family, typically known to consumers simply as “bitter” (although brewers tend to refer to it as Ordinary Bitter to distinguish it from other members of the family).
+
+## Commercial Examples
+Bateman’s XB, Brains Bitter, Brakspear Gravity, Fuller's Chiswick Bitter, Greene King IPA, Tetley’s Original Bitter

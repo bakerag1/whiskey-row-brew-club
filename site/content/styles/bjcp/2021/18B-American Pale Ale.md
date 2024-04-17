@@ -3,6 +3,7 @@ title: 18B - American Pale Ale
 category: 18
 aliases: 
   - "18B"
+examples: Deschutes Mirror Pond Pale Ale, Half Acre Daisy Cutter Pale Ale, Great Lakes Burning River, La Cumbre Acclimated APA, Sierra Nevada Pale Ale, Stone Pale Ale 2.0
 ---
 
 ABV: 4.5-6.2%  
@@ -35,3 +36,6 @@ A modern American craft beer era adaptation of English pale ale, reflecting indi
 
 ## Comments
 Modern American versions are often just lower gravity IPAs. Traditionally was a style that allowed for experimentation with hop varieties and usage methods, which can now often be found as international adaptations in countries with an emerging craft beer market. Judges should allow for characteristics of modern American or New World hops as they are developed and released.
+
+## Commercial Examples
+Deschutes Mirror Pond Pale Ale, Half Acre Daisy Cutter Pale Ale, Great Lakes Burning River, La Cumbre Acclimated APA, Sierra Nevada Pale Ale, Stone Pale Ale 2.0

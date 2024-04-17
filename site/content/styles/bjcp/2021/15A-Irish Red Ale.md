@@ -3,6 +3,7 @@ title: 15A - Irish Red Ale
 category: 15
 aliases: 
   - "15A"
+examples: Franciscan Well Rebel Red, Kilkenny Irish Beer, Murphy’s Irish Red, O’Hara’s Irish Red Ale, Porterhouse Nitro Red Ale, Smithwick’s Irish Ale
 ---
 
 ABV: 3.8-5%  
@@ -35,3 +36,6 @@ While Ireland has a long ale brewing heritage, the modern Irish Red Ale style is
 
 ## Comments
 The style is fairly broad to allow for examples beyond the traditional ones from Ireland. Irish examples tend to be lower alcohol, grainier, and drier in the finish, while non-Irish versions are often higher in alcohol, sweeter, perhaps more caramelly and estery, and are often seasonal offerings.
+
+## Commercial Examples
+Franciscan Well Rebel Red, Kilkenny Irish Beer, Murphy’s Irish Red, O’Hara’s Irish Red Ale, Porterhouse Nitro Red Ale, Smithwick’s Irish Ale

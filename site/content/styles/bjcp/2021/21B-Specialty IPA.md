@@ -3,6 +3,7 @@ title: 21B - Specialty IPA
 category: 21
 aliases: 
   - "21B"
+examples: 21st Amendment Back in Black, Duck-Rabbit Hoppy Bunny ABA, Stone Sublimely Self-Righteous Black IPA
 ---
 
 ABV: 5.5-9%  
@@ -35,3 +36,6 @@ An American IPA variantfirst commercially produced by Greg Noonan as Blackwatch 
 
 ## Comments
 Most examples are standard strength. Strong examples can sometimes seem like big, hoppy porters if made too extreme, which hurts their drinkability.
+
+## Commercial Examples
+21st Amendment Back in Black, Duck-Rabbit Hoppy Bunny ABA, Stone Sublimely Self-Righteous Black IPA

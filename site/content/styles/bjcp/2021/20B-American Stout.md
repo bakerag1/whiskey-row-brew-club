@@ -3,6 +3,7 @@ title: 20B - American Stout
 category: 20
 aliases: 
   - "20B"
+examples: Avery Out of Bounds Stout, Bell’s Kalamazoo Stout, Deschutes Obsidian Stout, Sierra Nevada Stout, Trillium Secret Stairs
 ---
 
 ABV: 5-7%  
@@ -35,3 +36,6 @@ A modern craft beer and homebrew style that applied a more aggressive American h
 
 ## Comments
 Breweries express individuality through varying the roasted malt profile, malt sweetness and flavor, and the amount of finishing hops used. Generally has bolder roasted malt flavors and hopping than other traditional stouts (except Imperial Stouts). Becoming increasingly hard to find.
+
+## Commercial Examples
+Avery Out of Bounds Stout, Bell’s Kalamazoo Stout, Deschutes Obsidian Stout, Sierra Nevada Stout, Trillium Secret Stairs

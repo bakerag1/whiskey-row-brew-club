@@ -3,6 +3,7 @@ title: 23A - Berliner Weisse
 category: 23
 aliases: 
   - "23A"
+examples: Bayerischer Bahnhof Berliner Style Weisse, Berliner Berg Berliner Weisse, Brauerei Meierei Weiße, Lemke Berlin Budike Weisse, Schell's Brewing Company Schelltheiss, Urban Chestnut Ku’damm
 ---
 
 ABV: 2.8-3.8%  
@@ -35,3 +36,6 @@ A regional specialty of Berlin.Referred to by Napoleon's troops in 1809 as “th
 
 ## Comments
 Any Brettcharacter is restrained, and is typically expressed as fruity and floralnotes, not funky.Aged examples can show a cider, honey, hay, or gentle wildflower character, and sometimes increased acidity.In Germany, it is classified as a Schankbier denoting a small beer of starting gravity in the range 7-8 °P. Fruited or Spiced versions should be entered as 29A Fruit Beer, as 30A Spice, Herb, or Vegetable Beer, or as 29B Fruit and Spice Beer.
+
+## Commercial Examples
+Bayerischer Bahnhof Berliner Style Weisse, Berliner Berg Berliner Weisse, Brauerei Meierei Weiße, Lemke Berlin Budike Weisse, Schell's Brewing Company Schelltheiss, Urban Chestnut Ku’damm

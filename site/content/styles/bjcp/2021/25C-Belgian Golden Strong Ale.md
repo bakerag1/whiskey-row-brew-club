@@ -3,6 +3,7 @@ title: 25C - Belgian Golden Strong Ale
 category: 25
 aliases: 
   - "25C"
+examples: Brigand, Delirium Tremens, Duvel, Judas, Lucifer, Russian River Damnation
 ---
 
 ABV: 7.5-10.5%  
@@ -35,3 +36,6 @@ Developed by the Moortgat brewery after WWI as a response to the growing popular
 
 ## Comments
 References to the devil are included in the names of many commercial examples of this style, referring to their potent alcoholic strength and as a tribute to the original example (Duvel). Traditionally bottle-conditioned.
+
+## Commercial Examples
+Brigand, Delirium Tremens, Duvel, Judas, Lucifer, Russian River Damnation

@@ -3,6 +3,7 @@ title: X3 - Italian Grape Ale
 category: 100
 aliases: 
   - "X3"
+examples: Montegioco Open Mind, Birrificio Barley BB5-10, Birrificio del Forte Il Tralcio, Viess Beer al mosto di gewurtztraminer, CRAK IGA Cabernet, Birrificio Apuano Ninkasi, Luppolajo Mons Rubus
 ---
 
 ABV: 4.5-12%  
@@ -34,3 +35,7 @@ Pils in most of cases or pale base malt with some special malts (if any). Grape 
 Initially brewed at Birrificio Montegioco and Birrificio Barley in 2006-2007, Italian Grape Ale (IGA) is now produced by many Italian craft breweries. It’s also becoming popular in US and other wine countries. It represents a communion between beer and wine promoted to the large local availability of different varieties of grapes across the country. They can be an expression of territory, biodiversity and creativity of the brewer. Normally seen as a specialty beer in the range of products of the brewery. Breweries call “Wild IGA” or “Sour IGA” any wild/sour version of the style.
 
 ## Comments
+
+
+## Commercial Examples
+Montegioco Open Mind, Birrificio Barley BB5-10, Birrificio del Forte Il Tralcio, Viess Beer al mosto di gewurtztraminer, CRAK IGA Cabernet, Birrificio Apuano Ninkasi, Luppolajo Mons Rubus

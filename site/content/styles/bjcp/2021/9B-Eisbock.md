@@ -3,6 +3,7 @@ title: 9B - Eisbock
 category: 9
 aliases: 
   - "9B"
+examples: Kulmbacher Eisbock
 ---
 
 ABV: 9-14%  
@@ -35,3 +36,6 @@ Originating in Kulmbach in Franconiain the late 1800s, although exact origins ar
 
 ## Comments
 Extended lagering is often needed post-freezing to smooth the alcohol and enhance the malt and alcohol balance. Pronounced “ICE-bock.”
+
+## Commercial Examples
+Kulmbacher Eisbock

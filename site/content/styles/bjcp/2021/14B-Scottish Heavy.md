@@ -3,6 +3,7 @@ title: 14B - Scottish Heavy
 category: 14
 aliases: 
   - "14B"
+examples: McEwan's 70/-, Orkney Raven Ale
 ---
 
 ABV: 3.3-3.9%  
@@ -35,3 +36,6 @@ See category introduction. The Shilling ale names were used for mild (unaged) be
 
 ## Comments
 See category introduction for detailed comments. May not seem as bitter as specifications indicate due to higher finishing gravity and residual sweetness.Do not mis-perceive the light roasty dryness as smoke; smoke is not present in these beers.
+
+## Commercial Examples
+McEwan's 70/-, Orkney Raven Ale

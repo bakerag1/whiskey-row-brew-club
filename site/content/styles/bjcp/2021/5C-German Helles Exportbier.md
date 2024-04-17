@@ -3,6 +3,7 @@ title: 5C - German Helles Exportbier
 category: 5
 aliases: 
   - "5C"
+examples: Chuckanut Export Dortmunder Lager, DAB Dortmunder Export, Dortmunder Kronen, Landshuter Edel Hell, Müllerbräu Export Gold, Schönramer Gold
 ---
 
 ABV: 5-6%  
@@ -35,3 +36,6 @@ Developed in Dortmund in the Ruhr industrial region in the 1870s in response to 
 
 ## Comments
 Also known Dortmunder Export, Dortmunder, Export, or simply a Dort. Called Export within Germany, and often Dortmunder elsewhere, Export is also a beer strength descriptor under German brewing tradition, and could be applied to other styles. Splits the difference between a German Pils and a Munich Helles in several aspects: color, hop-malt balance, finish, bitterness.
+
+## Commercial Examples
+Chuckanut Export Dortmunder Lager, DAB Dortmunder Export, Dortmunder Kronen, Landshuter Edel Hell, Müllerbräu Export Gold, Schönramer Gold

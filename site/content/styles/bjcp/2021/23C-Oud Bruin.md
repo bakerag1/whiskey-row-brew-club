@@ -3,6 +3,7 @@ title: 23C - Oud Bruin
 category: 23
 aliases: 
   - "23C"
+examples: Ichtegem Oud Bruin, Liefmans Goudenband, Liefmans Oud Bruin, Petrus Roodbruin, pFriem Oud Bruin, VanderGhinste Roodbruin
 ---
 
 ABV: 4-8%  
@@ -35,3 +36,6 @@ An indigenous beer of East Flanders, typified by the products of the Liefman bre
 
 ## Comments
 Long aging and blending of young and aged beer may occur, adding smoothness and complexity and balancing any harsh, sour character. Traditionally, this style was designed to lay down so examples with a moderate aged character are considered superior to younger examples. Fruited versions should be entered as a29A Fruit Beer.
+
+## Commercial Examples
+Ichtegem Oud Bruin, Liefmans Goudenband, Liefmans Oud Bruin, Petrus Roodbruin, pFriem Oud Bruin, VanderGhinste Roodbruin

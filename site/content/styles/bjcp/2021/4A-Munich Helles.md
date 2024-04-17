@@ -3,6 +3,7 @@ title: 4A - Munich Helles
 category: 4
 aliases: 
   - "4A"
+examples: Augustiner Lagerbier Hell, Hacker-Pschorr Münchner Gold, Löwenbraü Original, Paulaner Münchner Lager, Schönramer Hell, Spaten MünchnerHell, Weihenstephaner Original Heles
 ---
 
 ABV: 4.7-5.4%  
@@ -35,3 +36,6 @@ Created in Munich in 1894 to compete with pale Pilsner-type beers, often first c
 
 ## Comments
 Very fresh examples can have amore prominent malt and hop character that fadesover time,as is often noticed in exported beers. Helles in Munich tends to be a lighter version than those outside the city. May be called Helles Lagerbier.
+
+## Commercial Examples
+Augustiner Lagerbier Hell, Hacker-Pschorr Münchner Gold, Löwenbraü Original, Paulaner Münchner Lager, Schönramer Hell, Spaten MünchnerHell, Weihenstephaner Original Heles

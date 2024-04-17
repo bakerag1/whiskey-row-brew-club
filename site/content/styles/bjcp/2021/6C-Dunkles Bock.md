@@ -3,6 +3,7 @@ title: 6C - Dunkles Bock
 category: 6
 aliases: 
   - "6C"
+examples: Aass Bock, Einbecker Ur-Bock Dunkel, Kneitinger Bock, Lindeboom Bock, Schell’s Bock, Penn Brewery St. Nikolaus Bock
 ---
 
 ABV: 6.3-7.2%  
@@ -35,3 +36,6 @@ Originated in the Northern German city of Einbeck, which was a brewing center an
 
 ## Comments
 Decoction mashing plays an important part of flavor development, as it enhances the caramel and Maillard flavor aspects of the malt.
+
+## Commercial Examples
+Aass Bock, Einbecker Ur-Bock Dunkel, Kneitinger Bock, Lindeboom Bock, Schell’s Bock, Penn Brewery St. Nikolaus Bock

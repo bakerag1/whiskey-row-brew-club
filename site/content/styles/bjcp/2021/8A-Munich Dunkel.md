@@ -3,6 +3,7 @@ title: 8A - Munich Dunkel
 category: 8
 aliases: 
   - "8A"
+examples: Ayinger Altbairisch Dunkel, Ettaler Kloster-Dunkel, Eittinger Urtyp Dunkel, Hacker-Pschorr Münchner Dunkel, Hofbräuhaus Dunkel, Weltenburger Kloster Barock-Dunkel
 ---
 
 ABV: 4.5-5.6%  
@@ -35,3 +36,6 @@ Developed at Spaten in the 1830s after the development of Munich malt, and seen 
 
 ## Comments
 A traditional Munich style, the dark companion to Helles. Franconian versions are more bitter than ones from Munich.
+
+## Commercial Examples
+Ayinger Altbairisch Dunkel, Ettaler Kloster-Dunkel, Eittinger Urtyp Dunkel, Hacker-Pschorr Münchner Dunkel, Hofbräuhaus Dunkel, Weltenburger Kloster Barock-Dunkel

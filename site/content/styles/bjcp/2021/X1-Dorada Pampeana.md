@@ -3,6 +3,7 @@ title: X1 - Dorada Pampeana
 category: 100
 aliases: 
   - "X1"
+examples: 
 ---
 
 ABV: 4.3-5.5%  
@@ -34,3 +35,6 @@ aroma dulce maltoso ligero a moderado. Es aceptable el aroma frutal bajo a moder
 
 
 ## Comments
+
+
+## Commercial Examples

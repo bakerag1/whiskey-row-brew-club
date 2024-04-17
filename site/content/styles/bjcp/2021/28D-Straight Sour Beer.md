@@ -3,6 +3,7 @@ title: 28D - Straight Sour Beer
 category: 28
 aliases: 
   - "28D"
+examples: Rarely found, as this style is typically the base for other Specialty-Type Beers.
 ---
 
 ABV: 4.5-7%  
@@ -35,3 +36,6 @@ German brewing scientist, Otto Francke, developed what was to become known as th
 
 ## Comments
 A stronger version of a Berliner Weisse-type beer with less restrictive grist, and no Brett. This beer style istypically are used as a base for modern beers that are heavily flavored with fruit, spices, sugars, etc. – those should be entered in 28C Wild Specialty Beer.
+
+## Commercial Examples
+Rarely found, as this style is typically the base for other Specialty-Type Beers.

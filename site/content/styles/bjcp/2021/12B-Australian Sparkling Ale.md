@@ -3,6 +3,7 @@ title: 12B - Australian Sparkling Ale
 category: 12
 aliases: 
   - "12B"
+examples: Coopers Sparkling Ale
 ---
 
 ABV: 4.5-6%  
@@ -35,3 +36,6 @@ Brewing records show that the majority of Australian beer brewed in the 19th cen
 
 ## Comments
 Coopers has been making their flagship Sparkling Ale since 1862, although the formulation has changed over the years. Presently the beer will have brilliant clarity if decanted, but publicans often pour most of the beer into a glass then swirl the bottle and dump in all the yeast. In some bars, the bottle is rolled along the bar. When served on draught, the brewery instructs publicans to invert the keg to rouse the yeast. A cloudy appearance for the style seems to be a modern consumer preference. Always naturally carbonated, even in the keg. A present-use ale, best enjoyed fresh.
+
+## Commercial Examples
+Coopers Sparkling Ale

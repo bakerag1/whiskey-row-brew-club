@@ -3,6 +3,7 @@ title: 22D - Wheatwine
 category: 22
 aliases: 
   - "22D"
+examples: The Bruery White Oak, Castelain Winter Ale, Perennial Heart of Gold, Two Brothers Bare Tree
 ---
 
 ABV: 8-12%  
@@ -35,3 +36,6 @@ An American craft beer style that was first brewed at the Rubicon Brewing Compan
 
 ## Comments
 Much of the color arises from a lengthy boil. Some commercial examples may be stronger than the Vital Statistics.
+
+## Commercial Examples
+The Bruery White Oak, Castelain Winter Ale, Perennial Heart of Gold, Two Brothers Bare Tree

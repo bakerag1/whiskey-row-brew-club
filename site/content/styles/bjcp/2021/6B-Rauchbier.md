@@ -3,6 +3,7 @@ title: 6B - Rauchbier
 category: 6
 aliases: 
   - "6B"
+examples: Cervejaria Bamberg Rauchbier, Göller Rauchbier, Rittmayer Rauchbier, Schlenkerla Rauchbier Märzen, Spezial Rauchbier Märzen
 ---
 
 ABV: 4.8-6%  
@@ -35,3 +36,6 @@ A historical specialty of the city of Bamberg, in the Franconian region of Bavar
 
 ## Comments
 Literally smoke beerin German. The smoke character and intensity varies by maltster and brewery, so allow for variation in the style when judging – not all examples are highly smoked.Many other traditional German styles are smoked; those should be entered in the 32A Classic Style Smoked Beer style. This style is only for the more common Märzen-based beer.
+
+## Commercial Examples
+Cervejaria Bamberg Rauchbier, Göller Rauchbier, Rittmayer Rauchbier, Schlenkerla Rauchbier Märzen, Spezial Rauchbier Märzen

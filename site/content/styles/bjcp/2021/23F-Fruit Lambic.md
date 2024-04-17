@@ -3,6 +3,7 @@ title: 23F - Fruit Lambic
 category: 23
 aliases: 
   - "23F"
+examples: 3 Fonteinen Schaerbeekse Kriek, Cantillon Fou’ Foune, Cantillon Lou Pepe Framboise, Cantillon Vigneronne, Hanssens Oude Kriek,Oude KriekBoon
 ---
 
 ABV: 5-7%  
@@ -35,3 +36,6 @@ Same basic history as Gueuze, including the recent sweetening trend but with fru
 
 ## Comments
 Produced like Gueuze, with the fruit commonly added halfway through aging,so the yeast and bacteria can ferment all sugars from the fruit; or less commonly by adding fruit to aLambic. The variety of fruit can sometimes be hard to identify since fermented and aged fruit is often perceived differently than the more recognizable fresh fruit. Fruit can bring acidity and tannins, in addition to flavor and aroma; understanding the fermented character of added fruit helps with judging the style.
+
+## Commercial Examples
+3 Fonteinen Schaerbeekse Kriek, Cantillon Fou’ Foune, Cantillon Lou Pepe Framboise, Cantillon Vigneronne, Hanssens Oude Kriek,Oude KriekBoon

@@ -3,6 +3,7 @@ title: 22B - American Strong Ale
 category: 22
 aliases: 
   - "22B"
+examples: Arrogant Bastard Ale, Fat Head’s Bone Head, Great Lakes Nosferatu, Oskar Blues G’Knight, Port Brewing Shark Attack Double Red Ale
 ---
 
 ABV: 6.3-10%  
@@ -35,3 +36,6 @@ While modern craft versions were developed as “imperial” strength versions o
 
 ## Comments
 A fairly broad style describing beers labeled in various ways, including modern Double Red Ales and other strong, malty-but-hoppy beers that aren’t quite in the Barleywine class. Diverse enough to include what may be viewed as a strong American Amber Ale with room for stronger versions of other American Ale styles.
+
+## Commercial Examples
+Arrogant Bastard Ale, Fat Head’s Bone Head, Great Lakes Nosferatu, Oskar Blues G’Knight, Port Brewing Shark Attack Double Red Ale

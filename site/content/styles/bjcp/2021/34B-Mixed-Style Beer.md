@@ -3,6 +3,7 @@ title: 34B - Mixed-Style Beer
 category: 34
 aliases: 
   - "34B"
+examples: Birrificio Italiano Tipopils, Firestone Walker Pivo Pils, Jack’s Abby Hoponius Union, Ommegang Helles Superior
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Based on the declared Base Styles.
 
 ## Comments
 See preamble for intent.
+
+## Commercial Examples
+Birrificio Italiano Tipopils, Firestone Walker Pivo Pils, Jack’s Abby Hoponius Union, Ommegang Helles Superior

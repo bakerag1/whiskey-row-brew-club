@@ -3,6 +3,7 @@ title: 6A - Märzen
 category: 6
 aliases: 
   - "6A"
+examples: Hacker-Pschorr Oktoberfest Märzen, Hofmark Märzen, Paulaner Oktoberfest, Saalfelder Ur-Saalfelder, Weltenburger Kloster Anno 1050
 ---
 
 ABV: 5.6-6.3%  
@@ -35,3 +36,6 @@ As the name suggests, brewed as a stronger “March beer” in March and lagered
 
 ## Comments
 Modern domestic German Oktoberfest versions are golden – see the Festbier style for this version. Export German versions (to the United States, at least) are typically orange-amber in color, have a distinctive toasty malt character, and are often labeled Oktoberfest. Many craft versions of Oktoberfest are based on this style. Historic versions of the beer tended to be darker, towards the brown color range, but there have been many ‘shades’ of Märzen (when the name is used as a strength); this style description specifically refers to the stronger amber lager version. The modern Festbier can be thought of as a lighter-bodied, pale Märzen by these terms.
+
+## Commercial Examples
+Hacker-Pschorr Oktoberfest Märzen, Hofmark Märzen, Paulaner Oktoberfest, Saalfelder Ur-Saalfelder, Weltenburger Kloster Anno 1050

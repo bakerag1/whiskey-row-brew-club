@@ -3,6 +3,7 @@ title: 26B - Belgian Dubbel
 category: 26
 aliases: 
   - "26B"
+examples: Chimay Red, Corsendonk Bruin, La Trappe Dubbel, Rochefort 6, St. Bernardus Pater 6, Westmalle Dubbel
 ---
 
 ABV: 6-7.6%  
@@ -35,3 +36,6 @@ While dark and strong beers were produced long before, modern Dubbel traces back
 
 ## Comments
 Most commercial examples are in the 6.5 – 7% ABV range. Can taste somewhat sweet due to restrained bitterness, but the beers are actually fairly dry.
+
+## Commercial Examples
+Chimay Red, Corsendonk Bruin, La Trappe Dubbel, Rochefort 6, St. Bernardus Pater 6, Westmalle Dubbel

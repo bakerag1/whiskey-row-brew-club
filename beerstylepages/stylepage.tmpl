@@ -3,6 +3,7 @@ title: {{ .Style_id }} - {{ .Name }}
 category: {{ if hasPrefix .Category_id "X" }}100{{ else }}{{ .Category_id }}{{ end }}
 aliases: 
   - "{{ .Style_id }}"
+examples: {{ .Examples }}
 ---
 
 ABV: {{ .Alcohol_by_volume.Minimum.Value }}-{{ .Alcohol_by_volume.Maximum.Value }}%  
@@ -35,3 +36,6 @@ SRM: {{ .Color.Minimum.Value }}-{{ .Color.Maximum.Value }}
 
 ## Comments
 {{ .Comments }}
+
+## Commercial Examples
+{{ .Examples }}

@@ -3,6 +3,7 @@ title: 9A - Doppelbock
 category: 9
 aliases: 
   - "9A"
+examples: Dark Versions –Andechs Doppelbock Dunkel,Ayinger Celebrator, Paulaner Salvator, Spaten Optimator, Tröegs Troegenator,Weihenstephaner Korbinian; Pale Versions – Eggenberg Urbock 23º, Meinel Doppelbock Hell, Plank Bavarian Heller Doppelbock, Riegele Auris 19, Schönbuch Doppelbock Hell, Staffelberg-Bräu Zwergator
 ---
 
 ABV: 7-10%  
@@ -35,3 +36,6 @@ A Bavarian specialty originating in Munich, first made by the monks of St. Franc
 
 ## Comments
 Doppelbock means double bock. Most versions are dark colored and may display the caramelizing and Maillard products of decoction mashing, but excellent pale versions also exist. The pale versions will not have the same richness and darker malt and fruit flavors of the dark versions, and may be a bit drier, hoppier, and more bitter. While most traditional examples are in the lower end of the ranges cited, the style can be considered to have no upper limit for gravity and alcohol,provided the balance remains the same.
+
+## Commercial Examples
+Dark Versions –Andechs Doppelbock Dunkel,Ayinger Celebrator, Paulaner Salvator, Spaten Optimator, Tröegs Troegenator,Weihenstephaner Korbinian; Pale Versions – Eggenberg Urbock 23º, Meinel Doppelbock Hell, Plank Bavarian Heller Doppelbock, Riegele Auris 19, Schönbuch Doppelbock Hell, Staffelberg-Bräu Zwergator

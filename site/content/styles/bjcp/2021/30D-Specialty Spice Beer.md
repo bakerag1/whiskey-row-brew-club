@@ -3,6 +3,7 @@ title: 30D - Specialty Spice Beer
 category: 30
 aliases: 
   - "30D"
+examples: New Belgium Honey Orange Tripel, Westbrook It’s Tiki Time
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Same as SHVBeer, although depending on the type of sugar added, could increase o
 
 ## Comments
 If the additional fermentables or processes do not add a distinguishable character to the beer, enter it as one of the other (non-Specialty) Spiced Beer styles and omit a description of the extra ingredients or processes.
+
+## Commercial Examples
+New Belgium Honey Orange Tripel, Westbrook It’s Tiki Time

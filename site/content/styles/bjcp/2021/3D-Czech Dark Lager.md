@@ -3,6 +3,7 @@ title: 3D - Czech Dark Lager
 category: 3
 aliases: 
   - "3D"
+examples: Bernard černý ležák 12°, Budvar tmavý ležák, Herold lmavé silné pivo 13°, Kozel Dark , Krušovice  černé, Primátor dark lager, U Fleků Flekovský tmavý ležák 13°
 ---
 
 ABV: 4.4-5.8%  
@@ -35,3 +36,6 @@ The U Fleků brewery has been operating in Prague since 1499, and produces the b
 
 ## Comments
 This style is a combination of the Czech styles tmavý ležák (11–12.9 °P) and tmavé speciální pivo (13–14.9 °P). More modern examples are drier and have higher bitterness while traditional versions often have IBUs in the 18–20 range with a sweeter balance.
+
+## Commercial Examples
+Bernard černý ležák 12°, Budvar tmavý ležák, Herold lmavé silné pivo 13°, Kozel Dark , Krušovice  černé, Primátor dark lager, U Fleků Flekovský tmavý ležák 13°

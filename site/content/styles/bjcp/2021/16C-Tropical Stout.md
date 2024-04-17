@@ -3,6 +3,7 @@ title: 16C - Tropical Stout
 category: 16
 aliases: 
   - "16C"
+examples: ABC Extra Stout, Bahamian Strong Back Stout, Dragon Stout, Jamaica Stout, Lion Stout, Royal ExtraStout
 ---
 
 ABV: 5.5-8%  
@@ -35,3 +36,6 @@ A local adaptation of Foreign Extra Stouts brewed with indigenous ingredients an
 
 ## Comments
 Surprisingly refreshing in a hot climate.Sweetness levels can vary significantly. Tropicalimplies that the beeroriginated in and is popular in the tropics, not that it has characteristics of tropical fruit from hops or fruit.
+
+## Commercial Examples
+ABC Extra Stout, Bahamian Strong Back Stout, Dragon Stout, Jamaica Stout, Lion Stout, Royal ExtraStout

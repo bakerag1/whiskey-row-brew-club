@@ -3,6 +3,7 @@ title: 1A - American Light Lager
 category: 1
 aliases: 
   - "1A"
+examples: Bud Light, Coors Light, Grain Belt Premium Light American Lager, Michelob Light, Miller Lite, Old Milwaukee Light
 ---
 
 ABV: 2.8-4.2%  
@@ -35,3 +36,6 @@ Coors briefly made a light lager in the early 1940s. Modern versions were first 
 
 ## Comments
 Designed to appeal to as broad a range of the general public as possible. Strong flavors are a fault. With little malt or hop flavor, the yeast character often is what most differentiates brands.
+
+## Commercial Examples
+Bud Light, Coors Light, Grain Belt Premium Light American Lager, Michelob Light, Miller Lite, Old Milwaukee Light

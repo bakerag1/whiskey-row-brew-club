@@ -3,6 +3,7 @@ title: 11C - Strong Bitter
 category: 11
 aliases: 
   - "11C"
+examples: Bass Ale, Bateman’s Triple XB, Robinsons Trooper, Samuel Smith’s Organic Pale Ale, Shepherd Neame Bishop's Finger, Summit Extra Pale Ale
 ---
 
 ABV: 4.6-6.2%  
@@ -35,3 +36,6 @@ See comments in category introduction. Strong bitters can be seen as a higher-gr
 
 ## Comments
 In England today, “ESB” is a Fullers trademark, and no one thinks of it as a generic class of beer. It is a unique (but very well-known) beer that has a very strong, complex malt profile not found in other examples, often leading judges to overly penalize traditional English strong bitters. In America, ESB has been co-opted to describe a malty, bitter, reddish, standard-strength (for the US) British-type ale, and is a popular craft beer style. This may cause some judges to think of US brewpub ESBs as representative of this style.
+
+## Commercial Examples
+Bass Ale, Bateman’s Triple XB, Robinsons Trooper, Samuel Smith’s Organic Pale Ale, Shepherd Neame Bishop's Finger, Summit Extra Pale Ale

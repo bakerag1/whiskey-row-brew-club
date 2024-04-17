@@ -3,6 +3,7 @@ title: 20A - American Porter
 category: 20
 aliases: 
   - "20A"
+examples: Anchor Porter, Bell’s Porter, Deschutes Black Butte Porter, Great Lakes Edmund Fitzgerald Porter, Sierra Nevada Porter, Smuttynose Robust Porter
 ---
 
 ABV: 4.8-6.5%  
@@ -35,3 +36,6 @@ A stronger, more aggressive version of earlier Pre-Prohibition Porters or Englis
 
 ## Comments
 Sometimes called Robust Porter, becoming increasingly hard to find. A rather broad style open to interpretation by the brewer. Dark malt intensity and flavor can vary significantly. May or may not have a strong hop character, or significant fermentation byproducts; thus may seem to have an “American” or “British” character.
+
+## Commercial Examples
+Anchor Porter, Bell’s Porter, Deschutes Black Butte Porter, Great Lakes Edmund Fitzgerald Porter, Sierra Nevada Porter, Smuttynose Robust Porter

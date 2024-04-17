@@ -3,6 +3,7 @@ title: 16B - Oatmeal Stout
 category: 16
 aliases: 
   - "16B"
+examples: Anderson Valley Barney Flats Oatmeal Stout, Broughton Stout Jock, St-Ambroise Oatmeal Stout, Samuel Smith Oatmeal Stout, Summit Oatmeal Stout, Young's London Stout
 ---
 
 ABV: 4.2-5.9%  
@@ -35,3 +36,6 @@ A variant of nourishing or invalid stouts around 1900 using oatmeal in the grist
 
 ## Comments
 When judging, allow for differences in balance and interpretation.American versions tend to be more hoppy, less sweet, and less fruity than English examples. Bitterness, sweetness,and oatmeal impression varies. Light use of oatmeal may give a certain silkiness of body and richness of flavor, while heavy use of oatmeal can be fairly intense in flavor with an almost oily mouthfeel and dryish finish.
+
+## Commercial Examples
+Anderson Valley Barney Flats Oatmeal Stout, Broughton Stout Jock, St-Ambroise Oatmeal Stout, Samuel Smith Oatmeal Stout, Summit Oatmeal Stout, Young's London Stout

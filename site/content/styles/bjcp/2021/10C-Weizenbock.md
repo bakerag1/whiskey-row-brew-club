@@ -3,6 +3,7 @@ title: 10C - Weizenbock
 category: 10
 aliases: 
   - "10C"
+examples: Dark – Plank Bavarian Dunkler Weizenbock, Penn Weizenbock,Schalchner Weisser Bock, Schneider Weisse Aventinus; Pale –Ayinger Weizenbock, Distelhäuser Weizen Bock, Ladenburger Weizenbock Hell,Weihenstephaner Vitus
 ---
 
 ABV: 6.5-9%  
@@ -35,3 +36,6 @@ Dopplebock-strength Aventinuswas created in 1907 at the Schneider Weisse Brauhau
 
 ## Comments
 A Weissbier brewed to bock or doppelbock strength, although Schneider also produces an Eisbock version. Pale and dark versions exist, but dark is most common. Lightly oxidized Maillard products can produce some rich, intense flavors and aromas that are often seen in aged imported commercial products; fresher versions will not have this character. Well-aged examples might also take on a slight sherry-like complexity.Pale versions, like their doppelbock cousins, have less rich malt complexity and often more hop-forward. However, versions that have significant late hops or are dry-hopped should be entered in 34B Mixed-Style Beer.
+
+## Commercial Examples
+Dark – Plank Bavarian Dunkler Weizenbock, Penn Weizenbock,Schalchner Weisser Bock, Schneider Weisse Aventinus; Pale –Ayinger Weizenbock, Distelhäuser Weizen Bock, Ladenburger Weizenbock Hell,Weihenstephaner Vitus

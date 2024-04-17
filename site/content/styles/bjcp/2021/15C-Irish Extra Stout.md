@@ -3,6 +3,7 @@ title: 15C - Irish Extra Stout
 category: 15
 aliases: 
   - "15C"
+examples: Guinness Extra Stout, O’Hara’s Leann Folláin, Porterhouse XXXX, Sheaf Stout
 ---
 
 ABV: 5-6.5%  
@@ -35,3 +36,6 @@ Same roots as Irish Stout, but as a stronger product. Guinness Extra Stout (Extr
 
 ## Comments
 Traditionally a stronger, bottled product with a range of equally valid possible interpretations, varying most frequentlyin roast flavor and sweetness. Most traditional Irish commercial examples are in the 5.6 to 6.0% ABV range.
+
+## Commercial Examples
+Guinness Extra Stout, O’Hara’s Leann Folláin, Porterhouse XXXX, Sheaf Stout

@@ -3,6 +3,7 @@ title: 19C - American Brown Ale
 category: 19
 aliases: 
   - "19C"
+examples: Avery Ellie’s Brown Ale, Big Sky Moose Drool Brown Ale, Brooklyn Brown Ale, Bell’s Best Brown, Smuttynose Old Brown Dog Ale, Telluride Face Down Brown
 ---
 
 ABV: 4.3-6.2%  
@@ -35,3 +36,6 @@ An American style from the early modern craft beer era. Derived from English Bro
 
 ## Comments
 Most commercial American Browns are not as aggressive as the original homebrewed versions, and some modern craft-brewed examples. This style reflects the current commercial offerings typically marketed as American Brown Ales rather than the hoppier, stronger homebrew versions from the early days of homebrewing. These IPA-strength brown ales should be entered as 21BSpecialty IPA
+
+## Commercial Examples
+Avery Ellie’s Brown Ale, Big Sky Moose Drool Brown Ale, Brooklyn Brown Ale, Bell’s Best Brown, Smuttynose Old Brown Dog Ale, Telluride Face Down Brown

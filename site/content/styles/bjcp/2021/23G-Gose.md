@@ -3,6 +3,7 @@ title: 23G - Gose
 category: 23
 aliases: 
   - "23G"
+examples: Anderson Valley Gose, Bayerisch Bahnhof Leipziger Gose, Original Ritterguts Gose, Westbrook Gose
 ---
 
 ABV: 4.2-4.8%  
@@ -35,3 +36,6 @@ Minor style associated with Leipzig but originating in the Middle Ages in the to
 
 ## Comments
 Historical versions may have been more sour than modern examples due to spontaneous fermentation, and may be blended with syrups as is done with Berliner Weisse, or with caraway liqueur. Modern examples are inoculated with Lacto, and are more balanced and generally don’t need sweetening. Pronounced GOH-zeh.
+
+## Commercial Examples
+Anderson Valley Gose, Bayerisch Bahnhof Leipziger Gose, Original Ritterguts Gose, Westbrook Gose

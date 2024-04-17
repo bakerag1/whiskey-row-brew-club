@@ -3,6 +3,7 @@ title: 19B - California Common
 category: 19
 aliases: 
   - "19B"
+examples: Anchor Steam, Steamworks Steam Engine Lager
 ---
 
 ABV: 4.5-5.5%  
@@ -35,3 +36,6 @@ American West Coast original, brewed originally as Steam Beer during the Gold Ru
 
 ## Comments
 This style is narrowly defined around the prototypical Anchor Steam example, although allowing other typical ingredients of the era. Northern Brewer hops are not a strict requirement for the style.Modern American and New World-type hops (especially citrusy ones) are inappropriate.
+
+## Commercial Examples
+Anchor Steam, Steamworks Steam Engine Lager

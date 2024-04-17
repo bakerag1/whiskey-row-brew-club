@@ -3,6 +3,7 @@ title: 21A - American IPA
 category: 21
 aliases: 
   - "21A"
+examples: Bell’s Two-Hearted Ale, Cigar City Jai Alai, Fat Heads Head Hunter IPA, Firestone Walker Union Jack, Maine Lunch, Russian River Blind Pig IPA
 ---
 
 ABV: 5.5-7.5%  
@@ -35,3 +36,6 @@ The first modern American craft beer adaptation of this traditional English styl
 
 ## Comments
 The basis for many modern variations, including the stronger Double IPA as well as IPAs with various other ingredients. Those other IPAs should generally be entered in the 21B Specialty IPA style. An India Pale Lager (IPL) can be entered as an American IPA if it has a similar character, otherwise 34B Mixed-Style Beer. Oak is inappropriate in this style; if noticeably oaked, enter in 33A Wood-Aged Beer. Dry, sharply bitter, clear examples are sometimes known as West Coast IPA, which is really just a type of American IPA.
+
+## Commercial Examples
+Bell’s Two-Hearted Ale, Cigar City Jai Alai, Fat Heads Head Hunter IPA, Firestone Walker Union Jack, Maine Lunch, Russian River Blind Pig IPA

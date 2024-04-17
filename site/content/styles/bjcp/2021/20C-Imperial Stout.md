@@ -3,6 +3,7 @@ title: 20C - Imperial Stout
 category: 20
 aliases: 
   - "20C"
+examples: American –Bell’s Expedition Stout, Great Divide Yeti Imperial Stout, North Coast Old Rasputin Imperial Stout, Oskar Blues Ten Fidy, Sierra Nevada Narwhal Imperial Stout; English – 2SP Brewing Co The Russian, Courage Imperial Russian Stout, Le Coq Imperial Extra Double Stout, Samuel Smith Imperial Stout, Thornbridge Saint Petersburg
 ---
 
 ABV: 8-12%  
@@ -35,3 +36,6 @@ A style with a long, although not necessarily continuous, heritage. Traces roots
 
 ## Comments
 Sometimes known as Russian Imperial Stout or RIS. Varying interpretations exist with American versions having greater bitterness, and more roasted character and late hops, while English varieties often reflect a more complex specialty malt character with a more forward ester profile. Not all Imperial Stouts have a clearly ‘English’ or ‘American’ character; anything in betweenis allowable as well, which is why it is counter-productive to define strict sub-types. Judges must be aware of the broad range of the style, and not try to judge all examples as clones of a specific commercial beer.
+
+## Commercial Examples
+American –Bell’s Expedition Stout, Great Divide Yeti Imperial Stout, North Coast Old Rasputin Imperial Stout, Oskar Blues Ten Fidy, Sierra Nevada Narwhal Imperial Stout; English – 2SP Brewing Co The Russian, Courage Imperial Russian Stout, Le Coq Imperial Extra Double Stout, Samuel Smith Imperial Stout, Thornbridge Saint Petersburg

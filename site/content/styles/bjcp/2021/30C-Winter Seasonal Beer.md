@@ -3,6 +3,7 @@ title: 30C - Winter Seasonal Beer
 category: 30
 aliases: 
   - "30C"
+examples: Anchor Christmas Ale, Great Lakes Christmas Ale, Harpoon Winter Warmer, Rogue Santa’s Private Reserve, Schlafly Christmas Ale, Troeg’s The Mad Elf
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ The winter holiday season is a traditional time when old friends get together, w
 
 ## Comments
 Using the sensory profile of products that suggest the holiday season, such asChristmas cookies, gingerbread, English-type Christmas pudding, rum cakes, eggnog, evergreen trees, potpourri, or mulling spices, balanced with a supportive, often malty, warming, and darker base beer. The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors.
+
+## Commercial Examples
+Anchor Christmas Ale, Great Lakes Christmas Ale, Harpoon Winter Warmer, Rogue Santa’s Private Reserve, Schlafly Christmas Ale, Troeg’s The Mad Elf

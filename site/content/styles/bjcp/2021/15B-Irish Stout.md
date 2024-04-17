@@ -3,6 +3,7 @@ title: 15B - Irish Stout
 category: 15
 aliases: 
   - "15B"
+examples: Beamish Irish Stout, Belhaven Black Stout, Guinness Draught, Murphy's Irish Stout, O’Hara’s Irish Stout, Porterhouse Irish Stout
 ---
 
 ABV: 3.8-5%  
@@ -35,3 +36,6 @@ The style evolved from London porters, but reflecting a fuller, creamier, more �
 
 ## Comments
 Traditionally a draught product. Modern examples are almost always associated with a nitro pour. Do not expect bottled beers to have the full, creamy texture or very long-lasting head associated with mixed-gas dispense. Regional differences exist in Ireland, similar to variability in English Bitters. Dublin-type stouts use roasted barley, are more bitter, and are drier. Cork-type stouts are sweeter, less bitter, and have flavors from chocolate and specialty malts.
+
+## Commercial Examples
+Beamish Irish Stout, Belhaven Black Stout, Guinness Draught, Murphy's Irish Stout, O’Hara’s Irish Stout, Porterhouse Irish Stout

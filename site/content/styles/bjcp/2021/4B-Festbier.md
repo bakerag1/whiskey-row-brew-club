@@ -3,6 +3,7 @@ title: 4B - Festbier
 category: 4
 aliases: 
   - "4B"
+examples: Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier, Hofbräu Oktoberfestbier, Löwenbräu Oktoberfestbier, Paulaner Oktoberfest Bier, Weihenstephaner Festbier
 ---
 
 ABV: 5.8-6.3%  
@@ -35,3 +36,6 @@ Since 1990, the majority of beer served at Oktoberfest in Munich has been this s
 
 ## Comments
 This style represents the modern German beer served at Oktoberfest (although it is not solely reserved for Oktoberfest; it can be found at many other ‘fests’), and is sometimes called Wiesn (“the meadow” or local name for the Oktoberfest festival). We chose to call this style Festbier since by German and EU regulations, Oktoberfestbier is a protected appellation for beer produced at large breweries within the Munich city limits for consumption at Oktoberfest. Other countries are not bound by these rules, so many craft breweries in the US produce beer called Oktoberfest, but based on the traditional style described in these guidelines as Märzen. May be called Helles Märzen.
+
+## Commercial Examples
+Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier, Hofbräu Oktoberfestbier, Löwenbräu Oktoberfestbier, Paulaner Oktoberfest Bier, Weihenstephaner Festbier

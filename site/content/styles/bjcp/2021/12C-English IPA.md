@@ -3,6 +3,7 @@ title: 12C - English IPA
 category: 12
 aliases: 
   - "12C"
+examples: Berkshire Lost Sailor IPA, Fuller's Bengal Lancer, Marston’s Old Empire IPA, Meantime London IPA, Thornbridge Jaipur, Worthington White Shield
 ---
 
 ABV: 5-7.5%  
@@ -35,3 +36,6 @@ Originally a pale stock ale from London that was first shipped to India in the l
 
 ## Comments
 The attributes of IPA that were important to its arrival in good condition in India were that it was very well-attenuated, and heavily hopped. Simply because this is how IPA was shipped, doesn’t mean that other beers such as Porter weren’t also sent to India, that IPA was invented to be sent to India, that IPA was more heavily hopped than other keeping beers, or that the alcohol level was unusual for the time.Many modern examples labeled IPA are quite weak in strength. According to CAMRA, “so-called IPAs with strengths of around 3.5% are not true to style.” English beer historian Martyn Cornell has commented that beers like this are “not really distinguishable from an ordinary bitter.” So we choose to agree with these sources for our guidelines rather than what some modern British breweries are calling an IPA; just be aware of these two main types of IPAs in the British market today.The beers were shipped in well-used oak casks, so the style shouldn’t have an oak or Brett character.
+
+## Commercial Examples
+Berkshire Lost Sailor IPA, Fuller's Bengal Lancer, Marston’s Old Empire IPA, Meantime London IPA, Thornbridge Jaipur, Worthington White Shield

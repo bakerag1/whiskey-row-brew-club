@@ -3,6 +3,7 @@ title: 16D - Foreign Extra Stout
 category: 16
 aliases: 
   - "16D"
+examples: Coopers Best Extra Stout, Guinness Foreign Extra Stout, The Kernel Export Stout London 1890, La Cumbre Malpais Stout, Pelican Tsunami Export Stout, Ridgeway Foreign Export Stout
 ---
 
 ABV: 6.3-8%  
@@ -35,3 +36,6 @@ Stronger stouts brewed for the export market today, but with a history stretchin
 
 ## Comments
 Also known as Foreign Stout, Export Stout, and Foreign Export Stout. Historic versions (before WWI, at least) had the same OG as domestic Extra Stouts, but depending on the brewery could have had a higher ABV because it had a long secondary with Brett chewing away at it. The difference between domestic and foreign versions were the hopping and length of maturation.
+
+## Commercial Examples
+Coopers Best Extra Stout, Guinness Foreign Extra Stout, The Kernel Export Stout London 1890, La Cumbre Malpais Stout, Pelican Tsunami Export Stout, Ridgeway Foreign Export Stout

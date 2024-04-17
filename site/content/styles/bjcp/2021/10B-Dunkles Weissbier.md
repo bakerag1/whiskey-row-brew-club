@@ -3,6 +3,7 @@ title: 10B - Dunkles Weissbier
 category: 10
 aliases: 
   - "10B"
+examples: Ayinger Urweisse, Ettaler Benediktiner Weißbier Dunkel, Franziskaner Hefe-Weisse Dunkel, Hirsch Dunkel Weisse, Tucher Dunkles Hefe Weizen, Weihenstephaner Hefeweißbier Dunkel
 ---
 
 ABV: 4.3-5.6%  
@@ -35,3 +36,6 @@ Bavaria has a wheat beer brewing traditional hundreds of years old, but the brew
 
 ## Comments
 Often known as dunkelweizen, particularly in the United States.Increasingly rare and often being replaced by Kristall and non-alcoholic versions in Germany.
+
+## Commercial Examples
+Ayinger Urweisse, Ettaler Benediktiner Weißbier Dunkel, Franziskaner Hefe-Weisse Dunkel, Hirsch Dunkel Weisse, Tucher Dunkles Hefe Weizen, Weihenstephaner Hefeweißbier Dunkel

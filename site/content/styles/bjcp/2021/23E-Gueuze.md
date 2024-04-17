@@ -3,6 +3,7 @@ title: 23E - Gueuze
 category: 23
 aliases: 
   - "23E"
+examples: 3 Fonteinen Oud Gueuze, Cantillon Classic Gueuze 100% Lambic, Girardin Gueuze 1882 (Black label), Hanssens Oude Gueuze, Lindemans Gueuze Cuvée René,Oude Gueuze Boon
 ---
 
 ABV: 5-8%  
@@ -35,3 +36,6 @@ Same basic history as Lambic, but involves blending, which may be performed outs
 
 ## Comments
 Blending young and aged lambic creates a more complex product, and often reflects the personal taste of the blender.A noticeable vinegary or cidery character is considered a fault by Belgian brewers. A good Gueuze is not the most pungent, but possesses a full and tantalizing bouquet, a sharp aroma, and a soft, velvety texture. Lambic is served uncarbonated, while Gueuze is served sparkling. Products marked oude or vieille(“old”) are considered most traditional.
+
+## Commercial Examples
+3 Fonteinen Oud Gueuze, Cantillon Classic Gueuze 100% Lambic, Girardin Gueuze 1882 (Black label), Hanssens Oude Gueuze, Lindemans Gueuze Cuvée René,Oude Gueuze Boon

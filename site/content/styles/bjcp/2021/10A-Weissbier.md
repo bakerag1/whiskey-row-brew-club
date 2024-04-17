@@ -3,6 +3,7 @@ title: 10A - Weissbier
 category: 10
 aliases: 
   - "10A"
+examples: Ayinger Bräuweisse, Distelhäuser Hell Weizen, Hacker-Pschorr Hefeweißbier, Hofbräuhaus Münchner Weisse, Schneider Weisse Original Weissbier, Weihenstephaner Hefeweißbier
 ---
 
 ABV: 4.3-5.6%  
@@ -35,3 +36,6 @@ While Bavaria has a wheat beer tradition dating back before the 1500s, brewing w
 
 ## Comments
 Also known as hefeweizen or weizenbier, particularly outside Bavaria. These beers are best enjoyed while young and fresh, as they often don’t age well. In Germany, lower-alcohol light (leicht) and non-alcoholic versions are popular. Kristall versions are filtered for brilliant clarity.
+
+## Commercial Examples
+Ayinger Bräuweisse, Distelhäuser Hell Weizen, Hacker-Pschorr Hefeweißbier, Hofbräuhaus Münchner Weisse, Schneider Weisse Original Weissbier, Weihenstephaner Hefeweißbier

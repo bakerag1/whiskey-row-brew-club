@@ -3,6 +3,7 @@ title: 4C - Helles Bock
 category: 4
 aliases: 
   - "4C"
+examples: Altenmünster Maibock, Ayinger Maibock, Chuckanut Maibock, Einbecker Mai-Ur-Bock, Hofbräu Maibock, Mahr’s Heller Bock
 ---
 
 ABV: 6.3-7.4%  
@@ -35,3 +36,6 @@ A fairly recent development in comparison to the other members of the bock famil
 
 ## Comments
 Also known as Maibock. Compared to darker Bock beers, the hops compensate for the lower level of Maillard products in the balance.
+
+## Commercial Examples
+Altenmünster Maibock, Ayinger Maibock, Chuckanut Maibock, Einbecker Mai-Ur-Bock, Hofbräu Maibock, Mahr’s Heller Bock

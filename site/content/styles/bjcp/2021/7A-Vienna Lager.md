@@ -3,6 +3,7 @@ title: 7A - Vienna Lager
 category: 7
 aliases: 
   - "7A"
+examples: Chuckanut Vienna Lager, Devils Backbone Vienna Lager, Figueroa Mountain Red Lager, Heavy Seas Cutlass, Ottakringer Wiener Original, Schell’s Firebrick, Theresianer Vienna
 ---
 
 ABV: 4.7-5.5%  
@@ -35,3 +36,6 @@ Developed by Anton Dreher in Vienna in 1841, became popular in the mid-late 1800
 
 ## Comments
 A standard-strength everyday beer, not a beer brewed for festivals. Many traditional examples have become sweeter and more adjunct-laden, now seeming more like International Amber or Dark Lagers.
+
+## Commercial Examples
+Chuckanut Vienna Lager, Devils Backbone Vienna Lager, Figueroa Mountain Red Lager, Heavy Seas Cutlass, Ottakringer Wiener Original, Schell’s Firebrick, Theresianer Vienna

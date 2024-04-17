@@ -3,6 +3,7 @@ title: 11B - Best Bitter
 category: 11
 aliases: 
   - "11B"
+examples: Adnams Southwold Bitter, Fuller's London Pride, Harvey’s Sussex Best Bitter, Salopian Darwin’s Origin, Surrey Hills Shere Drop, Timothy Taylor Landlord
 ---
 
 ABV: 3.8-4.6%  
@@ -35,3 +36,6 @@ See comments in category introduction.
 
 ## Comments
 More evident malt flavor than in an ordinary bitter; this is a stronger, session-strength ale.
+
+## Commercial Examples
+Adnams Southwold Bitter, Fuller's London Pride, Harvey’s Sussex Best Bitter, Salopian Darwin’s Origin, Surrey Hills Shere Drop, Timothy Taylor Landlord

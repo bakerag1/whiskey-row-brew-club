@@ -3,6 +3,7 @@ title: 29B - Fruit and Spice Beer
 category: 29
 aliases: 
   - "29B"
+examples: Cigar City Margarita Gose, Firestone Walker Chocolate Cherry Stout, Golden Road Spicy Mango Cart, Kona Island Colada Cream Ale, New Glarus Blueberry Cocoa Stout, Sun King Orange Vanilla Sunlight
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Varies by base style. Fruitoften decreases body, and makes the beer seem lighter
 
 ## Comments
 The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors. The specialty ingredients should complement the original style and not overwhelm it. Base style attributes will be different after the addition of fruit and spices; do not expect the beer to taste identical to the unadulterated base style.
+
+## Commercial Examples
+Cigar City Margarita Gose, Firestone Walker Chocolate Cherry Stout, Golden Road Spicy Mango Cart, Kona Island Colada Cream Ale, New Glarus Blueberry Cocoa Stout, Sun King Orange Vanilla Sunlight

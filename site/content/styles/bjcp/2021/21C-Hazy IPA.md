@@ -3,6 +3,7 @@ title: 21C - Hazy IPA
 category: 21
 aliases: 
   - "21C"
+examples: Belching Beaver Hazers Gonna Haze, Hill Farmstead Susan, Other Half Green Diamonds Double IPA, Pinthouse Electric Jellyfish, Tree House Julius, Trillium Congress Street, WeldWerks Juicy Bits
 ---
 
 ABV: 6-9%  
@@ -35,3 +36,6 @@ A modern craft beer style originating in the New England region of the United St
 
 ## Comments
 Also known as New England IPA or NEIPA. An emphasis on late hopping, especially dry-hopping, with hops with tropical fruit qualities lends the ‘juicy’ character for which this style is known.Heavy examples suggestive of milkshakes, creamsicles, or fruit smoothies are outside this style; IPAs should always be drinkable. Haziness comes from dry-hopping, not suspended yeast, starch haze, or other techniques; a hazy shine is desirable, not a cloudy, murky mess.
+
+## Commercial Examples
+Belching Beaver Hazers Gonna Haze, Hill Farmstead Susan, Other Half Green Diamonds Double IPA, Pinthouse Electric Jellyfish, Tree House Julius, Trillium Congress Street, WeldWerks Juicy Bits

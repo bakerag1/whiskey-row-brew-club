@@ -3,6 +3,7 @@ title: 17A - British Strong Ale
 category: 17
 aliases: 
   - "17A"
+examples: Fuller’s 1845, Harvey’s Elizabethan Ale, J.W. Lees Moonraker, McEwan’s Champion, Samuel Smith’s Winter Welcome, Shepherd Neame 1698
 ---
 
 ABV: 5.5-8%  
@@ -35,3 +36,6 @@ A collection of unrelated minor styles, each of which has its own heritage. Do n
 
 ## Comments
 An entry category more than a style; the strength and character of examples can vary widely. Fits in the style space between normal gravity beers and Barley Wines. Can include pale malty-hoppy beers, English winter warmers, strong dark milds, smaller Burton ales, and other unique beers in the general gravity range that don’t fit other categories. Judges should allow for a significant range in character, as long as the beer is within the alcohol strength range and has an interesting ‘British’ character, it likely fits the style.
+
+## Commercial Examples
+Fuller’s 1845, Harvey’s Elizabethan Ale, J.W. Lees Moonraker, McEwan’s Champion, Samuel Smith’s Winter Welcome, Shepherd Neame 1698

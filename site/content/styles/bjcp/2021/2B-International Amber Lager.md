@@ -3,6 +3,7 @@ title: 2B - International Amber Lager
 category: 2
 aliases: 
   - "2B"
+examples: Abita Amber Lager, Brooklyn Lager, Capital Wisconsin Amber Lager, Dos Equis Amber, Grain Belt NordEast, Yuengling Lager
 ---
 
 ABV: 4.5-6%  
@@ -35,3 +36,6 @@ Varies by country, but generally represents either an adaptation of the mass-mar
 
 ## Comments
 A wide spectrum of mass-market amber lagers either developed independently in various countries, or describing rather generic amber beers with more historical relevance that eventually changed into indistinguishable products in modern times.
+
+## Commercial Examples
+Abita Amber Lager, Brooklyn Lager, Capital Wisconsin Amber Lager, Dos Equis Amber, Grain Belt NordEast, Yuengling Lager

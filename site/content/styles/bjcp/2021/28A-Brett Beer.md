@@ -3,6 +3,7 @@ title: 28A - Brett Beer
 category: 28
 aliases: 
   - "28A"
+examples: Boulevard Saison Brett, Hill Farmstead Arthur, Logsdon Seizoen Bretta, Lost Abbey Brett Devo, Russian River Sanctification, The Bruery Saison Rue
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Modern American craft beer interpretations of Belgian wild ales, or experimentat
 
 ## Comments
 The base style describes most of the character of these beers, but the addition of Brett ensures a drier, thinner, and often fruitier and funkier product. Younger versions are brighter and fruitier, while older ones possess more depth of funk and may lose more of the base style character. The Brett character should always meld with the style; these beers should never be a ‘Brett bomb’. WhileBrettcan produce low levels of organic acids, itis not a primary beer souring method.
+
+## Commercial Examples
+Boulevard Saison Brett, Hill Farmstead Arthur, Logsdon Seizoen Bretta, Lost Abbey Brett Devo, Russian River Sanctification, The Bruery Saison Rue

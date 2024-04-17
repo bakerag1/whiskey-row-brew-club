@@ -3,6 +3,7 @@ title: 3B - Czech Premium Pale Lager
 category: 3
 aliases: 
   - "3B"
+examples: Bernard světlé ležák 12°, Budvar 33 světlý ležák, Pilsner Urquell, Pivovar Jihlava Ježek 11%, Primátor Premium lager, Radegast Ryze hořká 12, Únětická pivo 12°
 ---
 
 ABV: 4.2-5.8%  
@@ -35,3 +36,6 @@ Commonly associated with Pilsner Urquell, which was first brewed in 1842 after c
 
 ## Comments
 Generally a group of pivo Plzeňského typu, or Pilsner-type beers. This style is a combination of the Czech styles světlý ležák (11–12.9 °P) and světlé speciální pivo (13–14.9 °P). In the Czech Republic, only Pilsner Urquell and Gambrinus are called Pilsner, despite how widely adopted this name is worldwide. Outside the Czech Republic, Czech Pilsner or Bohemian Pilsner are sometimes used to differentiate the beer from other Pilsner-type beers.Kvasnicové (“yeast beer”) versions are popular in the Czech Republic, and may be either kräusened with yeasted wort or given a fresh dose of pure yeast after fermentation. These beers are sometimes cloudy, with subtle yeastiness and enhanced hop character. Modern examples vary in their malt to hop balance and many are not as hop-forward as Pilsner Urquell.
+
+## Commercial Examples
+Bernard světlé ležák 12°, Budvar 33 světlý ležák, Pilsner Urquell, Pivovar Jihlava Ježek 11%, Primátor Premium lager, Radegast Ryze hořká 12, Únětická pivo 12°

@@ -3,6 +3,7 @@ title: 22C - American Barleywine
 category: 22
 aliases: 
   - "22C"
+examples: Anchor Old Foghorn, Bell’s Third Coast Old Ale,East End Gratitude, Hair of the Dog Doggie Claws, Sierra Nevada Bigfoot
 ---
 
 ABV: 8-12%  
@@ -35,3 +36,6 @@ Traditionally the strongest ale offered by a brewery, often associated with the 
 
 ## Comments
 Sometimes labeled as “Barley Wine” or “Barleywine-style ale”. Recently many US breweries seem to have discontinued their Barleywines, made them barrel-aged, or rebranded them as some form of IPA.
+
+## Commercial Examples
+Anchor Old Foghorn, Bell’s Third Coast Old Ale,East End Gratitude, Hair of the Dog Doggie Claws, Sierra Nevada Bigfoot

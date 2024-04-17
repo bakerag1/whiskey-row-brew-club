@@ -3,6 +3,7 @@ title: X2 - IPA Argenta
 category: 100
 aliases: 
   - "X2"
+examples: 
 ---
 
 ABV: 5-6.5%  
@@ -34,3 +35,6 @@ Intenso aroma a lúpulo con carácter floral y cítrico, derivado de los lúpulo
 
 
 ## Comments
+
+
+## Commercial Examples

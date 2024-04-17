@@ -3,6 +3,7 @@ title: 31A - Alternative Grain Beer
 category: 31
 aliases: 
   - "31A"
+examples: Blue/Point Rastafarye Ale, Green’s India Pale Ale, Lakefront New Grist, New Planet Pale Ale, Rogue Morimoto Soba Ale, Voodoo Swimming Jeans
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Same as the base beer, although many additional grains (e.g., oats, rye) increas
 
 ## Comments
 The additional grain should be apparent somewhere in the sensory profile. If the alternative grain does not provide a noticeable distinguishable character to the beer, enter it as the base style. This style should not be used for styles where the alternative grain is fundamental to the style definition (e.g., Rye IPA, Oatmeal Stout, Rice- or Corn-based International Lager). Note that sake is not beer, and is not intended for this category.
+
+## Commercial Examples
+Blue/Point Rastafarye Ale, Green’s India Pale Ale, Lakefront New Grist, New Planet Pale Ale, Rogue Morimoto Soba Ale, Voodoo Swimming Jeans

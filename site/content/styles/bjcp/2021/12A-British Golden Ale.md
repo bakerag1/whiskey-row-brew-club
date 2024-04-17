@@ -3,6 +3,7 @@ title: 12A - British Golden Ale
 category: 12
 aliases: 
   - "12A"
+examples: Adnams Explorer, Crouch Vale Brewers Gold, Golden Hill Exmoor Gold, Hop Back Summer Lightning, Oakham JHB, Spitfire Golden Ale
 ---
 
 ABV: 3.8-5%  
@@ -35,3 +36,6 @@ Modern golden ales were developed in England to take on strongly-marketed lagers
 
 ## Comments
 Well-hopped, quenching beer with an emphasis on showcasing hops. Served colder than traditional bitters, this style was originally positioned as a refreshing summer beer, but is now often brewed year-round. Once brewed with English hops, increasingly American citrus-flavored hops are used. Golden Ales are also called Golden Bitters, Summer Ales, or British Blonde Ales. Can be found in cask, keg, and bottle.
+
+## Commercial Examples
+Adnams Explorer, Crouch Vale Brewers Gold, Golden Hill Exmoor Gold, Hop Back Summer Lightning, Oakham JHB, Spitfire Golden Ale

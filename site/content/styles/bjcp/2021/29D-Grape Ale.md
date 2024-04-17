@@ -3,6 +3,7 @@ title: 29D - Grape Ale
 category: 29
 aliases: 
   - "29D"
+examples: Montegioco Open Mind, Birrificio del Forte Il Tralcio, Luppolajo Mons Rubus, Firestone Walker Feral Vinifera, pFriem Family Brewers Druif, 4 Árvores Abbondanza
 ---
 
 ABV: 6-8.5%  
@@ -35,3 +36,6 @@ Initially brewed at Birrificio Montegioco and Birrificio Barley in 2006-2007. Be
 
 ## Comments
 Strengths can be as low as 4.5% or as high as 12.5%, but most commonly in the range listed. Perception of color varies widely based on tint of added fruit.
+
+## Commercial Examples
+Montegioco Open Mind, Birrificio del Forte Il Tralcio, Luppolajo Mons Rubus, Firestone Walker Feral Vinifera, pFriem Family Brewers Druif, 4 Árvores Abbondanza

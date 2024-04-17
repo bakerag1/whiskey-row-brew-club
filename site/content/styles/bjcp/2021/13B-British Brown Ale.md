@@ -3,6 +3,7 @@ title: 13B - British Brown Ale
 category: 13
 aliases: 
   - "13B"
+examples: AleSmith Nut Brown Ale, Cigar City Maduro Brown Ale, Maxim Double Maxim, Newcastle Brown Ale, Riggwelter Yorkshire Ale, Samuel Smith’s Nut Brown Ale
 ---
 
 ABV: 4.2-5.9%  
@@ -35,3 +36,6 @@ Brown ale has a long history in Great Britain, although different products used 
 
 ## Comments
 A wide-ranging category with different interpretations possible, ranging from lighter-colored to hoppy to deeper, darker, and caramel-focused; however, none of the versions have strongly roasted flavors. A stronger Double Brown Ale was more popular in the past, but is very hard to find now. While London Brown Ales are marketed using the name Brown Ale, we list those as a different judging style due to the significant difference in balance (especially sweetness) and alcohol strength; that doesn’t mean that they aren’t in the same family, though.
+
+## Commercial Examples
+AleSmith Nut Brown Ale, Cigar City Maduro Brown Ale, Maxim Double Maxim, Newcastle Brown Ale, Riggwelter Yorkshire Ale, Samuel Smith’s Nut Brown Ale

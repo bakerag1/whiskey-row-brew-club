@@ -3,6 +3,7 @@ title: 2A - International Pale Lager
 category: 2
 aliases: 
   - "2A"
+examples: Asahi Super Dry, Birra Moretti, Corona Extra, Devils Backbone Gold Leaf Lager, Full Sail Session Premium Lager, Heineken, Red Stripe, Singha
 ---
 
 ABV: 4.5-6%  
@@ -35,3 +36,6 @@ In the United States, developed as a premium version of the standard American la
 
 ## Comments
 Tends to have fewer adjuncts than American Lagers. They may be all-malt, although strong flavors are still a fault. A broad category of international mass-market lagers ranging from up-scale American lagers to the typical “import” or “green bottle” international beers found in America and many export markets. Often confusingly labeled as a “Pilsner.” Any skunkiness in commercial beers is a handling fault, not a characteristic of the style.
+
+## Commercial Examples
+Asahi Super Dry, Birra Moretti, Corona Extra, Devils Backbone Gold Leaf Lager, Full Sail Session Premium Lager, Heineken, Red Stripe, Singha

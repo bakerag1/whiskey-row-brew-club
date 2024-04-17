@@ -3,6 +3,7 @@ title: 16A - Sweet Stout
 category: 16
 aliases: 
   - "16A"
+examples: Bristol Beer Factory Milk Stout, Firestone Nitro Merlin Milk Stout, Left Hand Milk Stout, Lancaster Milk Stout, Mackeson's XXX Stout, Marston’s Pearl Jet Stout
 ---
 
 ABV: 4-6%  
@@ -35,3 +36,6 @@ An English style of stout developed in the early 1900s. Historically known as �
 
 ## Comments
 Gravities are low in Britain (sometimes lower than the statistics below), higher in exported and US products. Variations exist, with the level of residual sweetness, the intensity of the roast character, and the balance between the two being the variables most subject to interpretation.
+
+## Commercial Examples
+Bristol Beer Factory Milk Stout, Firestone Nitro Merlin Milk Stout, Left Hand Milk Stout, Lancaster Milk Stout, Mackeson's XXX Stout, Marston’s Pearl Jet Stout

@@ -3,6 +3,7 @@ title: 17B - Old Ale
 category: 17
 aliases: 
   - "17B"
+examples: Avery Old Jubilation, Berlina Old Ale, Greene King Strong Suffolk Ale, Marston Owd Roger, Theakston Old Peculier
 ---
 
 ABV: 5.5-9%  
@@ -35,3 +36,6 @@ Historically, an aged ale used as stock ales for blending or enjoyed at full str
 
 ## Comments
 Strength and character vary widely. The predominant defining quality for this style is the impression of age, which can manifest itself in different ways (complexity, oxidation, leather, vinous qualities, etc.). Many of these qualities are otherwise faults, but if the resulting character of the beer is pleasantly drinkable and complex, then those characteristics are acceptable. In no way should those allowable characteristics be interpreted as making an undrinkably off-flavored beer as somehow in style. Old Peculier is a well-known but fairly unique beer that is quite different than other Old Ales.
+
+## Commercial Examples
+Avery Old Jubilation, Berlina Old Ale, Greene King Strong Suffolk Ale, Marston Owd Roger, Theakston Old Peculier

@@ -3,6 +3,7 @@ title: 1C - Cream Ale
 category: 1
 aliases: 
   - "1C"
+examples: Genesee Cream Ale, Liebotschaner Cream Ale, Kiwanda Pre-Prohibition Cream Ale, Little Kings Cream Ale, Sleeman Cream Ale, Sun King Sunlight Cream Ale
 ---
 
 ABV: 4.2-5.6%  
@@ -35,3 +36,6 @@ A sparkling or present-use ale from the second half of the 1800s that survived p
 
 ## Comments
 Most commercial examples are in the 1.050–1.053 OG range, and bitterness rarely rises above 20 IBUs.
+
+## Commercial Examples
+Genesee Cream Ale, Liebotschaner Cream Ale, Kiwanda Pre-Prohibition Cream Ale, Little Kings Cream Ale, Sleeman Cream Ale, Sun King Sunlight Cream Ale

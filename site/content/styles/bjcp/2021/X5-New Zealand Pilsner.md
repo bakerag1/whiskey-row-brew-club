@@ -3,6 +3,7 @@ title: X5 - New Zealand Pilsner
 category: 100
 aliases: 
   - "X5"
+examples: Croucher New Zealand Pilsner, Emerson’s Pilsner, Liberty Halo Pilsner, Panhead Port Road Pilsner, Sawmill Pilsner, Tuatara Mot Eureka
 ---
 
 ABV: 4.5-5.8%  
@@ -35,3 +36,6 @@ Largely defined by the original created at Emerson’s Brewery in the mid-1990s,
 
 ## Comments
 The hop aromatics often have a similar quality as many New Zealand Sauvignon Blanc wines, with tropical fruit, grassy, melon, and lime aromatics. Often brewed as a hybrid style in New Zealand using a neutral ale yeast at cool temperatures. Limiting the sulfur content of the finished product is important since it can clash with the hop character.
+
+## Commercial Examples
+Croucher New Zealand Pilsner, Emerson’s Pilsner, Liberty Halo Pilsner, Panhead Port Road Pilsner, Sawmill Pilsner, Tuatara Mot Eureka

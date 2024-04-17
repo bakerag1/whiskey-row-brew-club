@@ -3,6 +3,7 @@ title: 30B - Autumn Seasonal Beer
 category: 30
 aliases: 
   - "30B"
+examples: Dogfish Head Punkin Ale, Elysian Punkuccino, Rogue Pumpkin Patch Ale, Schlafly Pumpkin Ale, UFO Pumpkin, Weyerbacher Imperial Pumpkin
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Spices are required, and often include those evocative of the fall, harvest, or 
 
 ## Comments
 Using the sensory profile of products that suggest the harvest season, like pumpkin pie, apple pie, or candied yams, balanced with a supportive, often malty base beer. The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors.
+
+## Commercial Examples
+Dogfish Head Punkin Ale, Elysian Punkuccino, Rogue Pumpkin Patch Ale, Schlafly Pumpkin Ale, UFO Pumpkin, Weyerbacher Imperial Pumpkin

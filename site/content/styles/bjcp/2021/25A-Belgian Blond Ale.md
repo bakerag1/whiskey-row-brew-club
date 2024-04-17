@@ -3,6 +3,7 @@ title: 25A - Belgian Blond Ale
 category: 25
 aliases: 
   - "25A"
+examples: Affligem Blond, Corsendonk Blond, Grimbergen Blonde, La Trappe Blond, Leffe Blond, Val-Dieu Blonde
 ---
 
 ABV: 6-7.5%  
@@ -35,3 +36,6 @@ Relatively recent development to further appeal to European Pils drinkers, becom
 
 ## Comments
 Most commercial examples are in the 6.5 – 7% ABV range. Often has an almost lager-like character, which gives it a cleaner profile in comparison to many other Belgian styles. Flemish-speaking Belgians use the term Blond, while the French speakers spell it Blonde. Many monastic or artisanal Belgian beers are called Blond but those are notrepresentative of this style.
+
+## Commercial Examples
+Affligem Blond, Corsendonk Blond, Grimbergen Blonde, La Trappe Blond, Leffe Blond, Val-Dieu Blonde

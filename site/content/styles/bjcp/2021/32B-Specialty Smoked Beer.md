@@ -3,6 +3,7 @@ title: 32B - Specialty Smoked Beer
 category: 32
 aliases: 
   - "32B"
+examples: Fat Head’s Up in Smoke, Ommegang Bourbon Barrel Vanilla Smoked Porter
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Same as 32A Classic Style Smoked Beer with the possible addition of specialty in
 
 ## Comments
 Judges should evaluate these beers mostly on the overall balance, and how well the smoke character enhances the base beer and any specialty ingredients.
+
+## Commercial Examples
+Fat Head’s Up in Smoke, Ommegang Bourbon Barrel Vanilla Smoked Porter

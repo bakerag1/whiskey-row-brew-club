@@ -3,6 +3,7 @@ title: 26C - Belgian Tripel
 category: 26
 aliases: 
   - "26C"
+examples: Chimay Tripel, La Rulles Tripel, La Trappe Tripel, St. Bernardus Tripel, Val-Dieu Triple, Westmalle Tripel
 ---
 
 ABV: 7.5-9.5%  
@@ -35,3 +36,6 @@ Popularized by the monastery at Westmalle, first brewed in 1934.
 
 ## Comments
 High in alcohol but does not taste strongly of alcohol. The best examples are sneaky, not obvious. High carbonation and attenuation helps bring out the many flavors and to increase the perception of a dry finish. Most traditional versions have at least 30 IBUs and are very dry.
+
+## Commercial Examples
+Chimay Tripel, La Rulles Tripel, La Trappe Tripel, St. Bernardus Tripel, Val-Dieu Triple, Westmalle Tripel

@@ -3,6 +3,7 @@ title: 13C - English Porter
 category: 13
 aliases: 
   - "13C"
+examples: Bateman’s Salem Porter, Burton Bridge Burton Porter, Fuller's London Porter, Nethergate Old Growler Porter, RCH Old Slug Porter, Samuel Smith Taddy Porter
 ---
 
 ABV: 4-5.4%  
@@ -35,3 +36,6 @@ Originating in London in the early 1700s, porter evolved as a more heavily hoppe
 
 ## Comments
 This style description describes the modern version of English Porter, not every possible variation over time in every region where it existed. Historical re-creations should be entered in the 27 Historical Beer category, with an appropriate description describing the profile of the beer. Modern craft examples in the UK are bigger and hoppier.
+
+## Commercial Examples
+Bateman’s Salem Porter, Burton Bridge Burton Porter, Fuller's London Porter, Nethergate Old Growler Porter, RCH Old Slug Porter, Samuel Smith Taddy Porter

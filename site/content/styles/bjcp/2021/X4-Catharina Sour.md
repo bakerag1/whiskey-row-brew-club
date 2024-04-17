@@ -3,6 +3,7 @@ title: X4 - Catharina Sour
 category: 100
 aliases: 
   - "X4"
+examples: 
 ---
 
 ABV: 4-5.5%  
@@ -34,3 +35,6 @@ Médio à alto caráter de fruta, reconhecível e identificável de forma imedia
 
 
 ## Comments
+
+
+## Commercial Examples

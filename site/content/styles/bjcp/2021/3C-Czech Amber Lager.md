@@ -3,6 +3,7 @@ title: 3C - Czech Amber Lager
 category: 3
 aliases: 
   - "3C"
+examples: Bernard Jantarový ležák 12°, Gambrinus Polotmavá 12°, Kozel Semi-Dark, Lobkowicz Démon 13, Primátor 13 polotmavé, Strakonický Dudák Klostermann polotmavý ležák
 ---
 
 ABV: 4.4-5.8%  
@@ -35,3 +36,6 @@ A Vienna-style lager which has continued to be brewed in the Czech Republic. A r
 
 ## Comments
 The Czech name of the style is polotmavé pivo, which translates as half-dark beer. This style is a combination of the Czech styles polotmavý ležák (11–12.9 °P) and polotmavé speciální pivo (13–14.9 °P). Some versions may be a blend of pale and dark lagers.
+
+## Commercial Examples
+Bernard Jantarový ležák 12°, Gambrinus Polotmavá 12°, Kozel Semi-Dark, Lobkowicz Démon 13, Primátor 13 polotmavé, Strakonický Dudák Klostermann polotmavý ležák

@@ -3,6 +3,7 @@ title: 23B - Flanders Red Ale
 category: 23
 aliases: 
   - "23B"
+examples: Cuvée des Jacobins, Duchesse de Bourgogne, New Belgium La Folie,Rodenbach Classic, Rodenbach Grand Cru, Vichtenaar Flemish Ale
 ---
 
 ABV: 4.6-6.5%  
@@ -35,3 +36,6 @@ An indigenous beer of West Flanders, typified by the products of the Rodenbach b
 
 ## Comments
 The “wine-like” observation should not be taken too literally; it may suggest a high-acid French Burgundy to some, but it is clearly not identical. Produced by long aging (up to two years) in large wooden vats (foeders), blending of young and well-aged beer, and variable amounts of sweetening of the final product.A wide range of products are possible depending on the actual blend and whether any sweetening takes place. Acetic flavors may be noted, but not all acidity in this beer is from acetic acid; vinegar is over six times greater in total acidity than this style. Fruited versions should be entered as a 29A Fruit Beer.
+
+## Commercial Examples
+Cuvée des Jacobins, Duchesse de Bourgogne, New Belgium La Folie,Rodenbach Classic, Rodenbach Grand Cru, Vichtenaar Flemish Ale

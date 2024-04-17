@@ -3,6 +3,7 @@ title: 22A - Double IPA
 category: 22
 aliases: 
   - "22A"
+examples: Columbus Brewing Bohdi, Fat Head’s Hop Juju, Port Brewing Hop-15, Russian River Pliny the Elder, Stone Ruination Double IPA 2.0, Wicked Weed Freak of Nature
 ---
 
 ABV: 7.5-10%  
@@ -35,3 +36,6 @@ An American craft beer innovation first developed in the mid-late 1990s as more 
 
 ## Comments
 Rarely called Imperial IPA. Many modern versions have multiple dry-hop additions.
+
+## Commercial Examples
+Columbus Brewing Bohdi, Fat Head’s Hop Juju, Port Brewing Hop-15, Russian River Pliny the Elder, Stone Ruination Double IPA 2.0, Wicked Weed Freak of Nature

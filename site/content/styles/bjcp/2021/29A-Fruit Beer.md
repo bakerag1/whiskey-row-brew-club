@@ -3,6 +3,7 @@ title: 29A - Fruit Beer
 category: 29
 aliases: 
   - "29A"
+examples: 21st Amendment Watermelon Wheat, Anderson Valley Blood Orange Gose, Avery Liliko’i Kepolo, Ballast Point Grapefruit Sculpin, Bell’s Cherry Stout, Founders Rübæus
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Varies by base style. Fruitoften decreases body, and makes the beer seem lighter
 
 ## Comments
 The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors. The fruit should complement the original style and not overwhelm it. Base style attributes will be different after the addition of fruit; do not expect the beer to taste identical to the unadulterated base style.Fruit Beers based on a Classic Style should be entered in this style, except Lambic – there is a special style for Fruit Lambic (23F). Fruited sour or mixed fermentation beers without a Classic Style base should be entered in the 28C Wild Specialty Beer. Fruited versions of sour Classic Style beers (e.g., Flanders Red, Oud Bruin, Gose, Berliner Weisse) should be entered in 29A Fruit Beer. Fruit-based versions of Classic Styles where spices are an inherent part of the Classic Style’s definition (e.g., Witbier, Gose) do not count as a Spice Beer for entering purposes.
+
+## Commercial Examples
+21st Amendment Watermelon Wheat, Anderson Valley Blood Orange Gose, Avery Liliko’i Kepolo, Ballast Point Grapefruit Sculpin, Bell’s Cherry Stout, Founders Rübæus

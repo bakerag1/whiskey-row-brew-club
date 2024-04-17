@@ -3,6 +3,7 @@ title: 19A - American Amber Ale
 category: 19
 aliases: 
   - "19A"
+examples: Anderson Valley Boont Amber Ale, Bell’s Amber Ale, Full Sail Amber, North Coast Red Seal Ale, Saint Arnold Amber Ale, Tröegs Hopback Amber Ale
 ---
 
 ABV: 4.5-6.2%  
@@ -35,3 +36,6 @@ A modern American craft beer style developed as a variation from American Pale A
 
 ## Comments
 Can overlap in color with darker American pale ales, but with a different malt flavor and balance. A range of balance exists in this style, from balanced and malty to more aggressively hopped.
+
+## Commercial Examples
+Anderson Valley Boont Amber Ale, Bell’s Amber Ale, Full Sail Amber, North Coast Red Seal Ale, Saint Arnold Amber Ale, Tröegs Hopback Amber Ale

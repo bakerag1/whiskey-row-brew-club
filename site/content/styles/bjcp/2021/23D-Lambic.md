@@ -3,6 +3,7 @@ title: 23D - Lambic
 category: 23
 aliases: 
   - "23D"
+examples: Cantillon Grand Cru Bruocsella. In the Brussels area, many specialty cafés have draught lambic from Boon, De Cam, Cantillon, Drie Fonteinen, Lindemans, Timmermans, Girardin and others.
 ---
 
 ABV: 5-6.5%  
@@ -35,3 +36,6 @@ Spontaneously-fermented ‘wild’ ales from the area in and around Brussels (al
 
 ## Comments
 A single-batch, unblended beer, reflecting the house character of the brewery. Generally served young (6 months) from the cask. Younger versions tend to be one-dimensionally sour since a complex Brett character takes a year or more to develop. A noticeable vinegary or cidery character is considered a fault by Belgian brewers. Typically bottled only when completely fermented. Lambic sweetened with raw sugar at service time is known as Faro.
+
+## Commercial Examples
+Cantillon Grand Cru Bruocsella. In the Brussels area, many specialty cafés have draught lambic from Boon, De Cam, Cantillon, Drie Fonteinen, Lindemans, Timmermans, Girardin and others.

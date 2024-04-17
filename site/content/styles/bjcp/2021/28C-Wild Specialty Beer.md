@@ -3,6 +3,7 @@ title: 28C - Wild Specialty Beer
 category: 28
 aliases: 
   - "28C"
+examples: Cascade Bourbonic Plague, Jester King Atrial Rubicite, New Belgium Dominga Mimosa Sour, New Glarus Wisconsin Belgian Red, Russian River Supplication, The Lost Abbey Cuvee de Tomme
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Modern American craft beer interpretations of Belgian wild ales, or experimentat
 
 ## Comments
 This style is intended for fruited (and other added Specialty-TypeIngredient) versions of other styles within Category 28, not variations of European wild or sour Classic Styles. Fruited versions of Lambic should be entered in 23F Fruit Lambic. Fruited versions of other sour Classic Styles (e.g., Flanders Red, Oud Bruin, Gose, Berliner Weisse) should be entered in 29A Fruit Beer. Beers with sugars and unfermented fruit added post-fermentation should be entered in 29C Specialty Fruit Beer.
+
+## Commercial Examples
+Cascade Bourbonic Plague, Jester King Atrial Rubicite, New Belgium Dominga Mimosa Sour, New Glarus Wisconsin Belgian Red, Russian River Supplication, The Lost Abbey Cuvee de Tomme

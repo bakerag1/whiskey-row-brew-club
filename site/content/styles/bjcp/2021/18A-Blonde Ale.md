@@ -3,6 +3,7 @@ title: 18A - Blonde Ale
 category: 18
 aliases: 
   - "18A"
+examples: Firestone Walker 805, Kona Big Wave Golden Ale, Real Ale Firemans #4 Blonde Ale, Russian River Aud Blonde, Victory Summer Love, Widmer Citra Summer Blonde Brew
 ---
 
 ABV: 3.8-5.5%  
@@ -35,3 +36,6 @@ An American craft beer style produced as a faster-produced alternative to standa
 
 ## Comments
 Oxidized versions can develop caramel or honey notes, which should not be mistaken for similar malt-derived flavors. Sometimes known as Golden Ale or simply a Gold.
+
+## Commercial Examples
+Firestone Walker 805, Kona Big Wave Golden Ale, Real Ale Firemans #4 Blonde Ale, Russian River Aud Blonde, Victory Summer Love, Widmer Citra Summer Blonde Brew

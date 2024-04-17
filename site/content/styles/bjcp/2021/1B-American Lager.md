@@ -3,6 +3,7 @@ title: 1B - American Lager
 category: 1
 aliases: 
   - "1B"
+examples: Budweiser, Coors Original, Grain Belt Premium American Lager, Miller High Life, Old Style, Pabst Blue Ribbon, Special Export
 ---
 
 ABV: 4.2-5.3%  
@@ -35,3 +36,6 @@ Evolved from Pre-Prohibition Lager (see Category 27) in the US after Prohibition
 
 ## Comments
 Often what non-craft beer drinkers expect to be served if they order beer in the United States. May be marketed as Pilsner outside Europe, but should not be confused with traditional examples.Strong flavors are a fault. With little malt or hop flavor, the yeast character is what most frequently differentiates brands.
+
+## Commercial Examples
+Budweiser, Coors Original, Grain Belt Premium American Lager, Miller High Life, Old Style, Pabst Blue Ribbon, Special Export

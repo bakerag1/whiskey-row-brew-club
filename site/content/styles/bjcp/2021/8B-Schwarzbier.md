@@ -3,6 +3,7 @@ title: 8B - Schwarzbier
 category: 8
 aliases: 
   - "8B"
+examples: Chuckanut Schwarz Lager,Devils Backbone Schwartz Bier, Köstritzer Schwarzbier, Kulmbacher Mönchshof Schwarzbier, Nuezeller Original Badebier, pFriem Schwarzbier
 ---
 
 ABV: 4.4-5.4%  
@@ -35,3 +36,6 @@ A regional specialty from Thuringia, Saxony, and Franconia in Germany. Served as
 
 ## Comments
 Literally means black beer in German. While sometimes called a “black Pils,” the beer is rarely as dark as black or as hop-forward and bitter as a Pils. Strongly roasted, Porter-like flavors are a flaw.
+
+## Commercial Examples
+Chuckanut Schwarz Lager,Devils Backbone Schwartz Bier, Köstritzer Schwarzbier, Kulmbacher Mönchshof Schwarzbier, Nuezeller Original Badebier, pFriem Schwarzbier

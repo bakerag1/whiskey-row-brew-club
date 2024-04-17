@@ -3,6 +3,7 @@ title: 24B - Belgian Pale Ale
 category: 24
 aliases: 
   - "24B"
+examples: De Koninck Bolleke, De Ryck Special, Palm,Palm Dobble
 ---
 
 ABV: 4.8-5.5%  
@@ -35,3 +36,6 @@ Created after a competition in 1904 to create a regional specialty beer to compe
 
 ## Comments
 Most commonly found in the Flemish provinces of Antwerp, Brabant, Hainaut, and East Flanders. A Spéciale Belge Ale (Belgian Special Ale) in Belgium.
+
+## Commercial Examples
+De Koninck Bolleke, De Ryck Special, Palm,Palm Dobble

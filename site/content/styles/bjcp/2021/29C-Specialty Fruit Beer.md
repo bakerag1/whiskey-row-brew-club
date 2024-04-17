@@ -3,6 +3,7 @@ title: 29C - Specialty Fruit Beer
 category: 29
 aliases: 
   - "29C"
+examples: The Bruery Goses are Red,New Planet Raspberry Ale, Tired Hands Strawberry Milkshake IPA, WeldWerks Piña Colada IPA
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Same as Fruit Beer, although depending on the type of sugar added, could increas
 
 ## Comments
 If the additional fermentables or processes do not add a distinguishable character to the beer, enter it as one of the other (non-Specialty) Fruit Beer styles and omit a description of the extra ingredients or processes.
+
+## Commercial Examples
+The Bruery Goses are Red,New Planet Raspberry Ale, Tired Hands Strawberry Milkshake IPA, WeldWerks Piña Colada IPA

@@ -3,6 +3,7 @@ title: 26A - Belgian Single
 category: 26
 aliases: 
   - "26A"
+examples: Chimay Gold, La Trappe Puur, Russian River Redemption, St. Bernardus Extra 4,Westmalle Extra, Westvleteren Blond
 ---
 
 ABV: 4.8-6%  
@@ -35,3 +36,6 @@ While monastic breweries have a tradition of brewing a lower-strength beer as a 
 
 ## Comments
 Often not labeled or available outside the monastery, or infrequently brewed. Might also be called monk’s beer, Brother’s beer, or simply a Blond (we don’t use this term to avoid confusion with the very different Belgian Blond Ale style). Highly attenuated, generally 85% or more.
+
+## Commercial Examples
+Chimay Gold, La Trappe Puur, Russian River Redemption, St. Bernardus Extra 4,Westmalle Extra, Westvleteren Blond

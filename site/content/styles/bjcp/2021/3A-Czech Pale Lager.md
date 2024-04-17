@@ -3,6 +3,7 @@ title: 3A - Czech Pale Lager
 category: 3
 aliases: 
   - "3A"
+examples: Bernard světlé pivo 10, Březňák světlé výčepní pivo, Notch Session Pils, Primátor Antonín světlé výčepní, Radegast Rázna 10, Únětické pivo 10°
 ---
 
 ABV: 3-4.1%  
@@ -35,3 +36,6 @@ Josef Groll initially brewed two types of pale beer in 1842–3, a výčepníand
 
 ## Comments
 The Czech name of the style is světlé výčepní pivo.
+
+## Commercial Examples
+Bernard světlé pivo 10, Březňák světlé výčepní pivo, Notch Session Pils, Primátor Antonín světlé výčepní, Radegast Rázna 10, Únětické pivo 10°

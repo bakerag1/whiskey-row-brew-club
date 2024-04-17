@@ -3,6 +3,7 @@ title: 5A - German Leichtbier
 category: 5
 aliases: 
   - "5A"
+examples: Autenrieder Schlossbräu Leicht, Greif Bräu Leicht, Hohenthanner Tannen Hell Leicht, Müllerbrau Heimer Leicht, Schönramer Surtaler Schankbier, Waldhaus Sommer Bier
 ---
 
 ABV: 2.4-3.6%  
@@ -35,3 +36,6 @@ Traditional versions existed as drinks for physical laborers in factories or fie
 
 ## Comments
 Marketed primarily as a diet-oriented beer with lower carbohydrates, alcohol, and calories. Pronounced “LYESHT-beer.” May also be known as a Diat Pils or Helles, this style is in the schankbier gravity class. Other variations of Leicht class beers can be made from Weissbier, Kölsch, and Altbier; those beers are best entered as34B Mixed-Style Beer.
+
+## Commercial Examples
+Autenrieder Schlossbräu Leicht, Greif Bräu Leicht, Hohenthanner Tannen Hell Leicht, Müllerbrau Heimer Leicht, Schönramer Surtaler Schankbier, Waldhaus Sommer Bier

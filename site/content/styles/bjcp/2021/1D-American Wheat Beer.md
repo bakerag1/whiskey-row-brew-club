@@ -3,6 +3,7 @@ title: 1D - American Wheat Beer
 category: 1
 aliases: 
   - "1D"
+examples: Bell’s Oberon, Boulevard Unfiltered Wheat Beer, GoodLife Sweet As! Pacific Ale, Goose Island 312 Urban Wheat Ale, Widmer Hefeweizen
 ---
 
 ABV: 4-5.5%  
@@ -35,3 +36,6 @@ An American craft beer adaptation of the Weissbier style using a cleaner yeast a
 
 ## Comments
 Different variations exist, from an easy-drinking fairly sweet beer to a dry, aggressively-hopped beer with a strong wheat flavor. American Rye beers should be entered as31A Alternative GrainBeer.
+
+## Commercial Examples
+Bell’s Oberon, Boulevard Unfiltered Wheat Beer, GoodLife Sweet As! Pacific Ale, Goose Island 312 Urban Wheat Ale, Widmer Hefeweizen

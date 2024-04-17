@@ -3,6 +3,7 @@ title: 14C - Scottish Export
 category: 14
 aliases: 
   - "14C"
+examples: Belhaven Scottish Ale, Broughton Wee Jock 80 Shilling, Caledonian Edinburgh Castle, McEwan’s 80/-, McEwan’s Export, Traquair Bear Ale
 ---
 
 ABV: 3.9-6%  
@@ -35,3 +36,6 @@ See category introduction. The Shilling ale names were used for mild (unaged) be
 
 ## Comments
 See category introduction for detailed comments. May not seem as bitter as specifications indicate due to higher finishing gravity and residual sweetness. Do not mis-perceive the light roasty dryness as smoke; smoke is not present in these beers. Americanized versions are often greater in strength (similar to American treatment of Irish Red Ales).
+
+## Commercial Examples
+Belhaven Scottish Ale, Broughton Wee Jock 80 Shilling, Caledonian Edinburgh Castle, McEwan’s 80/-, McEwan’s Export, Traquair Bear Ale

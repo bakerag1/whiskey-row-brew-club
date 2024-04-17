@@ -3,6 +3,7 @@ title: 7B - Altbier
 category: 7
 aliases: 
   - "7B"
+examples: Bolten Alt, Diebels Alt, Füchschen Alt, Original Schlüssel Alt, Schlösser Alt, Schumacher Alt, Uerige Altbier
 ---
 
 ABV: 4.3-5.5%  
@@ -35,3 +36,6 @@ Developed in the late 19th century in Düsseldorf to use lager techniques to com
 
 ## Comments
 Classic, traditional examples in the Altstadt (“old town”) section of Düsseldorf are served from casks.Most examples have a balanced (25-35 IBU) bitterness, not the aggressive hop character of the well-known Zum Uerige.Stronger sticke and doppelsticke beers should be entered in the 27 Historical Beer style instead.
+
+## Commercial Examples
+Bolten Alt, Diebels Alt, Füchschen Alt, Original Schlüssel Alt, Schlösser Alt, Schumacher Alt, Uerige Altbier

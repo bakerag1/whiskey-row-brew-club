@@ -3,6 +3,7 @@ title: 9C - Baltic Porter
 category: 9
 aliases: 
   - "9C"
+examples: Aldaris Mežpils Porteris, Baltika 6 Porter, Devils Backbone Danzig, Okocim Mistrzowski Porter, Sinebrychoff Porter, Zywiec Porter
 ---
 
 ABV: 6.5-9.5%  
@@ -35,3 +36,6 @@ Developed indigenously (and independently) in several countries bordering the Ba
 
 ## Comments
 Most commercial versions are in the 7–8.5% ABV range. The best examples have a deceptive strength that makes them dangerously easy to drink. The character of these beers varies by country of origin, so be careful about generalizing based on a single example. Some beers are truer to their English roots, while others are more of the style first popularized in Poland.
+
+## Commercial Examples
+Aldaris Mežpils Porteris, Baltika 6 Porter, Devils Backbone Danzig, Okocim Mistrzowski Porter, Sinebrychoff Porter, Zywiec Porter

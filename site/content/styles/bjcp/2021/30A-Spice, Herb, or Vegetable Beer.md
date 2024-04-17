@@ -3,6 +3,7 @@ title: 30A - Spice, Herb, or Vegetable Beer
 category: 30
 aliases: 
   - "30A"
+examples: Alesmith Speedway Stout, Elysian Avatar Jasmine IPA, Founders Breakfast Stout, Rogue Yellow Snow Pilsner, Traquair Jacobite Ale, Young’s Double Chocolate Stout
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Varies by base style. SHVs may increase or decrease body. Some SHVs may add a bi
 
 ## Comments
 The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors. The SHVs should complement the original style and not overwhelm it. Base style attributes will be different after the addition of SHVs; do not expect the beer to taste identical to the unadulterated base style.
+
+## Commercial Examples
+Alesmith Speedway Stout, Elysian Avatar Jasmine IPA, Founders Breakfast Stout, Rogue Yellow Snow Pilsner, Traquair Jacobite Ale, Young’s Double Chocolate Stout

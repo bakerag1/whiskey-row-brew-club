@@ -3,6 +3,7 @@ title: 32A - Classic Style Smoked Beer
 category: 32
 aliases: 
   - "32A"
+examples: Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla Rauchbier Weizen,SchlenkerlaRauchbier Ur-Bock, O’Fallon Smoked Porter, Spezial Rauchbier Lagerbier
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ The process of using smoked malts has been adapted by craft brewers to many styl
 
 ## Comments
 Use this style for beers other than Bamberg-style Rauchbier (i.e., beechwood-smoked Märzen), which has its own style. Judges should evaluate these beers mostly on the overall balance, and how well the smoke character enhances the base beer.
+
+## Commercial Examples
+Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla Rauchbier Weizen,SchlenkerlaRauchbier Ur-Bock, O’Fallon Smoked Porter, Spezial Rauchbier Lagerbier

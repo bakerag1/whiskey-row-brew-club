@@ -3,6 +3,7 @@ title: 5B - Kölsch
 category: 5
 aliases: 
   - "5B"
+examples: Früh Kölsch, Gaffel Kölsch, Mühlen Kölsch, Päffgen Kolsch, Reissdorf Kölsch, Sion Kölsch, Sünner Kölsch
 ---
 
 ABV: 4.4-5.2%  
@@ -35,3 +36,6 @@ Köln has a top-fermenting brewing tradition since the Middle Ages, but the beer
 
 ## Comments
 A traditional top-fermented, lagered beer from Cologne, Germany (Köln). Köln breweriesdifferentiate themselves throughbalance, so allow for a range of variation within the style when judging. Drier versions may seem hoppier or more bitter than the IBU levels might suggest. The delicate flavor profile does not age well, so be alert for oxidation defects. Served in Köln in a tall, narrow 20cl glass called a Stange.
+
+## Commercial Examples
+Früh Kölsch, Gaffel Kölsch, Mühlen Kölsch, Päffgen Kolsch, Reissdorf Kölsch, Sion Kölsch, Sünner Kölsch

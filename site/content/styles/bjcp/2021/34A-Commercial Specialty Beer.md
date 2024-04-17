@@ -3,6 +3,7 @@ title: 34A - Commercial Specialty Beer
 category: 34
 aliases: 
   - "34A"
+examples: Orval, La Chouffe
 ---
 
 ABV: 0-0%  
@@ -35,3 +36,6 @@ Based on declared beer.
 
 ## Comments
 Intended as a catch-all location for specific beers that are based on unique commercial examples that don’t fit existing styles. Past versions of the Style Guidelines included a Belgian Specialty Ale style; this style fits that general purpose, as well as allowing non-Belgian entries of similar intent.
+
+## Commercial Examples
+Orval, La Chouffe

@@ -3,6 +3,7 @@ title: 14A - Scottish Light
 category: 14
 aliases: 
   - "14A"
+examples: Belhaven Best, McEwan's 60/-
 ---
 
 ABV: 2.5-3.3%  
@@ -35,3 +36,6 @@ See category introduction. The Shilling ale names were used for mild (unaged) be
 
 ## Comments
 See category introduction for detailed comments. May not seem as bitter as specifications indicate due to higher finishing gravity and residual sweetness.Typically a draught product, but somewhat rare.Do not mis-perceive the light roasty dryness as smoke; smoke is not present in these beers.
+
+## Commercial Examples
+Belhaven Best, McEwan's 60/-

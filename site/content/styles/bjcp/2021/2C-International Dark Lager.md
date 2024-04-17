@@ -3,6 +3,7 @@ title: 2C - International Dark Lager
 category: 2
 aliases: 
   - "2C"
+examples: Baltika #4 Original, Dixie Blackened Voodoo, Heineken Dark Lager, Saint Pauli Girl Special Dark, San Miguel Dark, Shiner Bock
 ---
 
 ABV: 4.2-6%  
@@ -35,3 +36,6 @@ Darker versions of International Pale Lagers often created by the same large, in
 
 ## Comments
 A broad range of international lagers that are darker than pale, and not assertively bitter or roasted.
+
+## Commercial Examples
+Baltika #4 Original, Dixie Blackened Voodoo, Heineken Dark Lager, Saint Pauli Girl Special Dark, San Miguel Dark, Shiner Bock
