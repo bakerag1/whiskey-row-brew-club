@@ -9,6 +9,7 @@ examples: Franciscan Well Rebel Red, Kilkenny Irish Beer, Murphy’s Irish Red, 
 ABV: 3.8-5%  
 OG/FG: 1.036-1.046/1.01-1.014  
 SRM: 9-14  
+IBU: 18-28
 
 ## Overall Impression
 An easy-drinking pint, often with subtle flavors. Slightly malty in the balance sometimes with an initial soft toffee or caramel sweetness, a slightly grainy-biscuity palate, and a touch of roasted dryness in the finish. Some versions can emphasize the caramel and sweetness more, while others will favor the grainy palate and roasted dryness.

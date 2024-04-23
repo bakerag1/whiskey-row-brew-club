@@ -9,6 +9,7 @@ examples: Cigar City Margarita Gose, Firestone Walker Chocolate Cherry Stout, Go
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A tasteful union of fruit, spice, and beer, but still recognizable as beer. The fruit and spice character should each be evident but in balance with the beer, not so forward as to suggest an artificial product.

@@ -9,6 +9,7 @@ examples: Montegioco Open Mind, Birrificio Barley BB5-10, Birrificio del Forte I
 ABV: 4.5-12%  
 OG/FG: 1.045-1.1/1.005-1.015  
 SRM: 14-25  
+IBU: 6-30
 
 ## Overall Impression
 A sometimes refreshing, sometimes more complex Italian ale characterized by different varieties of grapes.

@@ -9,6 +9,7 @@ examples: Dark Versions –Andechs Doppelbock Dunkel,Ayinger Celebrator, Paulane
 ABV: 7-10%  
 OG/FG: 1.072-1.112/1.016-1.024  
 SRM: 6-25  
+IBU: 16-26
 
 ## Overall Impression
 A strong, rich, and very malty German lager that can have both pale and dark variants. The darker versions have more richly-developed, deeper malt flavors, while the paler versions have slightly more hops and dryness.

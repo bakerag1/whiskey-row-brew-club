@@ -9,6 +9,7 @@ examples: Ayinger Urweisse, Ettaler Benediktiner Weißbier Dunkel, Franziskaner 
 ABV: 4.3-5.6%  
 OG/FG: 1.044-1.057/1.008-1.014  
 SRM: 14-23  
+IBU: 10-18
 
 ## Overall Impression
 A moderatelydark German wheat beer with a distinctive banana-and-clove weizen yeast fermentation profile, supported by a toasted bread or caramel malt flavor. Highly carbonated and refreshing, with a creamy, fluffy texture and light finish.

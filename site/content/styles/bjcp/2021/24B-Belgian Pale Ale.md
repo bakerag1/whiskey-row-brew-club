@@ -9,6 +9,7 @@ examples: De Koninck Bolleke, De Ryck Special, Palm,Palm Dobble
 ABV: 4.8-5.5%  
 OG/FG: 1.048-1.054/1.01-1.014  
 SRM: 8-14  
+IBU: 20-30
 
 ## Overall Impression
 A top-fermented, all malt, average strength Belgian ale that is moderately bitter, not dry-hopped, and without strong flavors. The copper-colored beer lacks the aggressive yeast character or sourness of many Belgian beers, buthas a well-balanced, malty, fruity, and often bready and toasty profile.

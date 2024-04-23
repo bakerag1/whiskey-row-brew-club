@@ -9,6 +9,7 @@ examples: Ayinger Bräuweisse, Distelhäuser Hell Weizen, Hacker-Pschorr Hefewei
 ABV: 4.3-5.6%  
 OG/FG: 1.044-1.053/1.008-1.014  
 SRM: 2-6  
+IBU: 8-15
 
 ## Overall Impression
 A pale, refreshing, lightly-hopped German wheat beer with high carbonation, dry finish, fluffy mouthfeel, and a distinctive banana-and-clove weizen yeast fermentation profile.

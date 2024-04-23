@@ -9,6 +9,7 @@ examples: Chimay Gold, La Trappe Puur, Russian River Redemption, St. Bernardus E
 ABV: 4.8-6%  
 OG/FG: 1.044-1.054/1.004-1.01  
 SRM: 3-5  
+IBU: 25-45
 
 ## Overall Impression
 A blond, bitter, hoppy table beer that is very dry and highly carbonated. The aggressive fruity-spicy Belgian yeast character and high bitterness is forward in the balance, with a soft, supportive grainy-sweet malt palate, and a spicy-floral hop profile.

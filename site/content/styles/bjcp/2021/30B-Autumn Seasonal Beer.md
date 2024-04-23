@@ -9,6 +9,7 @@ examples: Dogfish Head Punkin Ale, Elysian Punkuccino, Rogue Pumpkin Patch Ale, 
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A malty, spiced beer that often has a moderately rich body and slightly warming finish suggesting a good accompaniment for the cool fall season, and often evocative of harvest or Thanksgiving traditions.

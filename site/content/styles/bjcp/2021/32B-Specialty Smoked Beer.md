@@ -9,6 +9,7 @@ examples: Fat Head’s Up in Smoke, Ommegang Bourbon Barrel Vanilla Smoked Porte
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A well-balanced fusion of the malt and hops of the base specialty beer style with a pleasant and agreeable smoke character.

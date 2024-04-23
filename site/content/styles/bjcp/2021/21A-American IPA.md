@@ -9,6 +9,7 @@ examples: Bell’s Two-Hearted Ale, Cigar City Jai Alai, Fat Heads Head Hunter I
 ABV: 5.5-7.5%  
 OG/FG: 1.056-1.07/1.008-1.014  
 SRM: 6-14  
+IBU: 40-70
 
 ## Overall Impression
 A decidedly hoppy and bitter, moderately strong,pale American ale. The balance is hop-forward, with a clean fermentation profile, dryish finish, and clean, supporting malt allowing a creative range of hop character to shine through.

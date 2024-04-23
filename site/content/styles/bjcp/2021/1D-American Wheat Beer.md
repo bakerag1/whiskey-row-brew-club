@@ -9,6 +9,7 @@ examples: Bell’s Oberon, Boulevard Unfiltered Wheat Beer, GoodLife Sweet As! P
 ABV: 4-5.5%  
 OG/FG: 1.04-1.055/1.008-1.013  
 SRM: 3-6  
+IBU: 15-30
 
 ## Overall Impression
 A pale, refreshing grainy, doughy, or bready wheat beer with a clean fermentation profile and a variable hop character and bitterness. Its lighter body and higher carbonation contribute to its easy-drinking nature.

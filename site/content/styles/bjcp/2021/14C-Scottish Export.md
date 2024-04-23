@@ -9,6 +9,7 @@ examples: Belhaven Scottish Ale, Broughton Wee Jock 80 Shilling, Caledonian Edin
 ABV: 3.9-6%  
 OG/FG: 1.04-1.06/1.01-1.016  
 SRM: 12-20  
+IBU: 15-30
 
 ## Overall Impression
 A moderate-strength, maltybeer with light caramel, toast, toffee, and fruit flavors. A slight roast dryness offsets the residual sweetness in the finish, with the bitterness perceived only to keep the beer from being cloying.

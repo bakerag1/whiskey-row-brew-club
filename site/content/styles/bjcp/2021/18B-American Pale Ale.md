@@ -9,6 +9,7 @@ examples: Deschutes Mirror Pond Pale Ale, Half Acre Daisy Cutter Pale Ale, Great
 ABV: 4.5-6.2%  
 OG/FG: 1.045-1.06/1.01-1.015  
 SRM: 5-10  
+IBU: 30-50
 
 ## Overall Impression
 An average-strength, hop-forward, pale American craft beer with sufficient supporting malt to make the beer balanced and drinkable. The clean hop presence can reflect classic or modern American or New World hop varieties with a wide range of characteristics.

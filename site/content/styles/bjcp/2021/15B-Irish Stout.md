@@ -9,6 +9,7 @@ examples: Beamish Irish Stout, Belhaven Black Stout, Guinness Draught, Murphy's 
 ABV: 3.8-5%  
 OG/FG: 1.036-1.044/1.007-1.011  
 SRM: 25-40  
+IBU: 25-45
 
 ## Overall Impression
 A black beer with a pronounced roasted flavor, often similar to coffee. The balance can range from fairly even to quite bitter, with the more balanced versions having a little malty sweetness and the bitter versions being quite dry. Draught versions typically are creamy from a nitro pour, but bottled versions will not have this dispense-derived character. The roasted flavor can range from dry and coffee-like to somewhat chocolaty.

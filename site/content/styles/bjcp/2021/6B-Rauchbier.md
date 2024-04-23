@@ -9,6 +9,7 @@ examples: Cervejaria Bamberg Rauchbier, Göller Rauchbier, Rittmayer Rauchbier, 
 ABV: 4.8-6%  
 OG/FG: 1.05-1.057/1.012-1.016  
 SRM: 12-22  
+IBU: 20-30
 
 ## Overall Impression
 Abeechwood-smoked,malty,amber German lager. The expected Märzen profile of toasty-rich malt, restrained bitterness, clean fermentation, and a relatively dry finish is enhanced by anoticeable to intense smoke character.

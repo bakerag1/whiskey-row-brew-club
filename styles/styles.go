@@ -44,7 +44,7 @@ type Style struct {
 	Style_comparison               string `json:"style_comparison"`
 	Tags                           string `json:"tags"`
 	Original_gravity               MeasurementRange
-	International_bitterness_units Measurement
+	International_bitterness_units MeasurementRange
 	Final_gravity                  MeasurementRange
 	Alcohol_by_volume              MeasurementRange
 	Color                          MeasurementRange

@@ -9,6 +9,7 @@ examples: Früh Kölsch, Gaffel Kölsch, Mühlen Kölsch, Päffgen Kolsch, Reiss
 ABV: 4.4-5.2%  
 OG/FG: 1.044-1.05/1.007-1.011  
 SRM: 3.5-5  
+IBU: 18-30
 
 ## Overall Impression
 A subtle, brilliantly clear, pale beer with a delicate balance of malt, fruit, and hop character, moderate bitterness, and a well-attenuated but soft finish. Freshness makes a huge difference with this beer, as the delicate character can fade quickly with age.

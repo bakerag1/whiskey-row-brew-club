@@ -9,6 +9,7 @@ examples: Allagash White, Blanche de Bruxelles, Celis White, Hoegaarden White, O
 ABV: 4.5-5.5%  
 OG/FG: 1.044-1.052/1.008-1.012  
 SRM: 2-4  
+IBU: 8-20
 
 ## Overall Impression
 A pale, hazy Belgian wheat beer with spices accentuating the yeast character. Adelicate, lightly spiced, moderate-strength ale that is a refreshing summer drink with its high carbonation, dry finish, and light hopping.

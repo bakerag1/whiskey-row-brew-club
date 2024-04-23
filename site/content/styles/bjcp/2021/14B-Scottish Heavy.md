@@ -9,6 +9,7 @@ examples: McEwan's 70/-, Orkney Raven Ale
 ABV: 3.3-3.9%  
 OG/FG: 1.035-1.04/1.01-1.015  
 SRM: 12-20  
+IBU: 10-20
 
 ## Overall Impression
 A lower-alcohol, maltybeer with lightcaramel, toast, toffee, and fruity flavors. A slight roast dryness offsets the residual sweetness in the finish, with the bitterness perceived only to keep the beer from being cloying.

@@ -9,6 +9,7 @@ examples: Blue/Point Rastafarye Ale, Green’s India Pale Ale, Lakefront New Gri
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A base beer enhanced by or featuring the character of additional grains. The specific character depends greatly on the added grains.

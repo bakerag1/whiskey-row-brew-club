@@ -9,6 +9,7 @@ examples: Anchor Christmas Ale, Great Lakes Christmas Ale, Harpoon Winter Warmer
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A stronger, darker, spiced beer that often has a rich body and warming finish suggesting a good accompaniment for the cold winter season.

@@ -9,6 +9,7 @@ examples: Avery Out of Bounds Stout, Bell’s Kalamazoo Stout, Deschutes Obsidia
 ABV: 5-7%  
 OG/FG: 1.05-1.075/1.01-1.022  
 SRM: 30-40  
+IBU: 35-75
 
 ## Overall Impression
 A fairly strong, highly roasted, bitter, hoppy dark stout. The body and dark flavors typical of stouts with a more aggressive American hop character and bitterness.

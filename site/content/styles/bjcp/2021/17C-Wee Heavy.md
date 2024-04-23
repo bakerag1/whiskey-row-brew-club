@@ -9,6 +9,7 @@ examples: Belhaven Wee Heavy, Broughton Old Jock, McEwan’s Scotch Ale, Orkney 
 ABV: 6.5-10%  
 OG/FG: 1.07-1.13/1.018-1.04  
 SRM: 14-25  
+IBU: 17-35
 
 ## Overall Impression
 Rich, sweet malt depth with caramel, toffee, and fruity flavors. Full-bodied and chewy, with warming alcohol. Restrained bitterness, but not cloying or syrupy.

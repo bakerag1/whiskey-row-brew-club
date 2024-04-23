@@ -9,6 +9,7 @@ examples: Adnams Southwold Bitter, Fuller's London Pride, Harvey’s Sussex Best
 ABV: 3.8-4.6%  
 OG/FG: 1.04-1.048/1.008-1.012  
 SRM: 8-16  
+IBU: 25-40
 
 ## Overall Impression
 A flavorful, yet refreshing, session beer. Some examples can be more malt balanced, but this should not override the overall bitter impression. Drinkability is a critical component of the style.

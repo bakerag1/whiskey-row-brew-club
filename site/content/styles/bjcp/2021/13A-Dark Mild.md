@@ -9,6 +9,7 @@ examples: Brain’s Dark,Greene King XX Mild, Hobson’s Champion Mild, Mighty O
 ABV: 3-3.8%  
 OG/FG: 1.03-1.038/1.008-1.013  
 SRM: 14-25  
+IBU: 10-25
 
 ## Overall Impression
 A dark, low-gravity, malt-focused British session ale readily suited to drinking in quantity. Refreshing, yet flavorful for its strength, with a wide range of dark malt or dark sugar expression.

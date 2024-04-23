@@ -9,6 +9,7 @@ examples: Chuckanut Schwarz Lager,Devils Backbone Schwartz Bier, Köstritzer Sch
 ABV: 4.4-5.4%  
 OG/FG: 1.046-1.052/1.01-1.016  
 SRM: 19-30  
+IBU: 20-35
 
 ## Overall Impression
 A dark German lager that balances roasted yet smooth malt flavors with moderate hop bitterness. The lighter body, dryness, and lack of a harsh, burnt, or heavy aftertaste helps make this beer quite drinkable.

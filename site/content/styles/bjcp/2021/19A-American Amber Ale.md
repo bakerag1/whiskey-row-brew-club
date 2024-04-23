@@ -9,6 +9,7 @@ examples: Anderson Valley Boont Amber Ale, Bell’s Amber Ale, Full Sail Amber, 
 ABV: 4.5-6.2%  
 OG/FG: 1.045-1.06/1.01-1.015  
 SRM: 10-17  
+IBU: 25-40
 
 ## Overall Impression
 An amber, hoppy, moderate-strength American craft beer with a malty caramel flavor. The balance can vary quite a bit, with some versions being fairly malty and others being aggressively hoppy. Hoppy and bitter versions should not have clashing flavors with the caramel malt profile.

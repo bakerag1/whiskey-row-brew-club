@@ -9,6 +9,7 @@ examples: Firestone Walker 805, Kona Big Wave Golden Ale, Real Ale Firemans #4 B
 ABV: 3.8-5.5%  
 OG/FG: 1.038-1.054/1.008-1.013  
 SRM: 3-6  
+IBU: 15-28
 
 ## Overall Impression
 Easy-drinking, approachable, malt-oriented American craft beer, often with interesting fruit, hop, or character malt notes. Well-balanced and clean, is a refreshing pint without aggressive flavors.

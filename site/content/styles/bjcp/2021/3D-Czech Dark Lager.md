@@ -9,6 +9,7 @@ examples: Bernard černý ležák 12°, Budvar tmavý ležák, Herold lmavé sil
 ABV: 4.4-5.8%  
 OG/FG: 1.044-1.06/1.013-1.017  
 SRM: 17-35  
+IBU: 18-34
 
 ## Overall Impression
 A rich, dark, malty Czech lager with a roast character that can vary from almost absent to quite prominent. Malty balance and an interesting and complex flavor profile, with variable levels of hopping that provides a range of possible interpretations.

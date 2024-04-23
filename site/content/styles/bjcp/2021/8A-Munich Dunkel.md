@@ -9,6 +9,7 @@ examples: Ayinger Altbairisch Dunkel, Ettaler Kloster-Dunkel, Eittinger Urtyp Du
 ABV: 4.5-5.6%  
 OG/FG: 1.048-1.056/1.01-1.016  
 SRM: 17-28  
+IBU: 18-28
 
 ## Overall Impression
 A traditional malty brown lager from Bavaria. Deeply toasted, bready malt flavors without any roasty or burnt flavors. Smooth and rich, with a restrained bitterness and a relatively dry finish that allows for drinking in quantity.

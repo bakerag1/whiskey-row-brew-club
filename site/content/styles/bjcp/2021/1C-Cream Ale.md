@@ -9,6 +9,7 @@ examples: Genesee Cream Ale, Liebotschaner Cream Ale, Kiwanda Pre-Prohibition Cr
 ABV: 4.2-5.6%  
 OG/FG: 1.042-1.055/1.006-1.012  
 SRM: 2-5  
+IBU: 8-20
 
 ## Overall Impression
 A clean, well-attenuated, highly carbonated, flavorful American “lawnmower” beer. Easily drinkable, smooth, and refreshing, with more character than typical American lagers, yet still subtle and restrained.

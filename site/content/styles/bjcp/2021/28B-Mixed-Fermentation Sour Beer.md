@@ -9,6 +9,7 @@ examples: Boulevard Love Child, Jester King Le Petit Prince, Jolly Pumpkin Oro d
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A sour andfunky version of a base style of beer.

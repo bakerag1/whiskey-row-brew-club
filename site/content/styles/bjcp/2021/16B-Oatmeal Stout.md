@@ -9,6 +9,7 @@ examples: Anderson Valley Barney Flats Oatmeal Stout, Broughton Stout Jock, St-A
 ABV: 4.2-5.9%  
 OG/FG: 1.045-1.065/1.01-1.018  
 SRM: 22-40  
+IBU: 25-40
 
 ## Overall Impression
 A dark, roasty, full-bodied stout with enough sweetness to support the oat backbone.The sweetness, balance, and oatmeal impression can vary considerably.

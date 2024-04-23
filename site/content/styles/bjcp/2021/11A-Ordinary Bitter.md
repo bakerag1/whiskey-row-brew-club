@@ -9,6 +9,7 @@ examples: Bateman’s XB, Brains Bitter, Brakspear Gravity, Fuller's Chiswick Bi
 ABV: 3.2-3.8%  
 OG/FG: 1.03-1.039/1.007-1.011  
 SRM: 8-14  
+IBU: 25-35
 
 ## Overall Impression
 Low gravity, alcohol, and carbonation make this an easy-drinking session beer. The malt profile can vary in flavor and intensity, but should never override the overall bitter impression. Drinkability is a critical component of the style.

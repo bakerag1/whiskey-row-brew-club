@@ -9,6 +9,7 @@ examples: 3 Fonteinen Schaerbeekse Kriek, Cantillon Fou’ Foune, Cantillon Lou 
 ABV: 5-7%  
 OG/FG: 1.04-1.06/1-1.01  
 SRM: 3-7  
+IBU: 0-10
 
 ## Overall Impression
 A complex, refreshing, pleasantly sour Belgian wheat beerblending a complementary fermented fruit character with a sour, funky Gueuze.

@@ -9,6 +9,7 @@ examples: Aass Bock, Einbecker Ur-Bock Dunkel, Kneitinger Bock, Lindeboom Bock, 
 ABV: 6.3-7.2%  
 OG/FG: 1.064-1.072/1.013-1.019  
 SRM: 14-22  
+IBU: 20-27
 
 ## Overall Impression
 A strong,dark, malty German lager beer that emphasizes the malty-rich and somewhat toasty qualities of continental malts without being sweet in the finish.

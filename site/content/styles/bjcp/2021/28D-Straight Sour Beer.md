@@ -9,6 +9,7 @@ examples: Rarely found, as this style is typically the base for other Specialty-
 ABV: 4.5-7%  
 OG/FG: 1.048-1.065/1.006-1.013  
 SRM: 2-3  
+IBU: 3-8
 
 ## Overall Impression
 A pale, refreshing, sour beer with a clean lactic sourness. A gentle, pale malt flavor supports the lemony sourness with moderate fruity esters.

@@ -9,6 +9,7 @@ examples: Columbus Brewing Bohdi, Fat Head’s Hop Juju, Port Brewing Hop-15, Ru
 ABV: 7.5-10%  
 OG/FG: 1.065-1.085/1.008-1.018  
 SRM: 6-14  
+IBU: 60-100
 
 ## Overall Impression
 An intensely hoppy, fairly strong, bitter pale ale without the big, rich, complex maltiness, residual sweetness, and body of an American Barleywine. Strongly hopped, but clean, dry, and lacking harshness. Despite showing its strength, drinkability is an important consideration.

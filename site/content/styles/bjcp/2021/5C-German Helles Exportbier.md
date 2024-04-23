@@ -9,6 +9,7 @@ examples: Chuckanut Export Dortmunder Lager, DAB Dortmunder Export, Dortmunder K
 ABV: 5-6%  
 OG/FG: 1.05-1.058/1.008-1.015  
 SRM: 4-6  
+IBU: 20-30
 
 ## Overall Impression
 A goldenGerman lager balancing a smooth malty profile with a bitter, hoppy character in a slightly above-average body and strength beer.

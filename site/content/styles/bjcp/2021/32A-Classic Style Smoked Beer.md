@@ -9,6 +9,7 @@ examples: Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla R
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A well-balanced fusion of the malt and hops of the base beer style with a pleasant and agreeable smoke character.

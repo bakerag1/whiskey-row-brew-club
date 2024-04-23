@@ -9,6 +9,7 @@ examples: Affligem Blond, Corsendonk Blond, Grimbergen Blonde, La Trappe Blond, 
 ABV: 6-7.5%  
 OG/FG: 1.062-1.075/1.008-1.018  
 SRM: 4-6  
+IBU: 15-30
 
 ## Overall Impression
 A golden,moderately-strong Belgian ale with a pleasantly subtlecitrusy-spicy yeast complexity, smooth malty palate, and dry, soft finish.

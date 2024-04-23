@@ -9,6 +9,7 @@ examples: Burton Bridge Thomas Sykes Old Ale, Coniston No. 9 Barley Wine, Fuller
 ABV: 8-12%  
 OG/FG: 1.08-1.12/1.018-1.03  
 SRM: 8-22  
+IBU: 35-70
 
 ## Overall Impression
 A strong and richly malty ale witha pleasant fruity or hoppy depth. A wintertime sipper with a full, chewy body and warming alcohol.

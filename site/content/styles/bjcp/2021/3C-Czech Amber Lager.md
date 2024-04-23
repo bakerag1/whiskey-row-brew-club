@@ -9,6 +9,7 @@ examples: Bernard Jantarový ležák 12°, Gambrinus Polotmavá 12°, Kozel Semi
 ABV: 4.4-5.8%  
 OG/FG: 1.044-1.06/1.013-1.017  
 SRM: 10-16  
+IBU: 20-35
 
 ## Overall Impression
 A malty amber Czech lager with a hop character that can vary from low to quite significant. The malt flavors also can vary, leading to different interpretations and balances ranging from drier, bready, and slightly biscuity to sweeter and somewhat caramel-like.

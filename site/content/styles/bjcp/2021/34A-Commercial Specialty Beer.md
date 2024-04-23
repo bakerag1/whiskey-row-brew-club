@@ -9,6 +9,7 @@ examples: Orval, La Chouffe
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 Based on declared beer.

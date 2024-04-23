@@ -9,6 +9,7 @@ examples: American –Bell’s Expedition Stout, Great Divide Yeti Imperial Stou
 ABV: 8-12%  
 OG/FG: 1.075-1.115/1.018-1.03  
 SRM: 30-40  
+IBU: 50-90
 
 ## Overall Impression
 An intensely-flavored, very strong, very dark stout with a broad range of interpretations. Roasty-burnt malt with a depth of dark or dried fruit flavors, and a warming, bittersweet finish. Despite the intense flavors, the components need to meld together to create a complex, harmonious beer, not a hot mess – sometimes only accomplished with age.

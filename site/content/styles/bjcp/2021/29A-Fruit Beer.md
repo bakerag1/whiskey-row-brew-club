@@ -9,6 +9,7 @@ examples: 21st Amendment Watermelon Wheat, Anderson Valley Blood Orange Gose, Av
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A pleasant integration of fruit with beer, but still recognizable as beer. The fruit character should be evident but in balance with the beer, not so forward as to suggest an artificial product.

@@ -9,6 +9,7 @@ examples: Avery Ellie’s Brown Ale, Big Sky Moose Drool Brown Ale, Brooklyn Bro
 ABV: 4.3-6.2%  
 OG/FG: 1.045-1.06/1.01-1.016  
 SRM: 18-35  
+IBU: 20-30
 
 ## Overall Impression
 A malty but hoppy standard-strength American ale frequently with chocolate and caramel flavors. The hop flavor and aroma complement and enhance the malt rather than clashing with it.

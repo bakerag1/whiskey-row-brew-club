@@ -9,6 +9,7 @@ examples: The Bruery White Oak, Castelain Winter Ale, Perennial Heart of Gold, T
 ABV: 8-12%  
 OG/FG: 1.08-1.12/1.016-1.03  
 SRM: 6-14  
+IBU: 30-60
 
 ## Overall Impression
 A richly textured, high alcohol sipping beer with a significant grainy, bready flavor, and a sleek body. The emphasis is first on the bready, wheaty flavors with malt, hops, fruity yeast, and alcohol complexity.

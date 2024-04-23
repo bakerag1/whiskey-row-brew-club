@@ -9,6 +9,7 @@ examples: Coopers Sparkling Ale
 ABV: 4.5-6%  
 OG/FG: 1.038-1.05/1.004-1.006  
 SRM: 4-7  
+IBU: 20-35
 
 ## Overall Impression
 A well-balanced, pale, highly-carbonated, and refreshing ale suitable for drinking in a hot climate. Fairly bitter, with a moderate herbal-spicy hop and pome fruit ester profile. Smooth, neutral malt flavors with a fuller body but a crisp, highly-attenuated finish.

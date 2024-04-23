@@ -9,6 +9,7 @@ examples: Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier, Hofbräu Okt
 ABV: 5.8-6.3%  
 OG/FG: 1.054-1.057/1.01-1.012  
 SRM: 4-6  
+IBU: 18-25
 
 ## Overall Impression
 A smooth, clean, pale German lager with a moderately strong malty flavor and a light hop character. Deftly balances strength and drinkability, with a palate impression and finish that encourages drinking. Showcases elegant German malt flavors without becoming too heavy or filling.

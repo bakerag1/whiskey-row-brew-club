@@ -9,6 +9,7 @@ examples: Brigand, Delirium Tremens, Duvel, Judas, Lucifer, Russian River Damnat
 ABV: 7.5-10.5%  
 OG/FG: 1.07-1.095/1.005-1.016  
 SRM: 3-6  
+IBU: 22-35
 
 ## Overall Impression
 A very pale, highly attenuated, strong Belgian ale that is more fruity and hoppy than spicy. Complex and delicate, the dry finish, light body, and high carbonationaccentuate the yeast and hop character.Sparkling carbonation and effervescent, forming a rocky white head.

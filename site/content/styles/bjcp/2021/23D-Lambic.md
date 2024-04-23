@@ -9,6 +9,7 @@ examples: Cantillon Grand Cru Bruocsella. In the Brussels area, many specialty c
 ABV: 5-6.5%  
 OG/FG: 1.04-1.054/1.001-1.01  
 SRM: 3-6  
+IBU: 0-10
 
 ## Overall Impression
 A fairly sour, often moderately funky, wild Belgian wheat beer with sourness taking the place of hop bitterness in the balance. Traditionally served uncarbonated as a café drink.

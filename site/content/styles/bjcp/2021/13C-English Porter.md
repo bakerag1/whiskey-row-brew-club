@@ -9,6 +9,7 @@ examples: Bateman’s Salem Porter, Burton Bridge Burton Porter, Fuller's London
 ABV: 4-5.4%  
 OG/FG: 1.04-1.052/1.008-1.014  
 SRM: 20-30  
+IBU: 18-35
 
 ## Overall Impression
 A moderate-strength dark brown English ale with a restrained roasty, bitter character. May have a range of roasted flavors, generally without burnt qualities, and often has a malty chocolate and caramelprofile.

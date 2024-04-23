@@ -9,6 +9,7 @@ examples: Cuvée des Jacobins, Duchesse de Bourgogne, New Belgium La Folie,Roden
 ABV: 4.6-6.5%  
 OG/FG: 1.048-1.057/1.002-1.012  
 SRM: 10-17  
+IBU: 10-25
 
 ## Overall Impression
 A sour and fruityoak-aged reddish-brown Belgian-style ale with supportive toasty malt flavors and fruit complexity. The dry, tannic finish supports the suggestion of a vintage red wine.

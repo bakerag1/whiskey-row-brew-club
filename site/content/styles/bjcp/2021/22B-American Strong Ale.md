@@ -9,6 +9,7 @@ examples: Arrogant Bastard Ale, Fat Head’s Bone Head, Great Lakes Nosferatu, O
 ABV: 6.3-10%  
 OG/FG: 1.062-1.09/1.014-1.024  
 SRM: 7-18  
+IBU: 50-100
 
 ## Overall Impression
 A malty, bitter, and strong American Ale fitting in the space between American Barleywine, Double IPA, and Red IPA. The malty and hoppy flavors can be quite strong, but are generally in balance.

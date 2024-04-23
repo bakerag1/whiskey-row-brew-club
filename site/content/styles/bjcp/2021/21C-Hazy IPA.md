@@ -9,6 +9,7 @@ examples: Belching Beaver Hazers Gonna Haze, Hill Farmstead Susan, Other Half Gr
 ABV: 6-9%  
 OG/FG: 1.06-1.085/1.01-1.015  
 SRM: 3-7  
+IBU: 25-60
 
 ## Overall Impression
 An American IPA with intense fruit flavors and aromas, a soft body, smooth mouthfeel, and often opaque with substantial haze. Less perceived bitterness than traditional IPAs but always massively hop-forward.

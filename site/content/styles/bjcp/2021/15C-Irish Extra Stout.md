@@ -9,6 +9,7 @@ examples: Guinness Extra Stout, O’Hara’s Leann Folláin, Porterhouse XXXX, S
 ABV: 5-6.5%  
 OG/FG: 1.052-1.062/1.01-1.014  
 SRM: 30-40  
+IBU: 35-50
 
 ## Overall Impression
 A fuller-bodied black beer with a pronounced roasted flavor, often similar to coffee and dark chocolate with some malty complexity. The balance can range from moderately bittersweet to bitter, with the more balanced versions having up to moderate malty richness and the bitter versions being quite dry.

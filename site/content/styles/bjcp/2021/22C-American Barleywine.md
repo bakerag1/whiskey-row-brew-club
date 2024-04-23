@@ -9,6 +9,7 @@ examples: Anchor Old Foghorn, Bell’s Third Coast Old Ale,East End Gratitude, H
 ABV: 8-12%  
 OG/FG: 1.08-1.12/1.016-1.03  
 SRM: 9-18  
+IBU: 50-100
 
 ## Overall Impression
 A very strong, malty, hoppy, bitter American ale with a rich palate, full mouthfeel, and warming aftertaste, suitable for contemplative sipping.

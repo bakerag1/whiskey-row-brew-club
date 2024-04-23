@@ -9,6 +9,7 @@ examples: Cascade Bourbonic Plague, Jester King Atrial Rubicite, New Belgium Dom
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 An American Wild Ale with fruit, herbs, spices, or other Specialty-Type Ingredients.

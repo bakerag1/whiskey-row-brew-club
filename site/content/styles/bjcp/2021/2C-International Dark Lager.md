@@ -9,6 +9,7 @@ examples: Baltika #4 Original, Dixie Blackened Voodoo, Heineken Dark Lager, Sain
 ABV: 4.2-6%  
 OG/FG: 1.044-1.056/1.008-1.012  
 SRM: 14-30  
+IBU: 8-20
 
 ## Overall Impression
 A darker, richer, and somewhat sweeter version of international pale lager with a little more body and flavor, but equally restrained in bitterness. The low bitterness leaves the malt as the primary flavor element, and the low hop levels provide very little in the way of balance.

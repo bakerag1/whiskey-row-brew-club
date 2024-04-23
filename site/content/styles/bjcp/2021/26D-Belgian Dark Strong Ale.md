@@ -9,6 +9,7 @@ examples: Achel Extra Bruin, Boulevard The Sixth Glass, Chimay Blue, Rochefort 1
 ABV: 8-12%  
 OG/FG: 1.075-1.11/1.01-1.024  
 SRM: 12-22  
+IBU: 20-35
 
 ## Overall Impression
 A dark, complex, very strong Belgian ale with a delicious blend of malt richness, dark fruit flavors, and spicy notes. Complex, rich, smooth, and dangerous.

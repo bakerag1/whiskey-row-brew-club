@@ -9,6 +9,7 @@ examples: Chuckanut Vienna Lager, Devils Backbone Vienna Lager, Figueroa Mountai
 ABV: 4.7-5.5%  
 OG/FG: 1.048-1.055/1.01-1.014  
 SRM: 9-15  
+IBU: 18-30
 
 ## Overall Impression
 A moderate-strength continental amber lager with a soft, smooth maltiness and a balanced, moderate bitterness, yet finishing relatively dry. The malt flavor is clean, bready-rich, and somewhat toasty, with an elegant impression derived from quality base malts and process, not specialty malts or adjuncts.

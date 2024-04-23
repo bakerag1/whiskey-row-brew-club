@@ -9,6 +9,7 @@ examples: Aldaris Mežpils Porteris, Baltika 6 Porter, Devils Backbone Danzig, O
 ABV: 6.5-9.5%  
 OG/FG: 1.06-1.09/1.016-1.024  
 SRM: 17-30  
+IBU: 20-40
 
 ## Overall Impression
 A strong, dark, malty beer with differentinterpretationswithin the Baltic region. Smooth, warming, and richly malty, with complex dark fruit flavors and a roasted flavor without burnt notes.

@@ -9,6 +9,7 @@ examples: Bristol Beer Factory Milk Stout, Firestone Nitro Merlin Milk Stout, Le
 ABV: 4-6%  
 OG/FG: 1.044-1.06/1.012-1.024  
 SRM: 30-40  
+IBU: 20-40
 
 ## Overall Impression
 A very dark, sweet, full-bodied, slightly roasty stout that can suggest coffee-and-cream, or sweetened espresso.

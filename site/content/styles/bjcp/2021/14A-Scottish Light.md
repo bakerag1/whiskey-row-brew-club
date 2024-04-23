@@ -9,6 +9,7 @@ examples: Belhaven Best, McEwan's 60/-
 ABV: 2.5-3.3%  
 OG/FG: 1.03-1.035/1.01-1.013  
 SRM: 17-25  
+IBU: 10-20
 
 ## Overall Impression
 A low-alcohol, maltybeer with lightcaramel, toast, toffee, and fruit flavors. A slight roast dryness offsets the residual sweetness in the finish, with the bitterness perceived only to keep the beer from being cloying.

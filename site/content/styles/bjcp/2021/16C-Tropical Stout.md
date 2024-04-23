@@ -9,6 +9,7 @@ examples: ABC Extra Stout, Bahamian Strong Back Stout, Dragon Stout, Jamaica Sto
 ABV: 5.5-8%  
 OG/FG: 1.056-1.075/1.01-1.018  
 SRM: 30-40  
+IBU: 30-50
 
 ## Overall Impression
 A very dark, sweet, fruity, moderately strong stout with smooth, roasty flavors,yet no burnt harshness.

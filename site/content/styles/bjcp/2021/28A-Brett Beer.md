@@ -9,6 +9,7 @@ examples: Boulevard Saison Brett, Hill Farmstead Arthur, Logsdon Seizoen Bretta,
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 Most often drier and fruitier than the base style suggests. Fruity or funky notes range from low to high, depending on the age of the beer and strains of Brett used. May possess a light non-lactic acidity.

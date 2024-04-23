@@ -9,6 +9,7 @@ examples: {{ .Examples }}
 ABV: {{ .Alcohol_by_volume.Minimum.Value }}-{{ .Alcohol_by_volume.Maximum.Value }}%  
 OG/FG: {{ .Original_gravity.Minimum.Value }}-{{ .Original_gravity.Maximum.Value }}/{{ .Final_gravity.Minimum.Value }}-{{ .Final_gravity.Maximum.Value }}  
 SRM: {{ .Color.Minimum.Value }}-{{ .Color.Maximum.Value }}  
+IBU: {{ .International_bitterness_units.Minimum.Value }}-{{ .International_bitterness_units.Maximum.Value }}
 
 ## Overall Impression
 {{ .Overall_impression }}

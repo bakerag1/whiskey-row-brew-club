@@ -9,6 +9,7 @@ examples: Birrificio Italiano Tipopils, Firestone Walker Pivo Pils, Jack’s Abb
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 Based on the declared Base Styles, methods, and ingredients. As with all Specialty-Type Beers, the resulting combination of beer styles needs to be harmonious and balanced, and be pleasant to drink.

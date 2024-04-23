@@ -9,6 +9,7 @@ examples: Anchor Porter, Bell’s Porter, Deschutes Black Butte Porter, Great La
 ABV: 4.8-6.5%  
 OG/FG: 1.05-1.07/1.012-1.018  
 SRM: 22-40  
+IBU: 25-50
 
 ## Overall Impression
 A malty, bitter, and often somewhat hoppydark beer with a balanced,roasted, and frequently chocolatey character.

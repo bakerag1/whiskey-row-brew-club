@@ -9,6 +9,7 @@ examples: Croucher New Zealand Pilsner, Emerson’s Pilsner, Liberty Halo Pilsne
 ABV: 4.5-5.8%  
 OG/FG: 1.044-1.056/1.009-1.014  
 SRM: 2-6  
+IBU: 25-45
 
 ## Overall Impression
 A pale, dry, golden-colored, cleanly-fermented beer showcasing the characteristic tropical, citrusy, fruity, grassy New Zealand-type hops. Medium body, soft mouthfeel, and smooth palate and finish, with a neutral to bready malt base provide the support for this very drinkable, refreshing, hop-forward beer.

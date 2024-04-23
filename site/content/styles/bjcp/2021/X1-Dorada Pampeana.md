@@ -9,6 +9,7 @@ examples:
 ABV: 4.3-5.5%  
 OG/FG: 1.042-1.054/1.009-1.013  
 SRM: 3-5  
+IBU: 15-22
 
 ## Overall Impression
 

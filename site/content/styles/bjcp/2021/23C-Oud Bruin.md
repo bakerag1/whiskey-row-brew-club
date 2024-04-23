@@ -9,6 +9,7 @@ examples: Ichtegem Oud Bruin, Liefmans Goudenband, Liefmans Oud Bruin, Petrus Ro
 ABV: 4-8%  
 OG/FG: 1.04-1.074/1.008-1.012  
 SRM: 17-22  
+IBU: 20-25
 
 ## Overall Impression
 A malty, fruity, aged, somewhat sour Belgian-style brown ale with a caramel-chocolate malt flavor, and often substantial alcohol.

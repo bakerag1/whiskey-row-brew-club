@@ -9,6 +9,7 @@ examples: Fuller’s 1845, Harvey’s Elizabethan Ale, J.W. Lees Moonraker, McEw
 ABV: 5.5-8%  
 OG/FG: 1.055-1.08/1.015-1.022  
 SRM: 8-22  
+IBU: 30-60
 
 ## Overall Impression
 An ale of respectable alcoholic strength, traditionally bottled-conditioned and cellared. Can have a wide range of interpretations, but most will have varying degrees of malty richness, late hops and bitterness, fruity esters, and alcohol warmth. The malt and adjunct flavors and intensity can vary widely, but any combination should result in an agreeable palate experience.

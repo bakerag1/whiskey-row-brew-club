@@ -9,6 +9,7 @@ examples: Bolten Alt, Diebels Alt, Füchschen Alt, Original Schlüssel Alt, Schl
 ABV: 4.3-5.5%  
 OG/FG: 1.044-1.052/1.008-1.014  
 SRM: 9-17  
+IBU: 25-50
 
 ## Overall Impression
 A moderately colored, well-attenuated, bitter beer with a rich maltiness balancing a strong bitterness. Light and spicy hop character complements the malt. A dry beer with a firm body and smooth palate.

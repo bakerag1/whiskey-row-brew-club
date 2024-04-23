@@ -9,6 +9,7 @@ examples: Avery Old Jubilation, Berlina Old Ale, Greene King Strong Suffolk Ale,
 ABV: 5.5-9%  
 OG/FG: 1.055-1.088/1.015-1.022  
 SRM: 10-22  
+IBU: 30-60
 
 ## Overall Impression
 A stronger-than-averageEnglish ale, though usually not as strong or rich as an English Barley Wine, but usually malty. Warming. Shows positive maturation effects of a well-kept, aged beer.

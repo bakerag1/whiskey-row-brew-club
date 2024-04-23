@@ -9,6 +9,7 @@ examples: 21st Amendment Back in Black, Duck-Rabbit Hoppy Bunny ABA, Stone Subli
 ABV: 5.5-9%  
 OG/FG: 1.05-1.085/1.01-1.018  
 SRM: 25-40  
+IBU: 50-90
 
 ## Overall Impression
 A beer with the dryness, hop-forward balance, and flavor characteristics of an American IPA, but darker in color. Darker malts add a gentle and supportive flavor, not a strongly roasted or burnt character.

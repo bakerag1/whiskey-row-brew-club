@@ -9,6 +9,7 @@ examples: Dark – Plank Bavarian Dunkler Weizenbock, Penn Weizenbock,Schalchner
 ABV: 6.5-9%  
 OG/FG: 1.064-1.09/1.015-1.022  
 SRM: 6-25  
+IBU: 15-30
 
 ## Overall Impression
 A strong and malty Germanwheat beer combining the best wheat and yeast flavors of a Weissbier with the rich maltiness, strength, and body of a Bock. The style range includes Bock and Doppelbock strength, with variations for pale and dark color.

@@ -9,6 +9,7 @@ examples: AleSmith Nut Brown Ale, Cigar City Maduro Brown Ale, Maxim Double Maxi
 ABV: 4.2-5.9%  
 OG/FG: 1.04-1.052/1.008-1.013  
 SRM: 12-22  
+IBU: 20-30
 
 ## Overall Impression
 A malty, caramelly,brown British ale without the roasted flavors of a Porter. Balanced and flavorful, but usually a little stronger than most average UK beers.

@@ -9,6 +9,7 @@ examples: Abita Amber Lager, Brooklyn Lager, Capital Wisconsin Amber Lager, Dos 
 ABV: 4.5-6%  
 OG/FG: 1.042-1.055/1.008-1.014  
 SRM: 6-14  
+IBU: 8-25
 
 ## Overall Impression
 A smooth, easily-drinkable, malty amber lager with a flavorful caramel or toast character. Usually fairly well-attenuated, often with an adjunct quality and restrained bitterness.

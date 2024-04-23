@@ -9,6 +9,7 @@ examples: Asahi Super Dry, Birra Moretti, Corona Extra, Devils Backbone Gold Lea
 ABV: 4.5-6%  
 OG/FG: 1.042-1.05/1.008-1.012  
 SRM: 2-6  
+IBU: 18-25
 
 ## Overall Impression
 A highly-attenuated pale lager without strong flavors, typically well-balanced and highly carbonated. Served cold, it is refreshing and thirst-quenching.

@@ -9,6 +9,7 @@ examples: Bayerischer Bahnhof Berliner Style Weisse, Berliner Berg Berliner Weis
 ABV: 2.8-3.8%  
 OG/FG: 1.028-1.032/1.003-1.006  
 SRM: 2-3  
+IBU: 3-8
 
 ## Overall Impression
 A very pale, refreshing, low-alcohol German wheat beer with a clean lactic sourness and a very high carbonation level. A light bread dough malt flavor supports the sourness, which shouldn’t seem artificial. A gentle fruitiness is found in the best examples.

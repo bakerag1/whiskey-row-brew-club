@@ -9,6 +9,7 @@ examples: Bell’s Hopslam, Cervejaria Colorado Appia, Fifth Hammer Break of Jaw
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A tasteful integration of sugar and beer, but still recognizable as beer. The sugar character should both be evident and in balance with the beer, not so forward as to suggest an artificial product.

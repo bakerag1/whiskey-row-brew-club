@@ -9,6 +9,7 @@ examples: Chimay Red, Corsendonk Bruin, La Trappe Dubbel, Rochefort 6, St. Berna
 ABV: 6-7.6%  
 OG/FG: 1.062-1.075/1.008-1.018  
 SRM: 10-17  
+IBU: 15-25
 
 ## Overall Impression
 A deep reddish-copper, moderately strong, malty, complex Belgian ale with rich malty flavors, dark or dried fruit esters, and light alcohol blended together in a malty presentation that still finishes fairly dry.

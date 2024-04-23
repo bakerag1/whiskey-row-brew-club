@@ -9,6 +9,7 @@ examples: Altenmünster Maibock, Ayinger Maibock, Chuckanut Maibock, Einbecker M
 ABV: 6.3-7.4%  
 OG/FG: 1.064-1.072/1.011-1.018  
 SRM: 6-9  
+IBU: 23-35
 
 ## Overall Impression
 A relatively pale, strong, malty German lager with a nicely attenuated finish that enhances drinkability. The hop character is generally more apparent and the malt character less deeply rich than in other Bocks.

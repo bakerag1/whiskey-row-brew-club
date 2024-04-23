@@ -9,6 +9,7 @@ examples: Anchor Steam, Steamworks Steam Engine Lager
 ABV: 4.5-5.5%  
 OG/FG: 1.048-1.054/1.011-1.014  
 SRM: 9-14  
+IBU: 30-45
 
 ## Overall Impression
 A toasty and caramelly, fairly bitter, standard-strength beer with an interesting fruitiness and rustic, woody hop character. Smooth and well carbonated.

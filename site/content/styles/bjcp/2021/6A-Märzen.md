@@ -9,6 +9,7 @@ examples: Hacker-Pschorr Oktoberfest Märzen, Hofmark Märzen, Paulaner Oktoberf
 ABV: 5.6-6.3%  
 OG/FG: 1.054-1.06/1.01-1.014  
 SRM: 8-17  
+IBU: 18-24
 
 ## Overall Impression
 An amber,malty German lager with a clean, rich, toasty, bready malt flavor, restrained bitterness, and a well-attenuated finish. The overall malt impression is soft, elegant, and complex, with a rich malty aftertaste that is never cloying or heavy.

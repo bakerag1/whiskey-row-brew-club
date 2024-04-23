@@ -9,6 +9,7 @@ examples: Berkshire Lost Sailor IPA, Fuller's Bengal Lancer, Marston’s Old Emp
 ABV: 5-7.5%  
 OG/FG: 1.05-1.07/1.01-1.015  
 SRM: 6-14  
+IBU: 40-60
 
 ## Overall Impression
 A bitter, moderately-strong, very well-attenuated pale British ale with a dry finish and a hoppy aroma and flavor. Classic British ingredients provide the most authentic flavor profile.

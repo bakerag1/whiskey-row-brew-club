@@ -9,6 +9,7 @@ examples: Augustiner Lagerbier Hell, Hacker-Pschorr Münchner Gold, Löwenbraü 
 ABV: 4.7-5.4%  
 OG/FG: 1.044-1.048/1.006-1.012  
 SRM: 3-5  
+IBU: 16-22
 
 ## Overall Impression
 A gold-colored German lager with a smooth, malty flavor and a soft, dry finish. Subtle spicy, floral, or herbal hops and restrained bitterness help keep the balance malty but not sweet, which helps make this beer a refreshing, everyday drink.

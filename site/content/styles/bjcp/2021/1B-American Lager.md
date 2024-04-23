@@ -9,6 +9,7 @@ examples: Budweiser, Coors Original, Grain Belt Premium American Lager, Miller H
 ABV: 4.2-5.3%  
 OG/FG: 1.04-1.05/1.004-1.01  
 SRM: 2-3.5  
+IBU: 8-18
 
 ## Overall Impression
 A very pale, highly-carbonated, light-bodied, well-attenuated lager with a very neutral flavor profile and low bitterness. Served very cold, it can be a very refreshing and thirst-quenching drink.

@@ -9,6 +9,7 @@ examples: Bernard světlé pivo 10, Březňák světlé výčepní pivo, Notch S
 ABV: 3-4.1%  
 OG/FG: 1.028-1.044/1.008-1.014  
 SRM: 3-6  
+IBU: 20-35
 
 ## Overall Impression
 A lighter-bodied, rich, refreshing, hoppy, bitter pale Czech lager having the familiar flavors of the stronger Czech Premium Pale Lager (Pilsner-type) beer but in a lower alcohol, lighter-bodied, and slightly less intense format.

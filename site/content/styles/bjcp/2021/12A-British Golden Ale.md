@@ -9,6 +9,7 @@ examples: Adnams Explorer, Crouch Vale Brewers Gold, Golden Hill Exmoor Gold, Ho
 ABV: 3.8-5%  
 OG/FG: 1.038-1.053/1.006-1.012  
 SRM: 2-5  
+IBU: 20-45
 
 ## Overall Impression
 A hop-forward, average-strength to moderately-strong pale bitter. Drinkability and a refreshing quality are critical components of the style, as it was initially a summer seasonal beer.

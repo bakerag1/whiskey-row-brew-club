@@ -9,6 +9,7 @@ examples: None
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 Varies, but should be a unique experience.

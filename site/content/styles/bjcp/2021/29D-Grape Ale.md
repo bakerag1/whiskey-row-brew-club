@@ -9,6 +9,7 @@ examples: Montegioco Open Mind, Birrificio del Forte Il Tralcio, Luppolajo Mons 
 ABV: 6-8.5%  
 OG/FG: 1.059-1.075/1.004-1.013  
 SRM: 4-8  
+IBU: 10-30
 
 ## Overall Impression
 Combines the profile of a sparkling wine and a relatively neutral base beer allowing the aromatic qualities of the grape to blend pleasantly with hop and yeast aromatics. Can be in a range from refreshing to complex.

@@ -9,6 +9,7 @@ examples: 3 Fonteinen Oud Gueuze, Cantillon Classic Gueuze 100% Lambic, Girardin
 ABV: 5-8%  
 OG/FG: 1.04-1.054/1-1.006  
 SRM: 5-6  
+IBU: 0-10
 
 ## Overall Impression
 A very refreshing, highly carbonated, pleasantly sour but balanced wild Belgian wheat beer. The wild beer character can be complex and varied, combining sour, funky, and fruity flavors.

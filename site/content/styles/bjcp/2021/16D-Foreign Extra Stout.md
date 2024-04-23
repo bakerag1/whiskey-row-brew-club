@@ -9,6 +9,7 @@ examples: Coopers Best Extra Stout, Guinness Foreign Extra Stout, The Kernel Exp
 ABV: 6.3-8%  
 OG/FG: 1.056-1.075/1.01-1.018  
 SRM: 30-40  
+IBU: 50-70
 
 ## Overall Impression
 A very dark, rich, moderately strong, fairly dry stout with prominent roast flavors.

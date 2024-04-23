@@ -9,6 +9,7 @@ examples: Bernard světlé ležák 12°, Budvar 33 světlý ležák, Pilsner Urq
 ABV: 4.2-5.8%  
 OG/FG: 1.044-1.06/1.013-1.017  
 SRM: 3.5-6  
+IBU: 30-45
 
 ## Overall Impression
 A refreshing pale Czech lager with considerable malt and hop character and a longfinish. The malt flavors are complex for a Pilsner-type beer.The bitterness is strong and clean butlacks harshness, which gives a well-balanced, roundedflavor impression that enhances drinkability.

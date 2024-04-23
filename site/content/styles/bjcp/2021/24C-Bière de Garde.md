@@ -9,6 +9,7 @@ examples: Ch’Ti Blonde, Jenlain Ambrée, La Choulette Brune, Russian River Per
 ABV: 6-8.5%  
 OG/FG: 1.06-1.08/1.008-1.016  
 SRM: 6-19  
+IBU: 18-28
 
 ## Overall Impression
 A family of smooth, fairly strong, malty, lagered artisanal French beer with a range of malt flavors appropriate for the blond, amber, or brown color. All are malty yet dry, with clean flavors.Darker versions have more malt character, while paler versions can have more hops while still remaining malt-focused beers.

@@ -9,6 +9,7 @@ examples: Kulmbacher Eisbock
 ABV: 9-14%  
 OG/FG: 1.078-1.12/1.02-1.035  
 SRM: 17-30  
+IBU: 25-35
 
 ## Overall Impression
 A strong, full-bodied, rich, and malty dark German lager often with a viscous quality and strong flavors. Even though flavors are concentrated, the alcohol should be smooth and warming, not burning.

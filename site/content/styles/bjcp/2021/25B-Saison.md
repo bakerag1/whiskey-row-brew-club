@@ -9,6 +9,7 @@ examples: Ellezelloise Saison 2000, Lefebvre Saison 1900, Saison Dupont, Saison 
 ABV: 5-7%  
 OG/FG: 1.048-1.065/1.002-1.008  
 SRM: 5-14  
+IBU: 20-35
 
 ## Overall Impression
 A family of refreshing, highly attenuated, hoppy, and fairly bitter Belgian ales with a very dry finish and high carbonation. Characterized by a fruity, spicy, sometimes phenolic fermentation profile,and the use of cereal grains and sometimes spices for complexity. Several variations in strength and color exist.

@@ -9,6 +9,7 @@ examples: Bass Ale, Bateman’s Triple XB, Robinsons Trooper, Samuel Smith’s O
 ABV: 4.6-6.2%  
 OG/FG: 1.048-1.06/1.01-1.016  
 SRM: 8-18  
+IBU: 30-50
 
 ## Overall Impression
 An average-strength to moderately-strong British bitter ale. The balance may vary between fairly even between malt and hops to somewhat bitter. Drinkability is a critical component of the style. A rather broad style that allows for considerable interpretation by the brewer.

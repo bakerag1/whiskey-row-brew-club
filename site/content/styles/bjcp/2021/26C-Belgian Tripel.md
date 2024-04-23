@@ -9,6 +9,7 @@ examples: Chimay Tripel, La Rulles Tripel, La Trappe Tripel, St. Bernardus Tripe
 ABV: 7.5-9.5%  
 OG/FG: 1.075-1.085/1.008-1.014  
 SRM: 4.5-7  
+IBU: 20-40
 
 ## Overall Impression
 A strong,pale, somewhat spicy Belgian ale with a pleasant rounded malt flavor, firm bitterness, and dry finish. Quite aromatic, with spicy, fruity, and light alcohol notes combining with the supportive clean malt character to produce a surprisingly drinkable beverage considering the high alcohol content.

@@ -9,6 +9,7 @@ examples: The Bruery Goses are Red,New Planet Raspberry Ale, Tired Hands Strawbe
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 A appealing combination of fruit, sugar, and beer, but still recognizable as a beer. The fruit and sugar character should both be evident but in balance with the beer, not so forward as to suggest an artificial product.

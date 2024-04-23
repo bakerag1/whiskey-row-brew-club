@@ -9,6 +9,7 @@ examples: Alesmith Speedway Stout, Elysian Avatar Jasmine IPA, Founders Breakfas
 ABV: 0-0%  
 OG/FG: 0-0/0-0  
 SRM: 0-0  
+IBU: 0-0
 
 ## Overall Impression
 An appealing fusion of spices, herbs, or vegetables (SHVs) and beer, but still recognizable as beer. The SHV character should be evident but in balance with the beer, not so forward as to suggest an artificial product.

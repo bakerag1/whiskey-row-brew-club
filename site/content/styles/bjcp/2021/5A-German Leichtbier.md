@@ -9,6 +9,7 @@ examples: Autenrieder Schlossbräu Leicht, Greif Bräu Leicht, Hohenthanner Tann
 ABV: 2.4-3.6%  
 OG/FG: 1.026-1.034/1.006-1.01  
 SRM: 1.5-4  
+IBU: 15-28
 
 ## Overall Impression
 A pale, highly-attenuated, light-bodied German lager with lower alcohol and calories than standard-strength beers. Moderately bitter with noticeable malt and hop flavors, the beer is still interesting to drink.

@@ -9,6 +9,7 @@ examples: ABK Pils Anno 1907, Jever Pilsener, König Pilsener, Paulaner Pils, Bi
 ABV: 4.4-5.2%  
 OG/FG: 1.044-1.05/1.008-1.013  
 SRM: 2-4  
+IBU: 22-40
 
 ## Overall Impression
 A pale, dry, bitter German lagerfeaturing a prominent hop aroma. Crisp, clean, and refreshing, showing a brilliant gold color with excellent head retention.

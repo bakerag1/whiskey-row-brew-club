@@ -9,6 +9,7 @@ examples: Anderson Valley Gose, Bayerisch Bahnhof Leipziger Gose, Original Ritte
 ABV: 4.2-4.8%  
 OG/FG: 1.036-1.056/1.006-1.01  
 SRM: 3-4  
+IBU: 5-12
 
 ## Overall Impression
 A tart, lightly-bittered historical central European wheat beer with a distinctive but restrained salt and coriander character. Very refreshing, with a dry finish,high carbonation, and bright flavors.Aroma

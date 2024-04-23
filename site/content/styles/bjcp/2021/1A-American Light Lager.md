@@ -9,6 +9,7 @@ examples: Bud Light, Coors Light, Grain Belt Premium Light American Lager, Miche
 ABV: 2.8-4.2%  
 OG/FG: 1.028-1.04/0.998-1.008  
 SRM: 2-3  
+IBU: 8-12
 
 ## Overall Impression
 A highly carbonated, very light-bodied, nearly flavorless lager designed to be consumed very cold. Very refreshing and thirst-quenching.
