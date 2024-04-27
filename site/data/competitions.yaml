@@ -7,6 +7,9 @@ winners:
       post: /posts/2022-brewer-of-the-year-john-allen
     - name: John Allen
       year: 2021
+    - name: COVID-19
+      year: 2020
+      post: https://en.wikipedia.org/wiki/COVID-19
     - name: Kenny
       year: 2019
 compTypes:
