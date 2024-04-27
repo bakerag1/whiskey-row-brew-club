@@ -20,7 +20,7 @@ permissions:
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 # Default to bash
 defaults:
@@ -28,7 +28,16 @@ defaults:
     shell: bash
 
 jobs:
-  # Build job
+  standings:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.22.1'
+      - name: update standings
+        run: cd breweroftheyear && go run main.go
   build:
     runs-on: ubuntu-latest
     env:
