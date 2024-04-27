@@ -1,0 +1,12 @@
+- place: 1st
+  name: Susan
+  points: 12
+- place: 2nd
+  name: Andrew
+  points: 11
+- place: 3rd
+  name: Wes
+  points: 4
+- place: 4th
+  name: Tom
+  points: 2

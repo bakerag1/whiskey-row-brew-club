@@ -1,6 +1,6 @@
-{{ range $year, $schedule := $.Site.Data.competitions.schedule }}
-  <h2>{{ $year }}</h2>
-  {{ range $schedule }}
+{{ range $.Site.Data.competitions.schedules }}
+  <h2>{{ .year }}</h2>
+  {{ range .comps }}
     <hr>
     {{ $title := .compType }}
     {{ range $.Site.Data.competitions.compTypes }}

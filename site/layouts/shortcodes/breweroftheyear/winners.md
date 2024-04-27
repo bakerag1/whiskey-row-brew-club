@@ -1,9 +1,8 @@
-{{ range $year, $winner := $.Site.Data.competitions.winners }}
-  <h2>{{ $year }}</h2>
-  {{ $w := index $winner 0 }}
-  {{ if $w.post }}
-    <a href="{{ $w.post }}">{{$w.name}}
+{{ range $.Site.Data.competitions.winners }}
+  <b>{{ .year }}</b>
+  {{ if .post }}
+     - <a href="{{ .post }}">{{.name}}</a><br>
   {{ else }}
-    <p>{{ $w.name }} <p>
+     - {{ .name }}<br>
   {{ end }}
 {{ end }}

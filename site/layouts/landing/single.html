@@ -1,10 +1,10 @@
 {{ define "main" -}}
 <nav>
     <a href="/">Home</a> | 
-    <a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a>
-  {{ range .CurrentSection.Pages }}
+    <a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a> 
+    {{ range .CurrentSection.Pages }}
      | <a href="{{ .RelPermalink}}">{{ .LinkTitle }}</a>
-  {{ end }}
+    {{ end }}
 </nav>
 <div class="post">
   <h1>{{ .Title }}</h1>
