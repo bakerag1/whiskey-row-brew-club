@@ -30,6 +30,7 @@ func main() {
 
 func makePost(mtg Meeting) {
 	mtg.Date = time.Now().Format("2006-01-02T15:04:05Z")
+	mtg.Time = mtg.Start.Format("January 2 3pm")
 	f, err := os.Create("out/index.md")
 	if err != nil {
 		panic(err)
@@ -72,13 +73,15 @@ func (c *Meeting) getMeeting(name string) *Meeting {
 }
 
 type Meeting struct {
-	Time      string   `yaml:"time"`
-	Location  string   `yaml:"location"`
-	Gauntlet  string   `yaml:"gauntlet"`
-	Ed        string   `yaml:"ed"`
-	Notes     []string `yaml:"notes"`
-	Title     string   `yaml:"title"`
+	Start     time.Time `yaml:"start"`
+	End       time.Time `yaml:"end"`
+	Location  string    `yaml:"location"`
+	Gauntlet  string    `yaml:"gauntlet"`
+	Ed        string    `yaml:"ed"`
+	Notes     []string  `yaml:"notes"`
+	Title     string    `yaml:"title"`
 	Date      string
+	Time      string
 	PostTitle string `yaml:"post-title"`
 }
 

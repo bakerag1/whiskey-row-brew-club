@@ -32,5 +32,30 @@
   {{ end -}}
 
   {{ partial "hook_head_end.html" . }}
-  
+  {{ if .Params.event }}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "{{ .Title }}",
+      "startDate": "{{ .Params.startDate }}",
+      "endDate": "{{ .Params.endDate }}",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "{{ .Params.location }}"
+      },
+      "image": [
+        {{ printf "%s%s" .Permalink "event.png" }}
+       ],
+      "description": "{{ .Content }}",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Whiskey Row Brew Club",
+        "url": "https://whiskeyrowbrewclub.com"
+      }
+    }
+    </script>
+{{ end }}
 </head>

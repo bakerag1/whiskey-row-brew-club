@@ -1,12 +1,14 @@
 ---
 title: {{.PostTitle}}
 date: {{.Date}}
-author: bakerag
+startDate: {{ .Start }}
+endDate:  {{ .End }}
+location: {{ .Location }}
+event: true
 ---
 
 ![image](event.png)
-
-Whiskey Row Brew Club  
+ 
 {{.Title}}  
 {{.Time}}  
 {{.Location}}  
