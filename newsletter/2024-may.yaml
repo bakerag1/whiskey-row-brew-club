@@ -1,0 +1,67 @@
+club-events:
+  - name: Wren House Brew Day
+    url: https://whiskeyrowbrewclub.com/posts/2024-may-brewday/
+    info: May 5
+  - name: Horseshoes & Homebrews
+    info: Campout July 18-21
+beer-events:
+  - name: Smelter Town's ClarkdALE Beer Fest
+    info: 5/18 12-6 @ Smelter Town Brewery
+    url: https://www.smeltertownbrewery.com/_files/ugd/41c998_03f71caea20645f283d7e3d3db3c13f9.pdf
+  - name: Sloshball
+    info: 6/2 Prescott More details to come
+  - name: Real Wild & Woodsy Brew fest
+    info: 6/8 Flagstaff
+    url: https://chooseazbrews.com/real-wild-woodsy-flagstaff/
+  - name: Whiskey Row Brew Fest
+    info: 6/15 Prescott
+    url: https://prescott.events/whiskey-row-brew-fest
+competitions:
+  - name: ASH Copper State Cup
+    url: https://beerawardsplatform.com/2024-ash-copper-state-cup
+    info: AZ Homebrew Competition, registration begins 8/16
+meetings:
+  - date: 2024-05-16
+    gauntlet: Modelo Especial clone
+    education: Brewing Session Beers
+    location: Cocky's Chicken & Brew
+  - date: 2024-06-20
+    gauntlet: Wheat beer (declare your style min. 40% wheat)
+    education: Temperature Control
+    location: Cocky's Chicken & Brew
+  - date: 2024-07-18
+    location: No Meeting... Campout!
+news: |
+  The Lazy G competition judging is complete, we will share the results at the next meeting!
+  <br><br>
+  The Wren House brew day was a howl, literally! We brewed about 20 gallons of beer and 10 
+  gallons of mead! We had some interest from the public, but the wind was really too much for
+  most of them. We had awesome tacos, salsa, guac, etc. Along with the always tasty Wren House
+  beers.
+  <br><br>
+  Unfortunately Party in the Pines has been cancelled, if that affects what you selected for other
+  events, feel free to update your survey responses through the Google Form
+  <a href="https://forms.gle/WMggFK7pPcM9QAER7">Summer Event Signup</a>
+  <br><br>
+  Finally, I'm thrilled to announce the first annual WRBC Sloshball Game!  We'll email
+  the full details after this month's meeting, but get it on your calendar now for June 2nd!
+
+board:
+  - position: President/Web Admin
+    name: Andrew Baker 
+  - position: Vice President
+    name: John Allen
+  - position: Treasurer
+    name: Greg Gannon
+  - position: Merchandise
+    name: Mike and Jodi Maas 
+  - position: Education
+    name: Seth Kuhnke 
+  - position: Events
+    name: Ashley Kuhnke
+  - position: Membership
+    name: Shelley Deardroff
+  - position: General Secretary
+    name: Stephanie Baker 
+  - position: At-Large
+    name: Tuk Jacobson; Ryan Hawkins; Janine Kauffmann; Wes Meuller
