@@ -143,10 +143,30 @@ schedules:
           guideYear: 2021
           category: 18B
         compType: club
+        winners:
+          - name: Wes
+            position: first
+            points: 3
+          - name: Tuk
+            position: second
+            points: 2
+          - name: Seth
+            position: third
+            points: 1
       - date: 2024-05-16
         style:
           name: Modelo Especial clone
         compType: gauntlet
+        winners:
+          - name: Andrew
+            position: first
+            points: 3
+          - name: Mike Maas
+            position: second
+            points: 2
+          - name: Susan
+            position: third
+            points: 1
       - date: 2024-06-20
         style:
           name: Wheat beer (declare your style min. 40% wheat)
