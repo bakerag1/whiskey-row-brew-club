@@ -14,7 +14,7 @@
     {{ end }}
     {{ with .style }}
       {{ if and (eq .guide "bjcp" ) (eq .guideYear 2021 ) .category}} 
-        <a href="/styles/bjcp/2021/{{.category}}">&nbsp;&nbsp;{{ .name }}</a><br>
+        <a href="/styles/bjcp/2021/{{.category}}">&nbsp;&nbsp;{{ .category }}. {{ .name }}</a><br>
         {{ else }}{{if .name }}&nbsp;&nbsp; {{ .name }}<br>{{ end }}
       {{ end}}
     {{ end }}
