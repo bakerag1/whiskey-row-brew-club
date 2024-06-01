@@ -50,6 +50,7 @@ schedules:
   - year: 2024
     comps:
       - date: 2024-01-18
+        entries: 3
         style:
           name: Munich Dunkel
           guide: bjcp
@@ -67,6 +68,7 @@ schedules:
             position: third
             points: 1
       - date: 2024-02-15
+        entries: 3
         style:
           name: Baltic Porter
           guide: bjcp
@@ -84,6 +86,7 @@ schedules:
             points: 1
             position: third
       - date: 2024-03-21
+        entries: 3
         style:
           name: California Common
           guide: bjcp
@@ -118,6 +121,7 @@ schedules:
             points: 2
             category: Melomel
       - date: 2024-04-18
+        entries: 4
         style:
           name: American Pale Ale
           guide: bjcp
@@ -135,6 +139,7 @@ schedules:
             position: third
             points: 1
       - date: 2024-04-18
+        entries: 5
         info: Lazy-G Pro-Am Competition
         link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
         style:
@@ -154,6 +159,7 @@ schedules:
             position: third
             points: 1
       - date: 2024-05-16
+        entries: 4
         style:
           name: Modelo Especial clone
         compType: gauntlet

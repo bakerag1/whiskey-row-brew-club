@@ -8,16 +8,17 @@
     {{ end }}
     <b>{{ .date }}<b> - {{ $title }}<br>
     {{ if .info }}
-    &nbsp;&nbsp;{{ .info }}
+      {{ .info }}
     {{ if .link }}<a href="{{ .link }}">details</a>{{ end }}
     <br>
     {{ end }}
     {{ with .style }}
       {{ if and (eq .guide "bjcp" ) (eq .guideYear 2021 ) .category}} 
-        <a href="/styles/bjcp/2021/{{.category}}">&nbsp;&nbsp;{{ .category }}. {{ .name }}</a><br>
-        {{ else }}{{if .name }}&nbsp;&nbsp; {{ .name }}<br>{{ end }}
+        <a href="/styles/bjcp/2021/{{.category}}">{{ .category }}. {{ .name }}</a><br>
+        {{ else }}{{if .name }}{{ .name }}<br>{{ end }}
       {{ end}}
     {{ end }}
+    {{ if .entries }}&nbsp;&nbsp;{{ .entries }} entries<br>{{ end }}
     {{ with .winners }}
       {{ range . }}
         &nbsp;&nbsp;{{ .position }}: {{ .name }}
