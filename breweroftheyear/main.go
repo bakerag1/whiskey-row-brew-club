@@ -82,8 +82,12 @@ func GetWinners(file string) []Standing {
 	sort.Slice(s, func(i, j int) bool {
 		return s[i].Points > s[j].Points
 	})
+	place := 1
 	for i := 0; i < len(s); i++ {
-		s[i].Place = humanize.Ordinal(i + 1)
+		if i > 0 && s[i].Points != s[i-1].Points {
+			place++
+		}
+		s[i].Place = humanize.Ordinal(place)
 	}
 
 	return s
