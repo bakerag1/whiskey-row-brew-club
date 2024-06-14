@@ -1,7 +1,6 @@
 package main
 
 import (
-	"io/ioutil"
 	"log"
 	"os"
 	"sort"
@@ -31,10 +30,18 @@ type Standing struct {
 }
 
 type Comp struct {
-	Winners []Winner `yaml:"winners"`
+	Winners []Winner    `yaml:"winners"`
+	Type    string      `yaml:"compType"`
+	Info    string      `yaml:"info"`
+	Link    string      `yaml:"link"`
+	Date    string      `yaml:"date"`
+	Style   interface{} `yaml:"style"`
+	Entries int         `yaml:"entries"`
 }
 type Schedules struct {
-	Schedules []Schedule `yaml:"schedules"`
+	Schedules []Schedule  `yaml:"schedules"`
+	Winners   []Winner    `yaml:"winners"`
+	CompTypes interface{} `yaml:"compTypes"`
 }
 type Schedule struct {
 	Year  string `yaml:"year"`
@@ -45,15 +52,20 @@ type Winner struct {
 	Name     string `yaml:"name"`
 	Points   int    `yaml:"points"`
 	Category string `yaml:"category"`
+	Position string `yaml:"position"`
+	Year     string `yaml:"year"`
+	Post     string `yaml:"post"`
 }
 
 func GetWinners(file string) []Standing {
 	var scheds Schedules
-	yamlFile, err := ioutil.ReadFile(file)
+	yamlFile, err := os.Open(file)
 	if err != nil {
 		log.Printf("yamlFile.Get err   #%v ", err)
 	}
-	err = yaml.Unmarshal(yamlFile, &scheds)
+	d := yaml.NewDecoder(yamlFile)
+	d.SetStrict(true)
+	err = d.Decode(&scheds)
 	if err != nil {
 		log.Fatalf("Unmarshal: %v", err)
 	}
