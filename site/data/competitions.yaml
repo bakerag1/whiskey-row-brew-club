@@ -186,6 +186,11 @@ schedules:
         info: National Homebrew Competition - first round
         link: https://www.homebrewersassociation.org/news/get-ready-registration-opens-in-1-week/
         compType: NHC
+        winners:
+        - name: Andrew
+          position: first
+          category: Strong European Lagers
+          points: 3
       - date: 2024-08-15
         style:
           name: Farmhouse (declare your style)
