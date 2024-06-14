@@ -42,8 +42,9 @@ type Schedule struct {
 }
 
 type Winner struct {
-	Name   string `yaml:"name"`
-	Points int    `yaml:"points"`
+	Name     string `yaml:"name"`
+	Points   int    `yaml:"points"`
+	Category string `yaml:"category"`
 }
 
 func GetWinners(file string) []Standing {
@@ -63,9 +64,9 @@ func GetWinners(file string) []Standing {
 			break
 		}
 	}
-	log.Printf("%v", len(thisYearsSched.Comps))
 	var winners []Winner
 	for _, v := range thisYearsSched.Comps {
+
 		if v.Winners != nil {
 			winners = append(winners, v.Winners...)
 		}
@@ -98,5 +99,6 @@ func CalcStandings(w []Winner) map[string]int {
 	for _, v := range w {
 		standings[v.Name] += v.Points
 	}
+	log.Printf("%v", standings)
 	return standings
 }
