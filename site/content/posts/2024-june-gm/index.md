@@ -1,6 +1,6 @@
 ---
-title: May General Meeting
-date: 2024-06-17T15:09:29Z
+title: June General Meeting
+date: 2024-06-17T15:13:04Z
 startDate: 2024-06-20 18:00:00 -0700 MST
 endDate:  2024-06-20 20:00:00 -0700 MST
 location: Cocky's Chicken+Brew
