@@ -177,6 +177,19 @@ schedules:
         style:
           name: Wheat beer (declare your style min. 40% wheat)
         compType: gauntlet
+        winners:
+          - name: Susan
+            category: Weissbier
+            position: first
+            points: 3
+          - name: Susan
+            category: Berliner Weisse (w/ peach)
+            position: second
+            points: 2
+          - name: Seth
+            category: American Wheat
+            position: third
+            points: 1
       - date: 2024-07-20
         info: Horseshoes & Homebrews
         style:
