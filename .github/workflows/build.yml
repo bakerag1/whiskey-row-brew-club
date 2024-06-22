@@ -44,6 +44,7 @@ jobs:
           add: 'site/data/standings.yaml'
   build:
     runs-on: ubuntu-latest
+    needs: standings
     env:
       HUGO_VERSION: 0.121.0
     steps:
