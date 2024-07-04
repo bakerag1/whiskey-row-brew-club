@@ -40,3 +40,8 @@ Most commercial examples are in the 6.5 – 7% ABV range. Often has an almost la
 
 ## Commercial Examples
 Affligem Blond, Corsendonk Blond, Grimbergen Blonde, La Trappe Blond, Leffe Blond, Val-Dieu Blonde
+
+
+
+
+

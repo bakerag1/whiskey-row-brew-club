@@ -40,3 +40,11 @@ The description of the beer is critical for evaluation; judges should think more
 
 ## Commercial Examples
 21st Amendment Watermelon Wheat, Anderson Valley Blood Orange Gose, Avery Liliko’i Kepolo, Ballast Point Grapefruit Sculpin, Bell’s Cherry Stout, Founders Rübæus
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type(s) of fruit used. Entrant must specify a description of the beer, identifying either a Base Styleor the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

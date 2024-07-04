@@ -40,3 +40,11 @@ Tends to have fewer adjuncts than American Lagers. They may be all-malt, althoug
 
 ## Commercial Examples
 Asahi Super Dry, Birra Moretti, Corona Extra, Devils Backbone Gold Leaf Lager, Full Sail Session Premium Lager, Heineken, Red Stripe, Singha
+
+
+
+
+
+
+## Entry Instructions
+Entrant may specify regional variations, if desired (Mexican lager, Dutch lager, etc.).

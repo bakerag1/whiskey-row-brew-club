@@ -40,3 +40,11 @@ The description of the beer is critical for evaluation; judges should think more
 
 ## Commercial Examples
 Alesmith Speedway Stout, Elysian Avatar Jasmine IPA, Founders Breakfast Stout, Rogue Yellow Snow Pilsner, Traquair Jacobite Ale, Young’s Double Chocolate Stout
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of spices, herbs, or vegetables used, but individual ingredients do not need to be specified if a well-known spice blend is used (e.g., apple pie spice, curry powder, chili powder). Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

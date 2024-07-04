@@ -40,3 +40,8 @@ A stronger version of a Berliner Weisse-type beer with less restrictive grist, a
 
 ## Commercial Examples
 Rarely found, as this style is typically the base for other Specialty-Type Beers.
+
+
+
+
+

@@ -40,3 +40,8 @@ Historical versions may have had some lactic sourness but this is absent in fres
 
 ## Commercial Examples
 Allagash White, Blanche de Bruxelles, Celis White, Hoegaarden White, Ommegang Witte,St. Bernardus Wit
+
+
+
+
+

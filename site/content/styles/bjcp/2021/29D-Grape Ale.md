@@ -40,3 +40,11 @@ Strengths can be as low as 4.5% or as high as 12.5%, but most commonly in the ra
 
 ## Commercial Examples
 Montegioco Open Mind, Birrificio del Forte Il Tralcio, Luppolajo Mons Rubus, Firestone Walker Feral Vinifera, pFriem Family Brewers Druif, 4 Árvores Abbondanza
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of grape used. The entrant mayprovide additional information about the base style or characteristic ingredients.

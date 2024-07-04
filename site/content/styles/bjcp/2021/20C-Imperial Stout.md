@@ -40,3 +40,8 @@ Sometimes known as Russian Imperial Stout or RIS. Varying interpretations exist 
 
 ## Commercial Examples
 American –Bell’s Expedition Stout, Great Divide Yeti Imperial Stout, North Coast Old Rasputin Imperial Stout, Oskar Blues Ten Fidy, Sierra Nevada Narwhal Imperial Stout; English – 2SP Brewing Co The Russian, Courage Imperial Russian Stout, Le Coq Imperial Extra Double Stout, Samuel Smith Imperial Stout, Thornbridge Saint Petersburg
+
+
+
+
+

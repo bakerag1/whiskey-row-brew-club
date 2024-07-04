@@ -40,3 +40,8 @@ In England today, “ESB” is a Fullers trademark, and no one thinks of it as a
 
 ## Commercial Examples
 Bass Ale, Bateman’s Triple XB, Robinsons Trooper, Samuel Smith’s Organic Pale Ale, Shepherd Neame Bishop's Finger, Summit Extra Pale Ale
+
+
+
+
+

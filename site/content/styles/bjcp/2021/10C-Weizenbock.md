@@ -40,3 +40,11 @@ A Weissbier brewed to bock or doppelbock strength, although Schneider also produ
 
 ## Commercial Examples
 Dark – Plank Bavarian Dunkler Weizenbock, Penn Weizenbock,Schalchner Weisser Bock, Schneider Weisse Aventinus; Pale –Ayinger Weizenbock, Distelhäuser Weizen Bock, Ladenburger Weizenbock Hell,Weihenstephaner Vitus
+
+
+
+
+
+
+## Entry Instructions
+The entrant will specify whether the entry is a pale(SRM 6-9) or a dark(SRM 10-25) version.

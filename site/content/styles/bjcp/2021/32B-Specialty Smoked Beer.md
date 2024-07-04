@@ -40,3 +40,11 @@ Judges should evaluate these beers mostly on the overall balance, and how well t
 
 ## Commercial Examples
 Fat Head’s Up in Smoke, Ommegang Bourbon Barrel Vanilla Smoked Porter
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of wood or smoke if a varietal smoke character is noticeable. The entrant must specify the additional ingredients or processes that make this a specialty smoked beer.Entrant must specify a description of the beer, identifying either a base style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

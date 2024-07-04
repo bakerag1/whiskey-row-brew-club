@@ -40,3 +40,8 @@ Often what non-craft beer drinkers expect to be served if they order beer in the
 
 ## Commercial Examples
 Budweiser, Coors Original, Grain Belt Premium American Lager, Miller High Life, Old Style, Pabst Blue Ribbon, Special Export
+
+
+
+
+

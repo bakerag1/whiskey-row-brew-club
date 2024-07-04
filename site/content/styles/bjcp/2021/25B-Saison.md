@@ -40,3 +40,11 @@ This style generally describes the standard-strength pale version, followed by d
 
 ## Commercial Examples
 Ellezelloise Saison 2000, Lefebvre Saison 1900, Saison Dupont, Saison de Pipaix, Saison Voisin, Boulevard Tank 7
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the strength (table, standard, super) and the color (pale, dark). The entrant may identify character grains used.

@@ -51,6 +51,9 @@ type Style struct {
 	Ingredients                    string `json:"ingredients"`
 	Examples                       string `json:"examples"`
 	Style_guide                    string `json:"style_guide"`
+	Strength_classifications       string `json:"strength_classifications"`
+	Currently_defined_types        string `json:"currently_defined_types"`
+	Entry_instructions             string `json:"entry_instructions"`
 }
 
 type Measurement struct {

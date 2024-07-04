@@ -40,3 +40,8 @@ A wide-ranging category with different interpretations possible, ranging from li
 
 ## Commercial Examples
 AleSmith Nut Brown Ale, Cigar City Maduro Brown Ale, Maxim Double Maxim, Newcastle Brown Ale, Riggwelter Yorkshire Ale, Samuel Smith’s Nut Brown Ale
+
+
+
+
+

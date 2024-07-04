@@ -40,3 +40,8 @@ The style is fairly broad to allow for examples beyond the traditional ones from
 
 ## Commercial Examples
 Franciscan Well Rebel Red, Kilkenny Irish Beer, Murphy’s Irish Red, O’Hara’s Irish Red Ale, Porterhouse Nitro Red Ale, Smithwick’s Irish Ale
+
+
+
+
+

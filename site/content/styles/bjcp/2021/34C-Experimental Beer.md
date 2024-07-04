@@ -40,3 +40,11 @@ This style cannot represent a well-known commercial beer (otherwise it would be 
 
 ## Commercial Examples
 None
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the special nature of the experimental beer, including the special ingredients or processes that make it not fit elsewhere in the guidelines. The entrant must provide vital statistics for the beer, and either a brief sensory description or a list of ingredients used in making the beer. Without this information, judges will have no basis for evaluation.

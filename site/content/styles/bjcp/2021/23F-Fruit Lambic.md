@@ -40,3 +40,11 @@ Produced like Gueuze, with the fruit commonly added halfway through aging,so the
 
 ## Commercial Examples
 3 Fonteinen Schaerbeekse Kriek, Cantillon Fou’ Foune, Cantillon Lou Pepe Framboise, Cantillon Vigneronne, Hanssens Oude Kriek,Oude KriekBoon
+
+
+
+
+
+
+## Entry Instructions
+The type of fruit used must be specified. The brewer must declare a carbonation level (low, medium, high) and a sweetness level (low/none, medium, high).

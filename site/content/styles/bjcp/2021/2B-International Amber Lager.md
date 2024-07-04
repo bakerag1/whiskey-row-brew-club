@@ -40,3 +40,8 @@ A wide spectrum of mass-market amber lagers either developed independently in va
 
 ## Commercial Examples
 Abita Amber Lager, Brooklyn Lager, Capital Wisconsin Amber Lager, Dos Equis Amber, Grain Belt NordEast, Yuengling Lager
+
+
+
+
+

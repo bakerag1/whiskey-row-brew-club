@@ -40,3 +40,11 @@ The base beer style becomes less relevant in this style because the various yeas
 
 ## Commercial Examples
 Boulevard Love Child, Jester King Le Petit Prince, Jolly Pumpkin Oro de Calabaza, Lost Abbey Ghosts in the Forest, New Belgium Le Terroir, Russian River Temptation
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify a description of the beer, identifying yeast or bacteria used and either a Base Style, or the ingredients, specs, or target character of the beer.

@@ -40,3 +40,8 @@ Designed to appeal to as broad a range of the general public as possible. Strong
 
 ## Commercial Examples
 Bud Light, Coors Light, Grain Belt Premium Light American Lager, Michelob Light, Miller Lite, Old Milwaukee Light
+
+
+
+
+

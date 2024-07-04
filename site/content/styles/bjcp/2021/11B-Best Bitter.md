@@ -40,3 +40,8 @@ More evident malt flavor than in an ordinary bitter; this is a stronger, session
 
 ## Commercial Examples
 Adnams Southwold Bitter, Fuller's London Pride, Harvey’s Sussex Best Bitter, Salopian Darwin’s Origin, Surrey Hills Shere Drop, Timothy Taylor Landlord
+
+
+
+
+

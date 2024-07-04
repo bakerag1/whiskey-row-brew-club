@@ -40,3 +40,8 @@ Different variations exist, from an easy-drinking fairly sweet beer to a dry, ag
 
 ## Commercial Examples
 Bell’s Oberon, Boulevard Unfiltered Wheat Beer, GoodLife Sweet As! Pacific Ale, Goose Island 312 Urban Wheat Ale, Widmer Hefeweizen
+
+
+
+
+

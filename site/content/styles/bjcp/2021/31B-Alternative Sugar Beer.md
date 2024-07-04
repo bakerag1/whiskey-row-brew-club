@@ -40,3 +40,11 @@ The additional sugar should be apparent somewhere in the sensory profile. If the
 
 ## Commercial Examples
 Bell’s Hopslam, Cervejaria Colorado Appia, Fifth Hammer Break of Jawn, Groundswell Piloncillo, Long Trail Harvest, New Glarus Cabin Fever
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of sugar used. Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

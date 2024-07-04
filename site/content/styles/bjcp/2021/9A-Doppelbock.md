@@ -40,3 +40,11 @@ Doppelbock means double bock. Most versions are dark colored and may display the
 
 ## Commercial Examples
 Dark Versions –Andechs Doppelbock Dunkel,Ayinger Celebrator, Paulaner Salvator, Spaten Optimator, Tröegs Troegenator,Weihenstephaner Korbinian; Pale Versions – Eggenberg Urbock 23º, Meinel Doppelbock Hell, Plank Bavarian Heller Doppelbock, Riegele Auris 19, Schönbuch Doppelbock Hell, Staffelberg-Bräu Zwergator
+
+
+
+
+
+
+## Entry Instructions
+The entrant will specify whether the entry is a pale or a dark variant.

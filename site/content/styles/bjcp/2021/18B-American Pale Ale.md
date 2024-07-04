@@ -40,3 +40,8 @@ Modern American versions are often just lower gravity IPAs. Traditionally was a 
 
 ## Commercial Examples
 Deschutes Mirror Pond Pale Ale, Half Acre Daisy Cutter Pale Ale, Great Lakes Burning River, La Cumbre Acclimated APA, Sierra Nevada Pale Ale, Stone Pale Ale 2.0
+
+
+
+
+

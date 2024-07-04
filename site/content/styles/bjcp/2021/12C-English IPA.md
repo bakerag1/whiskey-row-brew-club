@@ -40,3 +40,8 @@ The attributes of IPA that were important to its arrival in good condition in In
 
 ## Commercial Examples
 Berkshire Lost Sailor IPA, Fuller's Bengal Lancer, Marston’s Old Empire IPA, Meantime London IPA, Thornbridge Jaipur, Worthington White Shield
+
+
+
+
+

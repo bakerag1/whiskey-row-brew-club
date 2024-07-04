@@ -40,3 +40,8 @@ Well-hopped, quenching beer with an emphasis on showcasing hops. Served colder t
 
 ## Commercial Examples
 Adnams Explorer, Crouch Vale Brewers Gold, Golden Hill Exmoor Gold, Hop Back Summer Lightning, Oakham JHB, Spitfire Golden Ale
+
+
+
+
+

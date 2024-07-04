@@ -40,3 +40,8 @@ High in alcohol but does not taste strongly of alcohol. The best examples are sn
 
 ## Commercial Examples
 Chimay Tripel, La Rulles Tripel, La Trappe Tripel, St. Bernardus Tripel, Val-Dieu Triple, Westmalle Tripel
+
+
+
+
+

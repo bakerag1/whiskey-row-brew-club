@@ -40,3 +40,8 @@ Also known as a Belgian Quad, mainly outside of Belgium (Quadruple is the name o
 
 ## Commercial Examples
 Achel Extra Bruin, Boulevard The Sixth Glass, Chimay Blue, Rochefort 10, St. Bernardus Abt 12, Westvleteren 12
+
+
+
+
+

@@ -40,3 +40,8 @@ This style is a combination of the Czech styles tmavý ležák (11–12.9 °P) a
 
 ## Commercial Examples
 Bernard černý ležák 12°, Budvar tmavý ležák, Herold lmavé silné pivo 13°, Kozel Dark , Krušovice  černé, Primátor dark lager, U Fleků Flekovský tmavý ležák 13°
+
+
+
+
+

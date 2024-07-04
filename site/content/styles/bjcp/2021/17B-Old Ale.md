@@ -40,3 +40,8 @@ Strength and character vary widely. The predominant defining quality for this st
 
 ## Commercial Examples
 Avery Old Jubilation, Berlina Old Ale, Greene King Strong Suffolk Ale, Marston Owd Roger, Theakston Old Peculier
+
+
+
+
+

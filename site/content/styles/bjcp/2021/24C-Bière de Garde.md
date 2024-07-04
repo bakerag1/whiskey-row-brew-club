@@ -40,3 +40,11 @@ Cellar, musty, moldy, or rustic character often mentioned in literature are sign
 
 ## Commercial Examples
 Ch’Ti Blonde, Jenlain Ambrée, La Choulette Brune, Russian River Perdition,Saint Sylvestre 3 Monts Blonde, Two Brothers Domaine Dupage
+
+
+
+
+
+
+## Entry Instructions
+Entrant must specify blond, amber, or brownBière de Garde. If no color is specified, the judge should attempt to judge based on initial observation, expecting a malt flavor and balance that matches the color.

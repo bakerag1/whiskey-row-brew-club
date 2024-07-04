@@ -40,3 +40,8 @@ Also known as Foreign Stout, Export Stout, and Foreign Export Stout. Historic ve
 
 ## Commercial Examples
 Coopers Best Extra Stout, Guinness Foreign Extra Stout, The Kernel Export Stout London 1890, La Cumbre Malpais Stout, Pelican Tsunami Export Stout, Ridgeway Foreign Export Stout
+
+
+
+
+

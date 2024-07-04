@@ -40,3 +40,8 @@ The basis for many modern variations, including the stronger Double IPA as well 
 
 ## Commercial Examples
 Bell’s Two-Hearted Ale, Cigar City Jai Alai, Fat Heads Head Hunter IPA, Firestone Walker Union Jack, Maine Lunch, Russian River Blind Pig IPA
+
+
+
+
+

@@ -40,3 +40,8 @@ Also known as New England IPA or NEIPA. An emphasis on late hopping, especially 
 
 ## Commercial Examples
 Belching Beaver Hazers Gonna Haze, Hill Farmstead Susan, Other Half Green Diamonds Double IPA, Pinthouse Electric Jellyfish, Tree House Julius, Trillium Congress Street, WeldWerks Juicy Bits
+
+
+
+
+

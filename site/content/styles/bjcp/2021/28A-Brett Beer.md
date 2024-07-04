@@ -40,3 +40,11 @@ The base style describes most of the character of these beers, but the addition 
 
 ## Commercial Examples
 Boulevard Saison Brett, Hill Farmstead Arthur, Logsdon Seizoen Bretta, Lost Abbey Brett Devo, Russian River Sanctification, The Bruery Saison Rue
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify either a Base Style,or provide a description of the ingredients, specs, or desired character. The entrant may specify the strains of Brett used.

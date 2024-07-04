@@ -40,3 +40,8 @@ Breweries express individuality through varying the roasted malt profile, malt s
 
 ## Commercial Examples
 Avery Out of Bounds Stout, Bell’s Kalamazoo Stout, Deschutes Obsidian Stout, Sierra Nevada Stout, Trillium Secret Stairs
+
+
+
+
+

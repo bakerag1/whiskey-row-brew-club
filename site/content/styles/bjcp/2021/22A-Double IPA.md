@@ -40,3 +40,8 @@ Rarely called Imperial IPA. Many modern versions have multiple dry-hop additions
 
 ## Commercial Examples
 Columbus Brewing Bohdi, Fat Head’s Hop Juju, Port Brewing Hop-15, Russian River Pliny the Elder, Stone Ruination Double IPA 2.0, Wicked Weed Freak of Nature
+
+
+
+
+

@@ -40,3 +40,11 @@ Using the sensory profile of products that suggest the harvest season, like pump
 
 ## Commercial Examples
 Dogfish Head Punkin Ale, Elysian Punkuccino, Rogue Pumpkin Patch Ale, Schlafly Pumpkin Ale, UFO Pumpkin, Weyerbacher Imperial Pumpkin
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of spices, herbs, or vegetables used; individual ingredients do not need to be specified if a well-known blend of spices is used (e.g., pumpkin pie spice). Entrant must specify a description of the beer, identifying either a Base Styleor the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

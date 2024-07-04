@@ -40,3 +40,11 @@ The description of the beer is critical for evaluation; judges should think more
 
 ## Commercial Examples
 Cigar City Margarita Gose, Firestone Walker Chocolate Cherry Stout, Golden Road Spicy Mango Cart, Kona Island Colada Cream Ale, New Glarus Blueberry Cocoa Stout, Sun King Orange Vanilla Sunlight
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of fruit, and the type of SHV used; individual SHV ingredients do not need to be specified if a well-known blend of spices is used (e.g., apple pie spice).Entrant must specify a description of the beer, either a Base Styleor the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

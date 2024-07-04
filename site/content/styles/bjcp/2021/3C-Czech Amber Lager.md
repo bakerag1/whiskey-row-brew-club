@@ -40,3 +40,8 @@ The Czech name of the style is polotmavé pivo, which translates as half-dark be
 
 ## Commercial Examples
 Bernard Jantarový ležák 12°, Gambrinus Polotmavá 12°, Kozel Semi-Dark, Lobkowicz Démon 13, Primátor 13 polotmavé, Strakonický Dudák Klostermann polotmavý ležák
+
+
+
+
+

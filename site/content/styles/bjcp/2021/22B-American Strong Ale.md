@@ -40,3 +40,8 @@ A fairly broad style describing beers labeled in various ways, including modern 
 
 ## Commercial Examples
 Arrogant Bastard Ale, Fat Head’s Bone Head, Great Lakes Nosferatu, Oskar Blues G’Knight, Port Brewing Shark Attack Double Red Ale
+
+
+
+
+

@@ -40,3 +40,8 @@ An entry category more than a style; the strength and character of examples can 
 
 ## Commercial Examples
 Fuller’s 1845, Harvey’s Elizabethan Ale, J.W. Lees Moonraker, McEwan’s Champion, Samuel Smith’s Winter Welcome, Shepherd Neame 1698
+
+
+
+
+

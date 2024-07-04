@@ -40,3 +40,8 @@ A broad range of international lagers that are darker than pale, and not asserti
 
 ## Commercial Examples
 Baltika #4 Original, Dixie Blackened Voodoo, Heineken Dark Lager, Saint Pauli Girl Special Dark, San Miguel Dark, Shiner Bock
+
+
+
+
+

@@ -40,3 +40,18 @@ IBU: {{ .International_bitterness_units.Minimum.Value }}-{{ .International_bitte
 
 ## Commercial Examples
 {{ .Examples }}
+
+{{ with .Currently_defined_types }}
+## Currently Defined Types
+{{ . }}
+{{ end }}
+
+{{ with .Strength_classifications }}
+## Strength Classifications
+{{ . }}
+{{ end }}
+
+{{ with .Entry_instructions }}
+## Entry Instructions
+{{ . }}
+{{ end }}

@@ -40,3 +40,8 @@ The lowest gravity member of the British Bitter family, typically known to consu
 
 ## Commercial Examples
 Bateman’s XB, Brains Bitter, Brakspear Gravity, Fuller's Chiswick Bitter, Greene King IPA, Tetley’s Original Bitter
+
+
+
+
+

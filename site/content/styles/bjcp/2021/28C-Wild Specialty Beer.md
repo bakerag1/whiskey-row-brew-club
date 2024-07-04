@@ -40,3 +40,11 @@ This style is intended for fruited (and other added Specialty-TypeIngredient) ve
 
 ## Commercial Examples
 Cascade Bourbonic Plague, Jester King Atrial Rubicite, New Belgium Dominga Mimosa Sour, New Glarus Wisconsin Belgian Red, Russian River Supplication, The Lost Abbey Cuvee de Tomme
+
+
+
+
+
+
+## Entry Instructions
+Entrant must specify anySpecialty-Type Ingredient (e.g., fruit, spice, herb, or wood) used. Entrant must specify eithera description of the beer, identifying yeast or bacteria used and either a Base Style, or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

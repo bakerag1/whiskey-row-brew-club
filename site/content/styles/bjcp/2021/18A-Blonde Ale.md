@@ -40,3 +40,8 @@ Oxidized versions can develop caramel or honey notes, which should not be mistak
 
 ## Commercial Examples
 Firestone Walker 805, Kona Big Wave Golden Ale, Real Ale Firemans #4 Blonde Ale, Russian River Aud Blonde, Victory Summer Love, Widmer Citra Summer Blonde Brew
+
+
+
+
+

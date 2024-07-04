@@ -40,3 +40,8 @@ Most commercial examples are in the 6.5 – 7% ABV range. Can taste somewhat swe
 
 ## Commercial Examples
 Chimay Red, Corsendonk Bruin, La Trappe Dubbel, Rochefort 6, St. Bernardus Pater 6, Westmalle Dubbel
+
+
+
+
+

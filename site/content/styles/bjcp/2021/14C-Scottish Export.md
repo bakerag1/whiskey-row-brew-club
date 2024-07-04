@@ -40,3 +40,8 @@ See category introduction for detailed comments. May not seem as bitter as speci
 
 ## Commercial Examples
 Belhaven Scottish Ale, Broughton Wee Jock 80 Shilling, Caledonian Edinburgh Castle, McEwan’s 80/-, McEwan’s Export, Traquair Bear Ale
+
+
+
+
+

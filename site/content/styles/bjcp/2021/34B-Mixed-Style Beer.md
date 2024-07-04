@@ -40,3 +40,11 @@ See preamble for intent.
 
 ## Commercial Examples
 Birrificio Italiano Tipopils, Firestone Walker Pivo Pils, Jack’s Abby Hoponius Union, Ommegang Helles Superior
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the Base Style or Styles being used, and any special ingredients, processes, or variations involved. The entrant may provide an additional description of the sensory profile of the beer or the vital statistics of the resulting beer.

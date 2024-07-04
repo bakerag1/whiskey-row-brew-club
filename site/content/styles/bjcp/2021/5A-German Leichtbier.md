@@ -40,3 +40,8 @@ Marketed primarily as a diet-oriented beer with lower carbohydrates, alcohol, an
 
 ## Commercial Examples
 Autenrieder Schlossbräu Leicht, Greif Bräu Leicht, Hohenthanner Tannen Hell Leicht, Müllerbrau Heimer Leicht, Schönramer Surtaler Schankbier, Waldhaus Sommer Bier
+
+
+
+
+

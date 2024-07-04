@@ -40,3 +40,8 @@ Literally means black beer in German. While sometimes called a “black Pils,”
 
 ## Commercial Examples
 Chuckanut Schwarz Lager,Devils Backbone Schwartz Bier, Köstritzer Schwarzbier, Kulmbacher Mönchshof Schwarzbier, Nuezeller Original Badebier, pFriem Schwarzbier
+
+
+
+
+

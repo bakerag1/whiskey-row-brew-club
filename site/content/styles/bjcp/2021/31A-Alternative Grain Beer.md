@@ -40,3 +40,11 @@ The additional grain should be apparent somewhere in the sensory profile. If the
 
 ## Commercial Examples
 Blue/Point Rastafarye Ale, Green’s India Pale Ale, Lakefront New Grist, New Planet Pale Ale, Rogue Morimoto Soba Ale, Voodoo Swimming Jeans
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of alternative grain used. Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

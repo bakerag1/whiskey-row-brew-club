@@ -40,3 +40,11 @@ Use this style for beers other than Bamberg-style Rauchbier (i.e., beechwood-smo
 
 ## Commercial Examples
 Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla Rauchbier Weizen,SchlenkerlaRauchbier Ur-Bock, O’Fallon Smoked Porter, Spezial Rauchbier Lagerbier
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify a Base Style. The entrant must specify the type of wood or smoke if a varietal smoke character is noticeable.

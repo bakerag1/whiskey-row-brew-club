@@ -40,3 +40,17 @@ Most examples are standard strength. Strong examples can sometimes seem like big
 
 ## Commercial Examples
 21st Amendment Back in Black, Duck-Rabbit Hoppy Bunny ABA, Stone Sublimely Self-Righteous Black IPA
+
+
+## Currently Defined Types
+Belgian IPA, Black IPA, Brown IPA, Red IPA, Rye IPA, White IPA, Brut IPA
+
+
+
+## Strength Classifications
+Session – ABV: 3.0 – 5.0%Standard – ABV: 5.0 – 7.5%Double – ABV: 7.5 – 10.0%Specialty IPA: Belgian IPA
+
+
+
+## Entry Instructions
+Entrant must specify a strength (session, standard, double); if no strength is specified, standard will be assumed. Entrant must specify specific type of Specialty IPA from the list of Currently Defined Typesidentified in the Style Guidelines, or as amended by Provisional Styles on the BJCP website; OR the entrant must describe the type of Specialty IPA and its key characteristics in comment form so judges will know what to expect. Entrants may specify specific hop varieties used, if entrants feel that judges may not recognize the varietal characteristics of newer hops. Entrants may specify a combination of defined IPA types (e.g., Black Rye IPA) without providing additional descriptions.

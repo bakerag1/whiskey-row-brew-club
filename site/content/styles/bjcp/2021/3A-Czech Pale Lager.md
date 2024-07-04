@@ -40,3 +40,8 @@ The Czech name of the style is světlé výčepní pivo.
 
 ## Commercial Examples
 Bernard světlé pivo 10, Březňák světlé výčepní pivo, Notch Session Pils, Primátor Antonín světlé výčepní, Radegast Rázna 10, Únětické pivo 10°
+
+
+
+
+

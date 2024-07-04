@@ -40,3 +40,8 @@ A range of strengths is allowable; not all versions are very strong. Also known 
 
 ## Commercial Examples
 Belhaven Wee Heavy, Broughton Old Jock, McEwan’s Scotch Ale, Orkney Skull Splitter, Traquair House Ale, The Duck-Rabbit Wee Heavy Scotch-Style Ale
+
+
+
+
+

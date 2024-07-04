@@ -40,3 +40,11 @@ If the additional fermentables or processes do not add a distinguishable charact
 
 ## Commercial Examples
 The Bruery Goses are Red,New Planet Raspberry Ale, Tired Hands Strawberry Milkshake IPA, WeldWerks Piña Colada IPA
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of fruit used. The entrant must specify the type of additional ingredient (per the introduction) or special process employed.Entrant must specify a description of the beer, identifying either a Base Styleor the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

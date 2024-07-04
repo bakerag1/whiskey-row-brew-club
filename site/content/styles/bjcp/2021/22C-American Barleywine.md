@@ -40,3 +40,8 @@ Sometimes labeled as “Barley Wine” or “Barleywine-style ale”. Recently m
 
 ## Commercial Examples
 Anchor Old Foghorn, Bell’s Third Coast Old Ale,East End Gratitude, Hair of the Dog Doggie Claws, Sierra Nevada Bigfoot
+
+
+
+
+

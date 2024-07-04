@@ -40,3 +40,11 @@ Also known as hefeweizen or weizenbier, particularly outside Bavaria. These beer
 
 ## Commercial Examples
 Ayinger Bräuweisse, Distelhäuser Hell Weizen, Hacker-Pschorr Hefeweißbier, Hofbräuhaus Münchner Weisse, Schneider Weisse Original Weissbier, Weihenstephaner Hefeweißbier
+
+
+
+
+
+
+## Entry Instructions
+The entrant may specify whether the yeast should be roused before serving.

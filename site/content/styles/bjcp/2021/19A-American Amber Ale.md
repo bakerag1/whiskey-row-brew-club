@@ -40,3 +40,8 @@ Can overlap in color with darker American pale ales, but with a different malt f
 
 ## Commercial Examples
 Anderson Valley Boont Amber Ale, Bell’s Amber Ale, Full Sail Amber, North Coast Red Seal Ale, Saint Arnold Amber Ale, Tröegs Hopback Amber Ale
+
+
+
+
+

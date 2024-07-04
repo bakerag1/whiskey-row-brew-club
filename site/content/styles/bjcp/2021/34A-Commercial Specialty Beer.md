@@ -40,3 +40,11 @@ Intended as a catch-all location for specific beers that are based on unique com
 
 ## Commercial Examples
 Orval, La Chouffe
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the name of the commercial beer, specifications (vital statistics) for the beer, and either a brief sensory description or a list of ingredients used in making the beer. Without this information, judges who are unfamiliar with the beer will have no basis for comparison.

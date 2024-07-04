@@ -40,3 +40,11 @@ If the additional fermentables or processes do not add a distinguishable charact
 
 ## Commercial Examples
 New Belgium Honey Orange Tripel, Westbrook It’s Tiki Time
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of SHVs used, but individual ingredients do not need to be specified if a well-known spice blend is used (e.g., apple pie spice, curry powder, chili powder). The entrant must specify the type of additional ingredient (per the introduction) or special process employed.Entrant must specify a description of the beer, identifying either a Base Styleor the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

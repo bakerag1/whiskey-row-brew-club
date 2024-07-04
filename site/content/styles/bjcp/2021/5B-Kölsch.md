@@ -40,3 +40,8 @@ A traditional top-fermented, lagered beer from Cologne, Germany (Köln). Köln b
 
 ## Commercial Examples
 Früh Kölsch, Gaffel Kölsch, Mühlen Kölsch, Päffgen Kolsch, Reissdorf Kölsch, Sion Kölsch, Sünner Kölsch
+
+
+
+
+

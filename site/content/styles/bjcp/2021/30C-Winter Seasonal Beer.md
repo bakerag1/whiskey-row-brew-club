@@ -40,3 +40,11 @@ Using the sensory profile of products that suggest the holiday season, such asCh
 
 ## Commercial Examples
 Anchor Christmas Ale, Great Lakes Christmas Ale, Harpoon Winter Warmer, Rogue Santa’s Private Reserve, Schlafly Christmas Ale, Troeg’s The Mad Elf
+
+
+
+
+
+
+## Entry Instructions
+The entrant must specify the type of spices, sugars, fruits, or additional fermentables used; individual ingredients do not need to be specified if a well-known blend of spices is used (e.g., mulling spice). Entrant must specify a description of the beer, identifying either a Base Styleor the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.

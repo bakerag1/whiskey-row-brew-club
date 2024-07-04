@@ -40,3 +40,8 @@ Traditionally a draught product. Modern examples are almost always associated wi
 
 ## Commercial Examples
 Beamish Irish Stout, Belhaven Black Stout, Guinness Draught, Murphy's Irish Stout, O’Hara’s Irish Stout, Porterhouse Irish Stout
+
+
+
+
+
