@@ -204,6 +204,18 @@ schedules:
             position: first
             category: Strong European Lagers
             points: 3
+          - name: Susan
+            position: first
+            category: Melomel
+            points: 3
+          - name: Susan
+            position: second
+            category: Dry Mead
+            points: 2
+          - name: Susan
+            position: third
+            category: Pyment
+            points: 1
       - date: 2024-08-15
         style:
           name: Farmhouse (declare your style)
@@ -215,6 +227,9 @@ schedules:
           guideYear: 2021
           category: 6A
         compType: gauntlet
+      - date: 2024-10-10
+        info: National Homebrew Competition - final round
+        link: https://www.homebrewersassociation.org/national-homebrew-competition/
       - date: 2024-10-17
         style:
           name: British Strong
@@ -227,7 +242,8 @@ schedules:
         link: https://beerawardsplatform.com/2024-ash-copper-state-cup
         compType: AZ-BJCP
       - date: 2024-11-21
-        info: AZ Mead & Cider Competition
+        info: AZ Mead & Cider Competition registration open until 9/20
+        link: https://meadfest.mountaintopmashers.net/
         compType: AZ-BJCP
       - date: 2024-11-21
         style:
