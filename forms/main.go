@@ -33,11 +33,15 @@ func writePdf(path string) {
 	}
 
 	data := struct {
-		QRCode string
-		Url    string
+		QRCode          string
+		Url             string
+		GauntletRows    []struct{}
+		GauntletColumns []struct{}
 	}{
-		QRCode: base64.StdEncoding.EncodeToString(png),
-		Url:    url,
+		QRCode:          base64.StdEncoding.EncodeToString(png),
+		Url:             url,
+		GauntletRows:    make([]struct{}, 9),
+		GauntletColumns: make([]struct{}, 4),
 	}
 
 	basename := strings.Split(strings.Split(path, ".")[0], "/")[1]
