@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"os/exec"
+	"strings"
 	"text/template"
 
 	qrcode "github.com/skip2/go-qrcode"
@@ -15,8 +16,15 @@ func main() {
 
 	paths := []string{
 		"competition/festival-table-scores.tmpl",
+		"competition/gauntlet-ballots.tmpl",
 	}
 
+	for _, v := range paths {
+		writePdf(v)
+	}
+}
+
+func writePdf(path string) {
 	var png []byte
 	url := "https://whiskeyrowbrewclub.com/forms"
 	png, err := qrcode.Encode(url, qrcode.Medium, 256)
@@ -31,13 +39,16 @@ func main() {
 		QRCode: base64.StdEncoding.EncodeToString(png),
 		Url:    url,
 	}
-	f, err := os.Create("output/festival-table-scores.html")
+
+	basename := strings.Split(strings.Split(path, ".")[0], "/")[1]
+	out := "output/" + basename + ".html"
+	f, err := os.Create(out)
 	if err != nil {
 		panic(err)
 	}
 	writer := bufio.NewWriter(f)
-	t := template.Must(template.New("festival-table-scores").ParseFiles(paths...))
-	err = t.ExecuteTemplate(writer, "festival-table-scores.tmpl", data)
+	t := template.Must(template.New(basename).ParseFiles(path))
+	err = t.ExecuteTemplate(writer, basename+".tmpl", data)
 	if err != nil {
 		panic(err)
 	}
@@ -45,7 +56,7 @@ func main() {
 
 	margin := "4"
 	c := exec.Command("wkhtmltopdf", "-B", margin, "-L", margin, "-R", margin,
-		"output/festival-table-scores.html", "../site/content/forms/festival-table-scores.pdf")
+		out, "../site/content/forms/"+basename+".pdf")
 	c.Stdout = os.Stdout
 	c.Stderr = os.Stderr
 	err = c.Run()
