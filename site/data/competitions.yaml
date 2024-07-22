@@ -177,6 +177,7 @@ schedules:
         style:
           name: Wheat beer (declare your style min. 40% wheat)
         compType: gauntlet
+        entries: 3
         winners:
           - name: Susan
             category: Weissbier
@@ -195,6 +196,20 @@ schedules:
         style:
           name: Session (Declare your style)
         compType: gauntlet
+        entries: 9
+        winners:
+          - name: Susan
+            position: first
+            points: 3
+            category: Cherry Lime Mead
+          - name: Wes
+            position: second
+            points: 2
+            category: Gose
+          - name: John
+            position: third
+            points: 1
+            category: Brut IPA
       - date: 2024-07-01
         info: National Homebrew Competition - first round
         link: https://www.homebrewersassociation.org/news/get-ready-registration-opens-in-1-week/
