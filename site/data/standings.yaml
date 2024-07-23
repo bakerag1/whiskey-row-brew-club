@@ -8,9 +8,6 @@
   name: Wes
   points: 9
 - place: 4th
-  name: Tom
-  points: 2
-- place: 4th
   name: Tuk
   points: 2
 - place: 4th
@@ -18,6 +15,9 @@
   points: 2
 - place: 4th
   name: Mike Maas
+  points: 2
+- place: 4th
+  name: Tom
   points: 2
 - place: 5th
   name: John
