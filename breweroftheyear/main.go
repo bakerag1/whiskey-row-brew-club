@@ -93,6 +93,9 @@ func GetWinners(file string) []Standing {
 		})
 	}
 	sort.Slice(s, func(i, j int) bool {
+		if s[i].Points == s[j].Points {
+			return s[i].Name > s[j].Name
+		}
 		return s[i].Points > s[j].Points
 	})
 	place := 1
