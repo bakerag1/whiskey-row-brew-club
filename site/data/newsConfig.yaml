@@ -1,0 +1,28 @@
+toplinks:
+  - name: Club Website
+    url: https://whiskeyrowbrewclub.com
+  - name: Club Calendar
+    url: https://calendar.google.com/calendar/embed?src=whiskeyrowbrewclub%40gmail.com&ctz=America%2FPhoenix
+  - name: Board Calendar
+    url: https://calendar.google.com/calendar/embed?src=c61a5cbcc22571359e37ae6e51ba35afb9dedfe104d275cbb7ba10e620161680%40group.calendar.google.com&ctz=America%2FPhoenix
+  - name: Competition Schedule
+    url: https://www.whiskeyrowbrewclub.com/p/gauntlet.html
+board:
+  - position: President/Web Admin
+    name: Andrew Baker 
+  - position: Vice President
+    name: John Allen
+  - position: Treasurer
+    name: Greg Gannon
+  - position: Merchandise
+    name: Mike and Jodi Maas 
+  - position: Education
+    name: Seth Kuhnke 
+  - position: Events
+    name: Ashley Kuhnke
+  - position: Membership
+    name: Shelley Deardroff
+  - position: General Secretary
+    name: Stephanie Baker 
+  - position: At-Large
+    name: Tuk Jacobson; Ryan Hawkins; Janine Kauffmann; Wes Meuller

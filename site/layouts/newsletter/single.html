@@ -1,0 +1,193 @@
+{{ define "main" -}}
+<style>
+  aria-label {
+      color: blue;
+  }
+  
+  @font-face {
+      font-family: GentCaller;
+      src: url('/fonts/gentlemancaller.ttf');
+  }
+
+  hr {
+      margin: 2.0em auto;
+  }
+
+  h1 {
+      padding-bottom: 0;
+      font-size: 90;
+  }
+  
+  .gent {
+      font-family: GentCaller;
+  }
+  
+  h2 {
+      padding-top: 0;
+      color: teal;
+  }
+
+  ul {
+      padding-left: 0;
+      list-style-type: none;
+      margin-top: 0;
+  }
+
+  ul:before {
+      content: attr(aria-label);
+      font-size: 120%;
+      font-weight: bold;
+  }
+
+  li {
+      margin-top: 0;
+      margin-bottom: 0;
+      padding-left: 0;
+      padding-bottom: 5px;
+  }
+
+  table.meetings {
+      display: inline-table;
+      border: 1px solid black;
+      border-collapse: collapse;
+      width: 100%
+  }
+
+  th.meetings {
+      text-align: center;
+      background-color: rgb(44, 190, 190);
+      border: 1px solid black;
+      border-collapse: collapse;
+  }
+
+  td.meetings {
+      border: 1px solid black;
+      border-collapse: collapse;
+  }
+
+  .event-group {
+      display: flex;
+      text-align: center;
+  }
+  
+  .events {
+      width: calc(100% / 3);  
+      text-align: left;
+      margin: 10px 10px;
+  }
+</style>
+<div class="post">
+  <div style="float: center;">
+    <div style="text-align: center;">
+      <h1 class="gent">WRBC Monthly</h1>
+      <h2>{{.Date.Format "January"}} {{.Date.Format "2006"}}</h2>
+      <div style="text-align: center;">
+        {{range $.Site.Data.newsConfig.toplinks}}
+        <a href="{{.url}}">{{.name}}</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        {{end}}
+      </div>
+    </div>
+  </div>
+  <div>
+    <h2>News</h2>
+    {{ .Content }}
+  </div>
+  <hr>
+  <div class="event-group">
+    <div class="events">
+      <ul aria-label="Club Events">
+        {{range .Params.ClubEvents}}
+        <li>
+          {{if .url}}
+          <a href="{{.url}}">{{.name}}</a>
+          {{else}}
+          {{.name}}
+          {{end}}
+          {{if .info}}
+          <p style="font-style: italic;">{{ .info }}</p>
+          {{end}}
+        </li>
+        {{end}}
+      </ul>
+      </td>
+    </div>
+
+    <div class="events">
+      <ul aria-label="Beer Events">
+        {{range .Params.BeerEvents}}
+        <li>
+          {{if .url}}
+          <a href="{{.url}}">{{.name}}</a>
+          {{else}}
+          {{.name}}
+          {{end}}
+          {{if .info}}
+          <ul style="font-style: italic;list-style-type: none;">
+            <li>{{.info}}</li>
+          </ul>
+          {{end}}
+        </li>
+        {{end}}
+      </ul>
+    </div>
+    <div class="events">
+      <ul aria-label="Competitions">
+        {{range $.Site.Data.competitions.schedules}}
+          {{ if eq .year 2024}}
+            {{ range .comps }}
+              {{ if ne .compType "gauntlet" }}
+                {{ if gt (time.AsTime  .date) $.Date}}
+                  <li>
+                    {{if .link}}
+                      <a href="{{.link}}">{{.info}}</a>
+                      {{else}}
+                      {{.info}}
+                    {{end}}<br>
+                    {{ with .style.name}}
+                      <i>{{.}}</i>
+                    {{ end }}
+                  </li>
+                {{ end }}
+              {{ end }}
+            {{end}}
+          {{end}}
+        {{end}}
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<h2>Upcoming Meetings</h2>
+<table class="meetings">
+  <thead>
+    <th class="meetings">date & location</th>
+    <th class="meetings">gauntlet</th>
+    <th class="meetings">education</th>
+  </thead>
+  {{ range .Params.Meetings }}
+  <tr>
+    <td class="meetings">{{ .date}}<br>{{ .location}}</td>
+    <td class="meetings">{{ .gauntlet}}</td>
+    <td class="meetings">{{ .education}}</td>
+  </tr>
+  {{end}}
+</table>
+
+<div style="text-align: center;">
+  <h2>Board of Directors</h2><br>
+  {{ range $i, $e := $.Site.Data.newsConfig.board }}
+  <a>
+    <b>{{ $e.position }}:</b> {{ $e.name }}
+    <br>
+    {{ end }}
+    <div>
+    </div>
+
+    </html>
+</div>
+{{ if .Site.DisqusShortname -}}
+<h2>Comments</h2>
+{{ template "_internal/disqus.html" . }}
+{{- end }}
+{{- end }}
