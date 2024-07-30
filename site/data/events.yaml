@@ -1,0 +1,27 @@
+club:
+  - name: Labor Daze Campout
+    info: 8/29-9/2 
+    date: 2024-09-01
+    url: 
+  - name: Oktoberfest
+    info: 9/28, 2-6pm at the Gannon's, members and immediate family only
+    date: 2024-09-28
+beer:
+  - name: Williams Labor Daze
+    info: 9/1 Williams - Grand Canyon Brewing
+    date: 2024-09-01
+    url: https://www.grandcanyonbrewery.com/event-details/labor-daze-festival
+  - name: Great American Beer Festival
+    url: https://www.greatamericanbeerfestival.com/tickets/
+    info: Beer fest with some homebrew activities
+    date: 2024-10-10
+meetings:
+  - date: 2024-08-15
+    location: Cocky's Chicken & Brew
+    education: Diacetyl sensory training and avoidance techniques
+  - date: 2024-09-19
+    location: Cocky's Chicken & Brew
+    education: Pressure Fermentation
+  - date: 2024-10-17
+    location: Cocky's Chicken & Brew
+    education: TBD

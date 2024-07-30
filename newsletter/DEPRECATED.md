@@ -1,1 +1,0 @@
-this folder isn't needed anymore, but I didn't want to migrate the old newsletters, so probably just leave this all here
