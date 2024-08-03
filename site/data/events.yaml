@@ -2,10 +2,17 @@ club:
   - name: Labor Daze Campout
     info: 8/29-9/2 
     date: 2024-09-01
-    url: 
+    url: https://docs.google.com/document/d/1ILNXMQoe_xrsuQrw2GhZLhqtChPpPizYEU_LRH-mnkE/preview
   - name: Oktoberfest
-    info: 9/28, 2-6pm at the Gannon's, members and immediate family only
+    info: 9/28, 2-6pm, members and immediate family only
     date: 2024-09-28
+    url: https://docs.google.com/document/d/1_0b4wu1S9VxPeSY7wa9TWqBMlVtn0X4lBlp6___a9jw/preview
+  - name: Highway Cleanup
+    info: 11am Old Stage Stop, clean up our mile & find some beer
+    date: 2024-09-21
+  - name: Learn to Brew Day
+    date: 2024-11-03
+    info: Brew day at Wren House Prairie Patio
 beer:
   - name: Williams Labor Daze
     info: 9/1 Williams - Grand Canyon Brewing
@@ -24,4 +31,4 @@ meetings:
     education: Pressure Fermentation
   - date: 2024-10-17
     location: Cocky's Chicken & Brew
-    education: TBD
+    education: Mead Tasting
