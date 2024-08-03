@@ -5,6 +5,5 @@ use (
 	./breweroftheyear
 	./event-notice
 	./membercards
-	./newsletter
 	./styles
 )
