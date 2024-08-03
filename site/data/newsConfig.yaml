@@ -2,9 +2,7 @@ toplinks:
   - name: Club Website
     url: https://whiskeyrowbrewclub.com
   - name: Club Calendar
-    url: https://calendar.google.com/calendar/embed?src=whiskeyrowbrewclub%40gmail.com&ctz=America%2FPhoenix
-  - name: Board Calendar
-    url: https://calendar.google.com/calendar/embed?src=c61a5cbcc22571359e37ae6e51ba35afb9dedfe104d275cbb7ba10e620161680%40group.calendar.google.com&ctz=America%2FPhoenix
+    url: /club-calendar
   - name: Competition Schedule
     url: https://www.whiskeyrowbrewclub.com/p/gauntlet.html
 board:
