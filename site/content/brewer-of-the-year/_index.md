@@ -3,7 +3,7 @@ title: "Brewer of the Year"
 linkTitle: "home"
 author: "bakerag"
 type: "landing"
-logo: "/favicon.png"
+logo: "BOTYlogo.png"
 description: "A year long competition for Whiskey Row Brew Club's Brewer of the Year"
 ---
 
