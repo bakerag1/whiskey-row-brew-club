@@ -2,7 +2,7 @@
 title: Lazy G Comp Tapping Pary
 type: post
 date: 2024-08-10
-gallery: false
+gallery: true
 event: true
 startDate: 2024-08-16 17:00:00  -0700 MST
 endDate: 2024-08-16 18:00:00  -0700 MST
