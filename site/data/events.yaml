@@ -22,6 +22,10 @@ beer:
     url: https://www.greatamericanbeerfestival.com/tickets/
     info: Beer fest with some homebrew activities
     date: 2024-10-10
+  - name: Southwest Belgian Fest
+    url: https://southwestbelgianbeerfest.com/
+    info: Belgian Beer Fest in Phoenix
+    date: 2024-11-09
 meetings:
   - date: 2024-08-15
     location: Cocky's Chicken & Brew
