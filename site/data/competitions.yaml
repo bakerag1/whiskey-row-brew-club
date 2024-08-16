@@ -235,6 +235,19 @@ schedules:
         style:
           name: Farmhouse (declare your style)
         compType: gauntlet
+        winners:
+          - name: Andrew
+            position: first
+            category: Bière de Garde
+            points: 3
+          - name: Andrew
+            position: second
+            category: Saison
+            points: 2
+          - name: Susan
+            position: third
+            category: Floral Saison
+            points: 1
       - date: 2024-09-19
         style:
           name: Märzen
