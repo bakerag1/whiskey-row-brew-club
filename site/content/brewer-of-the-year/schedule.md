@@ -3,7 +3,7 @@ title: "Qualified Competition Schedule"
 linkTitle: "Schedule"
 author: "bakerag"
 type: "landing"
-logo: "BOTYlogo.png"
+logo: "../BOTYlogo.png"
 description: "Competitions and results elligible for Whiskey Row Brew Club's Brewer of the Year points"
 aliases:
   - /p/gauntlet.html

@@ -1,7 +1,7 @@
 ---
 title: Results
 type: landing
-logo: "LGcollabLogo.png"
+logo: "../LGcollabLogo.png"
 ---
 
 ## 2024 - American Pale Ale
