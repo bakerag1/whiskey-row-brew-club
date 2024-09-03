@@ -1,7 +1,7 @@
 ---
 title: Results
 type: landing
-logo: "/lazy-g-club-only-competition/LGcollabLogo.png"
+logo: "LGcollabLogo.png"
 ---
 
 ## 2024 - American Pale Ale
