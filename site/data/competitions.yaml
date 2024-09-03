@@ -140,7 +140,6 @@ schedules:
             points: 1
       - date: 2024-04-18
         entries: 5
-        name: Lazy-G Pro-Am Competition
         info: Lazy-G Pro-Am Competition
         link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
         style:
@@ -474,7 +473,7 @@ schedules:
             name: Jan
       - date: 2023-04-30
         compType: club
-        name: Lazy-G Pro-Am Competition
+        info: Lazy-G Pro-Am Competition
         style:
           name: open
         winners:
