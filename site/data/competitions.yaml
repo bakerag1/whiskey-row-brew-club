@@ -140,6 +140,7 @@ schedules:
             points: 1
       - date: 2024-04-18
         entries: 5
+        name: Lazy-G Pro-Am Competition
         info: Lazy-G Pro-Am Competition
         link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
         style:
@@ -235,6 +236,7 @@ schedules:
         style:
           name: Farmhouse (declare your style)
         compType: gauntlet
+        entries: 4
         winners:
           - name: Andrew
             position: first
@@ -285,4 +287,240 @@ schedules:
         style:
           name: Best of Show (declare your style)
         compType: gauntlet
-      
+  - year: 2023
+    comps:
+      - compType: gauntlet
+        date: 2023-01-20
+        style:
+          name: Black IPA (21B)
+        winners: 
+          - name: John
+            position: first
+          - name: Wes M
+            position: second
+          - name: Andrew B
+            position: third
+        
+      - compType: gauntlet
+        date: 2023-02-20
+        style:
+          name: Chocolate Beer (declare base style)
+        winners: 
+          - name: Wes M
+            position: first
+          - name: John A
+            position: second
+          - name: Mike & Jodi Maas
+            position: second
+        
+      - compType: gauntlet
+        date: 2023-03-20
+        style:
+          name: Irish Stout (15B)
+        winners: 
+          - name: John A
+            position: first
+          - name: Wes
+            position: second
+          - name: Mike R
+            position: third
+      - compType: gauntlet
+        date: 2023-04-20
+        style:
+          name: American Brown (19C)
+        winners: 
+          - name: Ryan
+            position: first
+          - name: John A 
+            position: second
+          - name: Ryan
+            position: third
+      - compType: club
+        date: 2023-05-01
+        style:
+          name: Best of Show
+        winners: 
+          - name: Andrew
+            position: first
+          - name: Andrew
+            position: second
+          - name: Wes
+            position: third
+      - compType: gauntlet
+        date: 2023-05-20
+        style:
+          name: American Wheat (1D)
+        winners: 
+          - name: Jodi 
+            position: first& Mike Maas
+          - name: Andrew
+            position: second
+          - name: John A
+            position: third
+      - compType: gauntlet
+        date: 2023-06-20
+        style:
+          name: Fruit Beer (29A-D declare base style)
+          winners: 
+            - name: Wes 
+              position: first(American Wheat)
+            - name: John A. 
+              position: second(Saison)
+            - name: John A. 
+              position: third(Pale Ale)
+      - compType: gauntlet
+        date: 2023-07-20
+        style: 
+          name: Session (any under 5% ABV, declare style)
+        winners: 
+          - name: Wes
+            position: first
+          - name: Mike R.
+            position: second
+          - name: Andrew
+            position: third
+      - compType: gauntlet
+        date: 2023-08-20
+        style:
+          name: American Pale Ale (18B)
+        winners: 
+          - name: John A.
+            position: first
+          - name: Mike R.
+            position: second
+          - name: Andrew
+            position: third
+      - compType: gauntlet
+        date: 2023-09-20
+        style:
+          name: Munich Helles (4A)
+        winners: 
+          - name: Wes
+            position: first
+          - name: Andrew
+            position: second
+          - name: John A.
+            position: third
+      - compType: gauntlet
+        date: 2023-10-20
+        style:
+          name: Doppelbock (9A)
+        winners: 
+          - name: Andrew
+            position: first
+          - name: Wes
+            position: second
+          - name: John A.
+            position: third
+      - compType: gauntlet
+        date: 2023-11-20
+        style:
+          name: Coffee Beer (declare base style)
+        winners: 
+          - name: Susan 
+            position: first(Oak Aged Stout)
+          - name: Wes
+            position: second(Doppelbock)
+          - name: Seth
+            position: third(Stout)
+      - compType: gauntlet
+        date: 2023-12-20
+        style: 
+          name: Smoked Beer (declare style)
+
+  - year: 2022
+    comps:
+      - date: 2023-01-20
+        compType: gauntlet
+        style:
+          name: Ordinary Bitter
+        winners:
+          - position: first
+            name: John A
+      - date: 2023-02-20
+        compType: gauntlet
+        style:
+          name: Extra Special Bitter (Strong Bitter)
+        winners:
+          - position: first
+            name: Andrew
+      - date: 2023-03-20
+        compType: gauntlet
+        style:
+          name: Lagers (any style of lager)
+        winners:
+          - position: first
+            name: Janine
+      - date: 2023-04-20
+        compType: gauntlet
+        style:
+          name: Belgian Tripel
+        winners:
+          - position: first
+            name: Andrew
+      - date: 2023-05-20
+        compType: gauntlet
+        style:
+          name: Irish Red
+        winners:
+          - position: first
+            name: John A
+      - date: 2023-06-20
+        compType: gauntlet
+        style:
+          name: Hazy
+        winners:
+          - position: first
+            name: Jan
+      - date: 2023-04-30
+        compType: club
+        name: Lazy-G Pro-Am Competition
+        style:
+          name: open
+        winners:
+          - position: first
+            name: Tuk
+      - date: 2023-07-01
+        compType: gauntlet
+        style:
+          name: Kolsch
+        winners:
+          - position: first
+            name: Janine
+      - date: 2023-08-01
+        compType: gauntlet
+        style:
+          name: Saison
+        winners:
+          - position: first
+            name: John A
+      - date: 2023-09-20
+        compType: gauntlet
+        style:
+          name: Festbier
+        winners:
+          - position: first
+            name: John A
+      - date: 2023-10-20
+        compType: gauntlet
+        style:
+          name: Chili Beer (any style brewed with chilis)
+        winners:
+          - position: first
+            name: Jodi & Mike Maas
+      - date: 2023-11-20
+        compType: gauntlet
+        style:
+          name: Barley Wine
+        winners:
+          - position: first
+            name: Andrew
+      - date: 2023-12-17
+        compType: gauntlet
+        style:
+          name: Stout
+        winners:
+          - position: first
+            name: Jodi and Mike Maas
+
+
