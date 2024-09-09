@@ -97,13 +97,15 @@
   <div class="event-group">
     <div class="events">
       <ul aria-label="Club Events">
-        {{range .Site.Data.events.club}}
-        {{ if gt (time.AsTime .date) $.Date}}
+        {{range sort .Site.Data.events.club "date"}}
+        {{ if  and (gt (time.AsTime .date) $.Date) 
+          (lt (time.AsTime .date) 
+          ($.Date.AddDate 0 4 0))}}
         <li>
           {{if .url}}
-          <a href="{{.url}}">{{.name}}</a>
+          <a href="{{.url}}">{{.name}}</a> - {{time.Format "1/2" .date}}
           {{else}}
-          {{.name}}
+          {{.name}} - {{time.Format "1/2" .date}}
           {{end}}
           {{if .info}}
           <p style="font-style: italic;">{{ .info }}</p>
@@ -117,13 +119,15 @@
 
     <div class="events">
       <ul aria-label="Beer Events">
-        {{range .Site.Data.events.beer}}
-        {{ if gt (time.AsTime .date) $.Date}}
+        {{range sort .Site.Data.events.beer "date"}}
+        {{ if  and (gt (time.AsTime .date) $.Date) 
+          (lt (time.AsTime .date) 
+          ($.Date.AddDate 0 4 0))}}
         <li>
           {{if .url}}
-          <a href="{{.url}}">{{.name}}</a>
+          <a href="{{.url}}">{{.name}}</a> - {{time.Format "1/2" .date}}
           {{else}}
-          {{.name}}
+          {{.name}} - {{time.Format "1/2" .date}}
           {{end}}
           {{if .info}}
           <ul style="font-style: italic;list-style-type: none;">
@@ -137,16 +141,18 @@
     </div>
     <div class="events">
       <ul aria-label="Competitions">
-        {{range $.Site.Data.competitions.schedules}}
+        {{range sort $.Site.Data.competitions.schedules "date"}}
         {{ if ge .year (.Date.Format .date "2006") }}
         {{ range .comps }}
         {{ if ne .compType "gauntlet" }}
-        {{ if gt (time.AsTime .date) $.Date}}
+        {{ if  and (gt (time.AsTime .date) $.Date) 
+          (lt (time.AsTime .date) 
+          ($.Date.AddDate 0 4 0))}}
         <li>
-          {{if .link}}
-          <a href="{{.link}}">{{.info}}</a>
+          {{if .url}}
+          <a href="{{.url}}">{{.info}}</a> - {{time.Format "1/2" .date}}
           {{else}}
-          {{.info}}
+          {{.info}} - {{time.Format "1/2" .date}}
           {{end}}<br>
           {{ with .style.name}}
           <i>{{.}}</i>
@@ -170,28 +176,31 @@
     <th class="meetings">gauntlet</th>
     <th class="meetings">education</th>
   </thead>
-  {{ range .Site.Data.events.meetings }}
-  {{ $mtgDate := .date }}
-    {{ $loc := .location}}
-    {{ $ed := .education }}
-    {{ range $.Site.Data.competitions.schedules }}
-      {{ if ge (.Date.Format .date "2006-01-02") (.Date.Format $mtgDate "2006-01-02") }}
-        {{ range .comps }}
-          {{ if eq .compType "gauntlet" }}
-            {{ if eq .date $mtgDate }}
-            <tr>
-              <td class="meetings">{{ $mtgDate }}<br>{{ $loc }}</td>
-              {{ with .style }}
-              <td class="meetings">
-                {{ if and (eq .guide "bjcp" ) (eq .guideYear 2021 ) .category}} 
-                  <a href="/styles/bjcp/2021/{{.category}}">{{ .category }}. {{ .name }}</a><br>
-                  {{ else }}{{if .name }}{{ .name }}{{ end }}
-                {{ end}}
-                </td>
-              {{ end }}
-              {{ .style.name }}</td>
-              <td class="meetings">{{ $ed }}</td>
-            </tr>
+  {{ range sort .Site.Data.events.meetings "date"}}
+  {{ if  and (gt (time.AsTime .date) $.Date) 
+    (lt (time.AsTime .date) 
+    ($.Date.AddDate 0 3 0))}}
+    {{ $mtgDate := .date }}
+      {{ $loc := .location}}
+      {{ $ed := .education }}
+      {{ range $.Site.Data.competitions.schedules }}
+        {{ if ge (.Date.Format .date "2006-01-02") (.Date.Format $mtgDate "2006-01-02") }}
+          {{ range .comps }}
+            {{ if eq .compType "gauntlet" }}
+              {{ if eq .date $mtgDate }}
+              <tr>
+                <td class="meetings">{{ $mtgDate }}<br>{{ $loc }}</td>
+                {{ with .style }}
+                <td class="meetings">
+                  {{ if and (eq .guide "bjcp" ) (eq .guideYear 2021 ) .category}} 
+                    <a href="/styles/bjcp/2021/{{.category}}">{{ .category }}. {{ .name }}</a><br>
+                    {{ else }}{{if .name }}{{ .name }}{{ end }}
+                  {{ end}}
+                  </td>
+                {{ end }}
+                <td class="meetings">{{ $ed }}</td>
+              </tr>
+              {{end}}
             {{end}}
           {{end}}
         {{end}}
