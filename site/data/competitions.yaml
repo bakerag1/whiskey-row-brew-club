@@ -47,6 +47,54 @@ compTypes:
       third: 1
       bos: 4
 schedules:
+  - year: 2025
+    comps:
+      - date: 2025-01-16
+        compType: gauntlet
+        style: 
+          name: British Brown Ale
+          guide: BJCP
+          guideYear: 2021
+          category: 13B
+      - date: 2025-02-20
+        compType: gauntlet
+        style: 
+          name: Red IPA
+          guide: BJCP
+          guideYear: 2021
+          category: 21B
+      - date: 2025-03-20
+        compType: gauntlet
+        style: 
+          name: Oatmeal Stout
+          guide: BJCP
+          guideYear: 2021
+          category: 16B
+      - date: 2025-04-17
+        compType: gauntlet
+        info: Lazy-G Pro-Am Competition
+        link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
+        style:
+          name: Kölsch, Saison, and Mexican Lager
+      - date: 2025-05-15
+        compType: gauntlet
+        style: 
+          name: With Flowers (Declare your style)
+          guide: BJCP
+          guideYear: 2021
+          category: 30A
+      - date: 2025-06-19
+        compType: gauntlet
+        style: 
+          name: Belgian Blond
+          guide: BJCP
+          guideYear: 2021
+          category: 25A
+      - date: 2025-07-19
+        compType: gauntlet
+        style: 
+          name: Session (Declare your style)
+        info: less than 5% ABV
   - year: 2024
     comps:
       - date: 2024-01-18
