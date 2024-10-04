@@ -1,24 +1,24 @@
 - place: 1st
   name: Susan
-  points: 28
+  points: 31
 - place: 2nd
   name: Andrew
-  points: 22
+  points: 23
 - place: 3rd
   name: Wes
   points: 9
 - place: 4th
+  name: Tom
+  points: 4
+- place: 5th
   name: Tuk
   points: 2
-- place: 4th
-  name: Tom
-  points: 2
-- place: 4th
+- place: 5th
   name: Seth
   points: 2
-- place: 4th
+- place: 5th
   name: Mike Maas
   points: 2
-- place: 5th
+- place: 6th
   name: John
   points: 1
