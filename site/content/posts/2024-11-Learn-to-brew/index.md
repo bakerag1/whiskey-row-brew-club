@@ -16,5 +16,7 @@ Join us at Wren House Prairie Patio in Prescott to learn about homebrewing and
 meet the club. We'll have a few people brewing and there will be many members 
 available to answer any questions about homebrewing or the club.
 
+RSVP - https://forms.gle/85BPZwRbfnyN55TJ7
+
 ![image](event.png)
 
