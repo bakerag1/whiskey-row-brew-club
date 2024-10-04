@@ -331,6 +331,16 @@ schedules:
           guideYear: 2021
           category: 6A
         compType: gauntlet
+        winners:
+          - name: Andrew
+            position: third
+            points: 1
+          - name: Tom
+            position: second
+            points: 2
+          - name: Susan
+            position: first
+            points: 3
       - date: 2024-10-10
         info: National Homebrew Competition - final round
         link: https://www.homebrewersassociation.org/national-homebrew-competition/
