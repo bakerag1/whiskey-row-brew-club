@@ -95,6 +95,33 @@ schedules:
         style: 
           name: Session (Declare your style)
         info: less than 5% ABV
+      - date: 2025-08-21
+        compType: gauntlet
+        style: 
+          name: Chili Beer (declare your style)
+          guide: BJCP
+          guideYear: 2021
+          category: 30A
+      - date: 2025-09-18
+        compType: gauntlet
+        style: 
+          name: German Lagers (declare your style)
+      - date: 2025-10-16
+        compType: gauntlet
+        info: Candy inspired or infused beers
+        style: 
+          name: Trick or Treat (name your candy and style)
+      - date: 2025-11-20
+        compType: gauntlet
+        style: 
+          name: Nut Beer (declare your style)
+          guide: BJCP
+          guideYear: 2021
+          category: 30A
+      - date: 2025-12-20
+        compType: gauntlet
+        style: 
+          name: Best of Show
   - year: 2024
     comps:
       - date: 2024-01-18

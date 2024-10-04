@@ -1,5 +1,5 @@
 ---
-title: Lazy G Comp Tapping Pary
+title: Lazy G Comp Tapping Party
 type: post
 date: 2024-08-10
 gallery: true
