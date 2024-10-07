@@ -355,10 +355,27 @@ schedules:
         info: ASH Copper State Cup registration begins 8/16
         link: https://beerawardsplatform.com/2024-ash-copper-state-cup
         compType: AZ-BJCP
-      - date: 2024-11-21
+      - date: 2024-10-06
         info: AZ Mead & Cider Competition registration open until 9/20
         link: https://meadfest.mountaintopmashers.net/
         compType: AZ-BJCP
+        winners:
+          - name: Susan
+            position: first
+            points: 3
+            category: pyment
+          - name: Susan
+            position: second
+            category: specialty mead
+            points: 2
+          - name: Susan
+            position: third
+            points: 1
+            category: melomel
+          - name: Andrew
+            category: cyser
+            position: third
+            points: 1
       - date: 2024-11-21
         style:
           name: Belgian Dubbel
