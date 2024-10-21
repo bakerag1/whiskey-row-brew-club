@@ -23,7 +23,7 @@ Menus:
   main:
     - Weight: 10
       Name: Club Calendar
-      Url: /club-calendar
+      Url: /events
     - Weight: 20
       Name: Membership
       Url: /membership

@@ -1,0 +1,11 @@
+{{ define "main" -}}
+<div class="post">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.rsvp }}<a href="{{ . }}">RSVP</a>{{ end }}
+<br>
+  {{ dateFormat "Monday, Jan 2, 2006 3:04PM" .Params.startdate }} - {{ dateFormat "3:04PM" .Params.enddate }}
+  <br><br>
+  {{ .Content }}
+</div>
+
+{{- end }}

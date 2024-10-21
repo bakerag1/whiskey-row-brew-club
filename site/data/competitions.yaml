@@ -351,6 +351,16 @@ schedules:
           guideYear: 2021
           category: 17A
         compType: gauntlet
+        winners:
+          - name: Andrew
+            position: first
+            points: 3
+          - name: Tom
+            position: third
+            points: 1
+          - name: Susan
+            position: second
+            points: 1
       - date: 2024-10-01
         info: ASH Copper State Cup registration begins 8/16
         link: https://beerawardsplatform.com/2024-ash-copper-state-cup

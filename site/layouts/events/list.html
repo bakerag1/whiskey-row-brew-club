@@ -1,0 +1,21 @@
+{{ define "main" -}}
+Please RSVP for events with a link so we are ready for you!<br>
+Also available in <a href="https://calendar.google.com/calendar/embed?src=whiskeyrowbrewclub%40gmail.com&ctz=America%2FPhoenix">Google Calendar</a>
+<br><hr>
+
+{{ $pages := collections.Sort .Data.Pages "Params.startdate"}}
+{{ range $pages -}}
+  {{ $start := (time.AsTime .Params.startdate) }}
+  {{ $minus1d := time.ParseDuration "-24h"}}
+  {{ $now := (time.Now.Add $minus1d) }}
+  {{ if ($start.After $now) }}
+  <li style="padding:5;list-style-type:none">
+    <span><time class="pull-right post-list" datetime="2006-01-02T15:04:05Z">{{ $start.Format "Jan 2, 2006 3:04pm (Monday)"}}</time> 
+      <br>&emsp;<a href="{{ .Permalink }}">{{ .Title }}</a> 
+      {{ with .Params.rsvp }} &emsp; <a style="color: green;" href="{{ . }}">RSVP</a>{{ end }}
+    </span>
+  </li>
+  {{ end }}
+{{- end }}
+</ul>
+{{- end }}
