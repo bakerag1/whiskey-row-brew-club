@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+{{ $pages := collections.Sort .Data.Pages "Params.startDate"}}
+{{ range $pages -}}
+BEGIN:VEVENT
+DTSTAMP:{{dateFormat "20060102T150405" .Date}}
+STATUS:CONFIRMED
+UID:{{dateFormat "20060102T150405" .Params.startDate}}@whiskeyrowbrewclub.com
+DTSTART:{{dateFormat "20060102T150405" .Params.startDate}}
+DTEND:{{dateFormat "20060102T150405" .Params.endDate}}
+SUMMARY:{{.Title}}
+DESCRIPTION:{{.Params.description}} (Info: {{with .Params.link}}{{.}}{{else}}{{.Permalink}}{{end}})
+LOCATION:{{with .Params.location}}{{.}}{{else}}TBD{{end}}
+X-ALT-DESC;FMTTYPE=text/html:{{.Title}}<br>Location: {{with .Params.location}}{{.}}{{else}}TBD{{end}}<br>{{with .Params.link}}{{.}}{{else}}{{.Permalink}}{{end}}
+END:VEVENT
+{{- end }}
+END:VCALENDAR
