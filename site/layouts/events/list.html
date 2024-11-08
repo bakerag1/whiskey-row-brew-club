@@ -1,6 +1,9 @@
 {{ define "main" -}}
 Please RSVP for events with a link so we are ready for you!<br>
 Also available in <a href="https://calendar.google.com/calendar/embed?src=whiskeyrowbrewclub%40gmail.com&ctz=America%2FPhoenix">Google Calendar</a>
+{{ with  .OutputFormats.Get "calendar" -}}
+  <a href="{{ .Permalink | safeURL }}">Add this event to your calendar.</a>
+{{- end }}
 <br><hr>
 
 {{ $pages := collections.Sort .Data.Pages "Params.startdate"}}

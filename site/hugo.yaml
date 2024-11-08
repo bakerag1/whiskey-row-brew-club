@@ -18,6 +18,11 @@ Params:
 services:
   googleAnalytics:
     ID: G-Y9ZG00Q0KH
+
+outputFormats:
+  Calendar:
+    protocol: "https://"
+
     
 Menus:
   main:

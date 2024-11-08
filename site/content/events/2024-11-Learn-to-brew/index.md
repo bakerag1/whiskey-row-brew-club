@@ -11,7 +11,7 @@ location: |
     6396 Lear Ln
     Prescott, AZ
 aliases:
-  - /posts/2024-11-learn-to-brew
+  - /posts/{{ .Slug }}
 ---
 
 Join us at Wren House Prairie Patio in Prescott to learn about homebrewing and 
