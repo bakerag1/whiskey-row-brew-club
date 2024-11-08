@@ -365,6 +365,19 @@ schedules:
         info: ASH Copper State Cup registration begins 8/16
         link: https://beerawardsplatform.com/2024-ash-copper-state-cup
         compType: AZ-BJCP
+        winners:
+          - name: Susan
+            position: first
+            points: 3
+            category: Cider & Perry
+          - name: Susan
+            position: second
+            category: Spiced Beer
+            points: 2
+          - name: Andrew
+            category: Amber European Beer
+            position: third
+            points: 1
       - date: 2024-10-06
         info: AZ Mead & Cider Competition registration open until 9/20
         link: https://meadfest.mountaintopmashers.net/
