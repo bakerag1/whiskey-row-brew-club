@@ -13,6 +13,13 @@ club:
   - name: Learn to Brew Day
     date: 2024-11-03
     info: Brew day at Wren House Prairie Patio
+  - name: Highway Cleanup
+    info: 11am Old Stage Stop, clean up our mile & find some beer
+    date: 2024-11-16
+  - name: Holiday Party
+    url: /events/2024-12-holiday-party/
+    info: 2-8pm December 14, see links for details
+    date: 2024-12-14
 beer:
   - name: Williams Labor Daze
     info: Williams - Grand Canyon Brewing
@@ -26,6 +33,10 @@ beer:
     url: https://southwestbelgianbeerfest.com/
     info: Belgian Beer Fest in Phoenix
     date: 2024-11-09
+  - name: AZ Strong Beer Fest
+    info: AZ Beer Week Mainstay in Scottsdale
+    url: https://chooseazbrews.com/arizona-strong-2025/
+    date: 2025-02-15
 meetings:
   - date: 2024-08-15
     location: Cocky's Chicken & Brew
@@ -39,3 +50,9 @@ meetings:
   - date: 2024-11-21
     location: Cocky's Chicken & Brew
     education: sensory training - acetaldehyde
+  - date: 2024-12-14
+    location: Holiday Party
+    education: what comes before part b?
+  - date: 2025-01-16
+    location: Cocky's Chicken & Brew
+    education: Port tasting and ed

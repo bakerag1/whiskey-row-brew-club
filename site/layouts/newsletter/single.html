@@ -122,7 +122,7 @@
         {{range sort .Site.Data.events.beer "date"}}
         {{ if  and (gt (time.AsTime .date) $.Date) 
           (lt (time.AsTime .date) 
-          ($.Date.AddDate 0 4 0))}}
+          ($.Date.AddDate 0 6 0))}}
         <li>
           {{if .url}}
           <a href="{{.url}}">{{.name}}</a> - {{time.Format "1/2" .date}}
@@ -147,7 +147,7 @@
         {{ if ne .compType "gauntlet" }}
         {{ if  and (gt (time.AsTime .date) $.Date) 
           (lt (time.AsTime .date) 
-          ($.Date.AddDate 0 4 0))}}
+          ($.Date.AddDate 0 6 0))}}
         <li>
           {{if .url}}
           <a href="{{.url}}">{{.info}}</a> - {{time.Format "1/2" .date}}
