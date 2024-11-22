@@ -360,7 +360,7 @@ schedules:
             points: 1
           - name: Susan
             position: second
-            points: 1
+            points: 2
       - date: 2024-10-01
         info: ASH Copper State Cup registration begins 8/16
         link: https://beerawardsplatform.com/2024-ash-copper-state-cup
