@@ -56,7 +56,7 @@ schedules:
           guide: BJCP
           guideYear: 2021
           category: 13B
-      - date: 2025-02-20
+      - date: 2025-04-17
         compType: gauntlet
         style: 
           name: Red IPA
@@ -70,12 +70,12 @@ schedules:
           guide: BJCP
           guideYear: 2021
           category: 16B
-      - date: 2025-04-17
+      - date: 2025-02-20
         compType: gauntlet
         info: Lazy-G Pro-Am Competition
         link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
         style:
-          name: Kölsch, Saison, and Mexican Lager
+          name: Kölsch, Brown Ale, and Mexican Lager
       - date: 2025-05-15
         compType: gauntlet
         style: 
@@ -406,6 +406,16 @@ schedules:
           guideYear: 2021
           category: 16B
         compType: gauntlet
+        winners:
+          - name: Andrew
+            position: first
+            points: 3
+          - name: Susan
+            position: second
+            points: 2
+          - name: Susan
+            position: third
+            points: 1
       - date: 2024-12-14
         info: Holiday Party (date subject to change)
         style:
@@ -551,7 +561,6 @@ schedules:
         date: 2023-12-20
         style: 
           name: Smoked Beer (declare style)
-
   - year: 2022
     comps:
       - date: 2023-01-20
