@@ -299,6 +299,7 @@ schedules:
           guideYear: 2021
           category: 6A
         compType: gauntlet
+        entries: 4
         winners:
           - name: Andrew
             position: third
@@ -316,6 +317,7 @@ schedules:
           guideYear: 2021
           category: 17A
         compType: gauntlet
+        entries: 3
         winners:
           - name: Andrew
             position: first
@@ -361,6 +363,7 @@ schedules:
           guideYear: 2021
           category: 16B
         compType: gauntlet
+        entries: 3
         winners:
           - name: Andrew
             position: first
