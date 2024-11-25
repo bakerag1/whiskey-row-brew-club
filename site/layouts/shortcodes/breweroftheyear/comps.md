@@ -21,7 +21,7 @@
     {{ if .entries }}&nbsp;&nbsp;{{ .entries }} entries<br>{{ end }}
     {{ with .winners }}
       {{ range . }}
-        &nbsp;&nbsp;{{ .position }}: {{ .name }} - {{ .points }}pts
+        &nbsp;&nbsp;{{ .position }}: {{ .name }}
         {{ with .category }} <i>{{ . }}</i> {{ end }}
         {{ with .recipeLink}} - <a href="{{ .recipeLink }}">recipe</a>{{ end }}
         <br>
