@@ -24,18 +24,20 @@ compTypes:
       first: 3
       second: 2
       third: 1
-  - id: NHC
-    displayName: National Homebrew Competition
+  - id: NHC-first-round
+    displayName: National Homebrew Competition Finals
+    description: The biggest homebrew competition in the world, hosted by the AHA
+    points:
+      first: 3
+      second: 2
+      third: 1
+  - id: NHC-finals
+    displayName: National Homebrew Competition Finals
     description: The biggest homebrew competition in the world, hosted by the AHA
     points:
       first: 6
       second: 4
       third: 2
-      round1-first: 3
-      round1-second: 2
-      round1-third: 1
-      breweroftheyear: 
-      misc:
   - id: AZ-BJCP
     displayName: BJCP sanctioned competition in Arizona
     points:
@@ -55,14 +57,11 @@ schedules:
         compType: gauntlet
         winners:
           - name: Andrew
-            points: 3
             position: first
           - name: Susan
             position: second
-            points: 2
           - name: Tom
             position: third
-            points: 1
       - date: 2024-02-15
         style:
           name: Baltic Porter
@@ -72,13 +71,10 @@ schedules:
         compType: gauntlet
         winners:
           - name: Andrew
-            points: 3
             position: first
           - name: Susan
-            points: 2
             position: second
           - name: Susan
-            points: 1
             position: third
       - date: 2024-03-21
         style:
@@ -90,13 +86,10 @@ schedules:
         winners:
           - name: Susan
             position: first
-            points: 3
           - name: Wes
             position: second
-            points: 2
           - name: Tom
             position: third
-            points: 1
       - date: 2024-04-07
         info: ASH Cactus Classic
         link: https://beerawardsplatform.com/2024-ash-cactus-classic
@@ -104,15 +97,12 @@ schedules:
         winners:
           - name: Andrew
             position: second
-            points: 2
             category: Baltic Porter
           - name: Susan
             position: third
-            points: 1
             category: Dry Mead
           - name: Susan
             position: second
-            points: 2
             category: Melomel
       - date: 2024-04-18
         style:
@@ -124,13 +114,10 @@ schedules:
         winners:
           - name: Andrew
             position: first
-            points: 3
           - name: Wes
             position: second
-            points: 2
           - name: Susan
             position: third
-            points: 1
       - date: 2024-04-18
         info: Lazy-G Pro-Am Competition
         link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
@@ -156,7 +143,17 @@ schedules:
       - date: 2024-07-01
         info: National Homebrew Competition - first round
         link: https://www.homebrewersassociation.org/news/get-ready-registration-opens-in-1-week/
-        compType: NHC
+        compType: NHC-first-round
+        winners:
+          - name: andrew
+            position: first
+      - date: 2024-07-01
+        info: National Homebrew Competition - final round
+        link: https://www.homebrewersassociation.org/news/get-ready-registration-opens-in-1-week/
+        compType: NHC-finals
+        winners:
+          - name: andrew
+            position: third
       - date: 2024-08-15
         style:
           name: Farmhouse (declare your style)

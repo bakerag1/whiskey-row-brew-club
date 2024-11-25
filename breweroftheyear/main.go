@@ -39,9 +39,9 @@ type Comp struct {
 	Entries int         `yaml:"entries"`
 }
 type Schedules struct {
-	Schedules []Schedule  `yaml:"schedules"`
-	Winners   []Winner    `yaml:"winners"`
-	CompTypes interface{} `yaml:"compTypes"`
+	Schedules []Schedule `yaml:"schedules"`
+	Winners   []Winner   `yaml:"winners"`
+	CompTypes []CompType `yaml:"compTypes"`
 }
 type Schedule struct {
 	Year  string `yaml:"year"`
@@ -57,7 +57,15 @@ type Winner struct {
 	Post     string `yaml:"post"`
 }
 
+type CompType struct {
+	Id          string         `yaml:"id"`
+	DisplayName string         `yaml:"displayName"`
+	Description string         `yaml:"description"`
+	Points      map[string]int `yaml:"points"`
+}
+
 func GetWinners(file string) []Standing {
+
 	var scheds Schedules
 	yamlFile, err := os.Open(file)
 	if err != nil {
@@ -78,7 +86,7 @@ func GetWinners(file string) []Standing {
 	}
 	var winners []Winner
 	for _, v := range thisYearsSched.Comps {
-
+		v = addPoints(v, scheds.CompTypes)
 		if v.Winners != nil {
 			winners = append(winners, v.Winners...)
 		}
@@ -107,6 +115,18 @@ func GetWinners(file string) []Standing {
 	}
 
 	return s
+}
+
+func addPoints(v Comp, comps []CompType) Comp {
+	for _, c := range comps {
+		if v.Type == c.Id {
+			for i, w := range v.Winners {
+				v.Winners[i].Points = c.Points[w.Position]
+			}
+			break
+		}
+	}
+	return v
 }
 
 func CalcStandings(w []Winner) map[string]int {
