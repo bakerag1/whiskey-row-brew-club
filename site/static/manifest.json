@@ -1,0 +1,38 @@
+{
+  "lang": "en",
+  "short_name": "Whiskey Row Brew Club",
+  "name": "Whiskey Row Brew Club",
+  "description": "Homebrew club in Prescott, AZ",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "shortcuts": [
+    {
+       "name": "Gauntlets",
+       "description": "List of gauntlets",
+       "url": "/brewer-of-the-year/gauntlets"
+    },
+    {
+      "name": "Beer Styles",
+      "description": "Beer Style Listing",
+      "url": "/styles"
+    },
+    {
+      "name": "Membership Card",
+      "description": "Show my membership card",
+      "url": "/membercard"
+    }
+ ]
+}
