@@ -1,15 +1,19 @@
 ---
 title: authtest
 ---
-<script src="https://apis.google.com/js/platform.js" async defer></script>
-<meta name="google-signin-client_id" content="345624515172-dc7nehemc3r77bn47icdmo3vf066h20t.apps.googleusercontent.com">
-<div class="g-signin2" data-onsuccess="onSignIn"></div>
-<script> 
+
+<script>
   function onSignIn(googleUser) {
-  var profile = googleUser.getBasicProfile();
-  console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.
-  console.log('Name: ' + profile.getName());
-  console.log('Image URL: ' + profile.getImageUrl());
-  console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
-}
+    var profile = googleUser.getBasicProfile();
+    console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.
+    console.log('Name: ' + profile.getName());
+    console.log('Image URL: ' + profile.getImageUrl());
+    console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
+  }
 </script>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<div id="g_id_onload" 
+  data-client_id="345624515172-dc7nehemc3r77bn47icdmo3vf066h20t.apps.googleusercontent.com"
+  data-callback="handleCredentialResponse">
+</div>
+<div class="g_id_signin" data-type="standard"></div>
