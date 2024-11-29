@@ -2,6 +2,9 @@
 title: authtest
 ---
 
+<div id="buttonDiv"></div>
+<iframe id="card"></iframe>
+
 <script src="https://accounts.google.com/gsi/client" async></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jose/5.9.6/index.umd.min.js" async></script>
 <script>
@@ -20,10 +23,9 @@ title: authtest
     google.accounts.id.prompt(); // also display the One Tap dialog
   }
 </script>
-<div id="buttonDiv"></div>
 
 <script>
-  function decodeJwtResponse(jwt){
+  function decodeJwtResponse(jwt) {
     const claims = jose.decodeJwt(jwt)
     return claims
   }
@@ -31,15 +33,24 @@ title: authtest
 
 <script>
   function handleCredentialResponse(response) {
-     // decodeJwtResponse() is a custom function defined by you
-     // to decode the credential response.
-     const responsePayload = decodeJwtResponse(response.credential);
+    // decodeJwtResponse() is a custom function defined by you
+    // to decode the credential response.
+    const responsePayload = decodeJwtResponse(response.credential);
 
-     console.log("ID: " + responsePayload.sub);
-     console.log('Full Name: ' + responsePayload.name);
-     console.log('Given Name: ' + responsePayload.given_name);
-     console.log('Family Name: ' + responsePayload.family_name);
-     console.log("Image URL: " + responsePayload.picture);
-     console.log("Email: " + responsePayload.email);
+    console.log("ID: " + responsePayload.sub);
+    console.log('Full Name: ' + responsePayload.name);
+    console.log('Given Name: ' + responsePayload.given_name);
+    console.log('Family Name: ' + responsePayload.family_name);
+    console.log("Image URL: " + responsePayload.picture);
+    console.log("Email: " + responsePayload.email);
+
+    fetch(`https://wrbc-members-345624515172.us-central1.run.app?email=${responsePayload.email}`)
+      .then(function (response) {
+        document.getElementById['card'].src = `/members/response.id`;
+      }).then(function (data) {
+        console.log(data);
+      }).catch(function (err) {
+        console.log('Fetch Error :-S', err);
+      });
   }
 </script>
