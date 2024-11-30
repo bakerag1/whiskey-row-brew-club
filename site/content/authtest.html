@@ -70,8 +70,8 @@ title: authtest
       .then(function (response) {
         // document.getElementById['card'].src = `/members/${response.id}`;
         response.json().then(function(data){
-          console.log(data)
-          window.location.href = `/members/${data.id}`;
+          console.log(JSON.stringify(data))
+          window.location.href = `/members/${data[0].id}`;
         })
       }).then(function (data) {
         console.log(data);
