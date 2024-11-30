@@ -69,7 +69,7 @@ title: authtest
     fetch(`https://wrbc-members-345624515172.us-central1.run.app?email=${responsePayload.email}`)
       .then(function (response) {
         // document.getElementById['card'].src = `/members/${response.id}`;
-        window.location.href = `/members/${response.data.id}`;
+        window.location.href = `/members/${response.json().id}`;
       }).then(function (data) {
         console.log(data);
       }).catch(function (err) {
