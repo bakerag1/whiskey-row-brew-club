@@ -4,10 +4,32 @@ title: authtest
 
 <div id="buttonDiv"></div>
 <iframe id="card" src="about:blank"></iframe>
+<button id="installApp">Install</button>
+
 
 <script src="https://accounts.google.com/gsi/client" async></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jose/5.9.6/index.umd.min.js" async></script>
 <script>
+  let deferredPrompt;
+    window.addEventListener('beforeinstallprompt', (e) => {
+        deferredPrompt = e;
+    });
+
+    const installApp = document.getElementById('installApp');
+    installApp.addEventListener('click', async () => {
+        if (deferredPrompt !== null) {
+            deferredPrompt.prompt();
+            const { outcome } = await deferredPrompt.userChoice;
+            if (outcome === 'accepted') {
+                deferredPrompt = null;
+            }
+        }
+    });
+</script>
+<script>
+  window.addEventListener('beforeinstallprompt', (e) => {
+    deferredPrompt = e;
+  });
   function handleCredentialResponse(response) {
     console.log("Encoded JWT ID token: " + response.credential);
   }
@@ -47,6 +69,7 @@ title: authtest
     fetch(`https://wrbc-members-345624515172.us-central1.run.app?email=${responsePayload.email}`)
       .then(function (response) {
         // document.getElementById['card'].src = `/members/${response.id}`;
+        console.log(response)
         window.location.href = `/members/${response.id}`;
       }).then(function (data) {
         console.log(data);
