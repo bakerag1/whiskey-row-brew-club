@@ -1,4 +1,4 @@
-magick -size 1080x1080 gradient:orange2 temp1.png
+magick -size 1080x1080 gradient:PaleVioletRed1-white temp1.png
 magick \
 	-background none \
 	-font Gentleman-Caller \

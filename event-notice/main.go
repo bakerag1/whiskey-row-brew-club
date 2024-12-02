@@ -24,7 +24,7 @@ func main() {
 	makeImage(mtg)
 	makePost(mtg)
 	cmd := exec.Command("/bin/bash", "-c",
-		fmt.Sprintf("rm -rf ../site/content/posts/%[1]v && cp -pRP out ../site/content/posts/%[1]v && rm -rf out", strings.Split(name, ".")[0]))
+		fmt.Sprintf("rm -rf ../site/content/events/%[1]v && cp -pRP out ../site/content/events/%[1]v && rm -rf out", strings.Split(name, ".")[0]))
 	cmd.Run()
 }
 
