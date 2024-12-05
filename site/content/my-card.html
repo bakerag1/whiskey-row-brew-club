@@ -5,28 +5,12 @@ title: My Membership
 <div id="buttonDiv"></div>
 
 <p id="membershipResult"></p>
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- Modal content -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <select id="chooseMember">
-      <option>one</option>
-      <option>two</option>
-    </select>
-  </div>
-
-</div>
 
 
 <script src="https://accounts.google.com/gsi/client" async></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jose/5.9.6/index.umd.min.js" async></script>
 
 <script>
-  window.addEventListener('beforeinstallprompt', (e) => {
-    deferredPrompt = e;
-  });
   function handleCredentialResponse(response) {
     console.log("Encoded JWT ID token: " + response.credential);
   }
@@ -39,7 +23,6 @@ title: My Membership
       document.getElementById("buttonDiv"),
       { theme: "outline", size: "large" }
     );
-    google.accounts.id.prompt(); // also display the One Tap dialog
   }
 
   function decodeJwtResponse(jwt) {
@@ -54,7 +37,6 @@ title: My Membership
       .then(function (response) {
         response.json().then(function(data){
           if (data.length === 1){
-            document.getElementById['card'].src = `/members/${data[0].id}`;
             window.location.href = `/members/${data[0].id}`;
             return;
           } else if (data.length === 2){
