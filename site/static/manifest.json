@@ -28,6 +28,11 @@
       "name": "Beer Styles",
       "description": "Beer Style Listing",
       "url": "/styles"
+    },
+    {
+      "name": "Membership Card",
+      "description": "show my card",
+      "url": "/my-card"
     }
  ]
 }

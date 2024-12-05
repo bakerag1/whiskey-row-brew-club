@@ -36,6 +36,11 @@ title: My Membership
     fetch(`https://wrbc-members-345624515172.us-central1.run.app?email=${responsePayload.email}`)
       .then(function (response) {
         response.json().then(function(data){
+          if (!data || data.length === 0){
+            document.getElementById('membershipResponse').innerHTML = 
+              "Either you are not a member or your membership has expired, if you feel this is an error, please send a message to whiskeyrowbrewclub@gmail.com"
+            return;
+          }
           if (data.length === 1){
             window.location.href = `/members/${data[0].id}`;
             return;
