@@ -19,7 +19,7 @@ date: 2024-12-05
     </p>
     <div>
       <button id="cancel" type="reset">Cancel</button>
-      <button type="submit">Confirm</button>
+      <button id="submit" type="submit">Confirm</button>
     </div>
   </form>
 </dialog>
@@ -87,11 +87,13 @@ date: 2024-12-05
   }
 
   // Form cancel button closes the dialog box
-  cancelButton.addEventListener("click", () => {
+  pick.getElementById("cancel").addEventListener("click", () => {
     pick.close("memberNotChosen");
+    document.getElementById("membershipResult").innerHTML = 
+      "This email address is used for more than one account, please choose"
   });
 
-  pick.addEventListener("submit", ()=> {
+  pick.getElementById("submit").addEventListener("click", ()=> {
     data.forEach(element => {
       if (element.name === pick.returnValue) {
         window.location.href = `/members/${element.id}`;
