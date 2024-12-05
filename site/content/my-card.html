@@ -1,10 +1,28 @@
 ---
 title: My Membership
+date: 2024-12-05
 ---
 
 <div id="buttonDiv"></div>
 
+<br><br>
 <p id="membershipResult"></p>
+
+<dialog id="pickMember">
+  <form method="dialog">
+    <p>
+      <label for="member">Which Member:</label>
+      <select id="member" name="member">
+        <option>1</option>
+        <option>2</option>
+      </select>
+    </p>
+    <div>
+      <button id="cancel" type="reset">Cancel</button>
+      <button type="submit">Confirm</button>
+    </div>
+  </form>
+</dialog>
 
 
 <script src="https://accounts.google.com/gsi/client" async></script>
@@ -35,19 +53,19 @@ title: My Membership
 
     fetch(`https://wrbc-members-345624515172.us-central1.run.app?email=${responsePayload.email}`)
       .then(function (response) {
-        response.json().then(function(data){
-          if (!data || data.length === 0){
-            document.getElementById('membershipResult').innerHTML = 
+        response.json().then(function (data) {
+          if (!data || data.length === 0) {
+            document.getElementById('membershipResult').innerHTML =
               "Either you are not a member or your membership has expired, if you feel this is an error, please send a message to whiskeyrowbrewclub@gmail.com";
             return;
           }
-          if (data.length === 1){
+          if (data.length === 1) {
             window.location.href = `/members/${data[0].id}`;
             return;
-          } else if (data.length === 2){
+          } else if (data.length === 2) {
             const member = pickMember(data);
             return;
-          } 
+          }
         })
       })
       .catch(function (err) {
@@ -56,34 +74,23 @@ title: My Membership
       });
   }
 
-  const pick = document.getElementById('pickMember');
-  function pickMember(data){
+  const pick = document.getElementById("pickMember");
+  
+  function pickMember(data) {
     const options = pick.getElementsByTagName('option');
     options[0].innerHTML = data[0].name;
     options[1].innerHTML = data[1].name;
     pick.returnValue = 'member';
     pick.showModal();
-
   }
 
-// Form cancel button closes the dialog box
-cancelButton.addEventListener("click", () => {
-  pick.close("memberNotChosen");
-});
+  // Form cancel button closes the dialog box
+  cancelButton.addEventListener("click", () => {
+    pick.close("memberNotChosen");
+  });
+
+  pick.addEventListener("submit", ()=> {
+    document.getElementById("")
+  });
 </script>
 
-<dialog id="pickMember">
-  <form method="dialog">
-    <p>
-      <label for="member">Which Member:</label>
-      <select id="member" name="member">
-        <option>1</option>
-        <option>2</option>
-      </select>
-    </p>
-    <div>
-      <button id="cancel" type="reset">Cancel</button>
-      <button type="submit">Confirm</button>
-    </div>
-  </form>
-</dialog>
