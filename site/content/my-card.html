@@ -37,8 +37,8 @@ title: My Membership
       .then(function (response) {
         response.json().then(function(data){
           if (!data || data.length === 0){
-            document.getElementById('membershipResponse').innerHTML = 
-              "Either you are not a member or your membership has expired, if you feel this is an error, please send a message to whiskeyrowbrewclub@gmail.com"
+            document.getElementById('membershipResult').innerHTML = 
+              "Either you are not a member or your membership has expired, if you feel this is an error, please send a message to whiskeyrowbrewclub@gmail.com";
             return;
           }
           if (data.length === 1){
@@ -46,14 +46,13 @@ title: My Membership
             return;
           } else if (data.length === 2){
             const member = pickMember(data);
-            document.getElementById['card'].src = `/members/${member.id}`;
             return;
           } 
         })
       })
       .catch(function (err) {
         console.log('Fetch Error :', err);
-        document.getElementById('membershipResponse').innerHTML = "error checking membership";
+        document.getElementById('membershipResult').innerHTML = "error checking membership";
       });
   }
 
