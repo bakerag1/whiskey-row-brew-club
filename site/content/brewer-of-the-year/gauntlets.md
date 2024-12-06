@@ -1,5 +1,5 @@
 ---
-title: "Past Gauntlets"
+title: "Gauntlets"
 linkTitle: "gauntlets"
 author: "bakerag"
 type: "landing"
