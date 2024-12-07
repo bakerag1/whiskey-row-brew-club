@@ -74,6 +74,11 @@ schedules:
           category: 16B
       - date: 2025-02-20
         compType: gauntlet
+        info: Lazy-G Pro-Am Competition Prep
+        style:
+          name: Kölsch, Brown Ale, and Mexican Lager
+      - date: 2025-05-20
+        compType: club
         info: Lazy-G Pro-Am Competition
         link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
         style:
