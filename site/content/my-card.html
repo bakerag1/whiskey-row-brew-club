@@ -6,7 +6,7 @@ date: 2024-12-05
 <div id="buttonDiv"></div>
 
 <br><br>
-<p id="membershipResult"></p>
+<div id="membershipResult"></div>
 
 <dialog id="pickMember">
   <form method="dialog">
@@ -16,7 +16,7 @@ date: 2024-12-05
       <option>2</option>
     </select>
     <button id="cancel" type="reset">Cancel</button>
-    <button id="submit" value="confirm">Confirm</button>
+    <button id="confirm" value="confirm">Confirm</button>
   </form>
 </dialog>
 
@@ -84,9 +84,9 @@ date: 2024-12-05
 
   // Form cancel button closes the dialog box
   pick.getElementById("cancel").addEventListener("click", () => {
-    pick.close("memberNotChosen");
     document.getElementById("membershipResult").innerHTML =
-      "This email address is used for more than one account, please choose"
+    "This email address is used for more than one account, please choose"
+    pick.close("memberNotChosen");
   });
 
   pick.addEventListener("close", () => {
