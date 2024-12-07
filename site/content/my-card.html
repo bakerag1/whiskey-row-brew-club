@@ -10,18 +10,13 @@ date: 2024-12-05
 
 <dialog id="pickMember">
   <form method="dialog">
-    <p>
-      <label for="member">Which Member:</label>
-      <select id="member" name="member" 
-        oninput="this.form.elements.confirm.value=this.value;">
-        <option>1</option>
-        <option>2</option>
-      </select>
-    </p>
-    <div>
-      <button id="cancel" type="reset">Cancel</button>
-      <button id="submit" value="confirm">Confirm</button>
-    </div>
+    <label for="member">Which Member:</label>
+    <select id="member" name="member" onselect="this.form.elements.confirm.value=this.value;">
+      <option>1</option>
+      <option>2</option>
+    </select>
+    <button id="cancel" type="reset">Cancel</button>
+    <button id="submit" value="confirm">Confirm</button>
   </form>
 </dialog>
 
@@ -90,11 +85,11 @@ date: 2024-12-05
   // Form cancel button closes the dialog box
   pick.getElementById("cancel").addEventListener("click", () => {
     pick.close("memberNotChosen");
-    document.getElementById("membershipResult").innerHTML = 
+    document.getElementById("membershipResult").innerHTML =
       "This email address is used for more than one account, please choose"
   });
 
-  pick.addEventListener("close", ()=> {
+  pick.addEventListener("close", () => {
     data.forEach(element => {
       if (element.name === pick.returnValue) {
         window.location.href = `/members/${element.id}`;
@@ -102,4 +97,3 @@ date: 2024-12-05
     });
   });
 </script>
-
