@@ -78,18 +78,19 @@ date: 2024-12-05
     const options = pick.getElementsByTagName('option');
     options[0].innerHTML = data[0].name;
     options[1].innerHTML = data[1].name;
-    pick.returnValue = 'member';
     pick.showModal();
   }
 
   // Form cancel button closes the dialog box
   pick.getElementById("cancel").addEventListener("click", () => {
+    console.log("cancelled");
     document.getElementById("membershipResult").innerHTML =
     "This email address is used for more than one account, please choose"
     pick.close("memberNotChosen");
   });
 
   pick.addEventListener("close", () => {
+    console.log(`closing - ${pick.returnValue}`);
     data.forEach(element => {
       if (element.name === pick.returnValue) {
         window.location.href = `/members/${element.id}`;
