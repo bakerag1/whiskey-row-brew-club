@@ -1,0 +1,42 @@
+---
+title: raffle calc
+---
+
+<dialog id="calculator">
+  <form method="dialog">
+    <input id="dollars" title="dollars" 
+    oninput="this.form.elements.submit.value=this.value;">
+    <button id="submit" value="confirm">How many?</button>
+  </form>
+</dialog>
+<button id="open">Calculate Again</button>
+<div id="result">result shows here</div>
+
+<script>
+  document.getElementById('calculator').returnValue = 0;
+  document.getElementById('calculator').showModal()
+
+  document.getElementById('open').addEventListener("click", ()=>{
+    document.getElementById('calculator').showModal()
+  })
+  
+  document.getElementById('calculator').addEventListener("close", ()=>{
+    const dollars = document.getElementById('calculator').returnValue;
+    console.log(`${dollars} dollars`);
+    document.getElementById("result").innerHTML = 
+      ticketCount(dollars)
+  })
+  function ticketCount(dollars){
+    let tickets = 0;
+    const twenties = Math.floor(dollars/20);
+    dollars -= twenties * 20;
+    tickets += twenties * 25;
+
+    const tens = Math.floor(dollars/10);
+    dollars -= tens * 10;
+    tickets += tens*12;
+
+    tickets += dollars;
+    return tickets;
+  }
+</script>

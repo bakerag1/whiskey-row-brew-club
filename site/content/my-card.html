@@ -12,14 +12,15 @@ date: 2024-12-05
   <form method="dialog">
     <p>
       <label for="member">Which Member:</label>
-      <select id="member" name="member">
+      <select id="member" name="member" 
+        oninput="this.form.elements.confirm.value=this.value;">
         <option>1</option>
         <option>2</option>
       </select>
     </p>
     <div>
       <button id="cancel" type="reset">Cancel</button>
-      <button id="submit" type="submit">Confirm</button>
+      <button id="submit" value="confirm">Confirm</button>
     </div>
   </form>
 </dialog>
@@ -93,7 +94,7 @@ date: 2024-12-05
       "This email address is used for more than one account, please choose"
   });
 
-  pick.getElementById("submit").addEventListener("click", ()=> {
+  pick.addEventListener("close", ()=> {
     data.forEach(element => {
       if (element.name === pick.returnValue) {
         window.location.href = `/members/${element.id}`;
