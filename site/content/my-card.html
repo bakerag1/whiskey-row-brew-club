@@ -96,7 +96,7 @@ date: 2024-12-05
 
   pick.addEventListener("close", () => {
     console.log(`closing - ${pick.returnValue}`);
-    data.forEach(element => {
+    memberData.forEach(element => {
       if (element.name === pick.returnValue) {
         localStorage.setItem("wrbcMemberId", element.id)
         window.location.href = `/members/${element.id}`;
