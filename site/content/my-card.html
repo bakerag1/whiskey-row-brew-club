@@ -29,14 +29,18 @@ date: 2024-12-05
     console.log("Encoded JWT ID token: " + response.credential);
   }
   window.onload = function () {
-    google.accounts.id.initialize({
-      client_id: "345624515172-dc7nehemc3r77bn47icdmo3vf066h20t.apps.googleusercontent.com",
-      callback: handleCredentialResponse
-    });
-    google.accounts.id.renderButton(
-      document.getElementById("buttonDiv"),
-      { theme: "outline", size: "large" }
-    );
+    if (localStorage.getItem("wrbcMemberId")){
+      window.location.href = `/members/${localStorage.getItem("wrbcMemberId")}`;
+    } else {
+      google.accounts.id.initialize({
+        client_id: "345624515172-dc7nehemc3r77bn47icdmo3vf066h20t.apps.googleusercontent.com",
+        callback: handleCredentialResponse
+      });
+      google.accounts.id.renderButton(
+        document.getElementById("buttonDiv"),
+        { theme: "outline", size: "large" }
+      );
+    }
   }
 
   function decodeJwtResponse(jwt) {
@@ -56,6 +60,7 @@ date: 2024-12-05
             return;
           }
           if (data.length === 1) {
+            localStorage.setItem("wrbcMemberId", data[0].id)
             window.location.href = `/members/${data[0].id}`;
             return;
           } else if (data.length === 2) {
@@ -84,15 +89,16 @@ date: 2024-12-05
   // Form cancel button closes the dialog box
   document.getElementById("cancel").addEventListener("click", () => {
     console.log("cancelled");
+    pick.close("memberNotChosen");
     document.getElementById("membershipResult").innerHTML =
     "This email address is used for more than one account, please choose"
-    pick.close("memberNotChosen");
   });
 
-  document.getElementById("pickMember").addEventListener("close", () => {
+  pick.addEventListener("close", () => {
     console.log(`closing - ${pick.returnValue}`);
     data.forEach(element => {
       if (element.name === pick.returnValue) {
+        localStorage.setItem("wrbcMemberId", element.id)
         window.location.href = `/members/${element.id}`;
       }
     });
