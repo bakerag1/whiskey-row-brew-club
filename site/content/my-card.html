@@ -11,7 +11,7 @@ date: 2024-12-05
 <dialog id="pickMember">
   <form method="dialog">
     <label for="member">Which Member:</label>
-    <select id="member" name="member" onclick="this.form.elements.confirm.value=this.value;">
+    <select id="member" name="member" oninput="this.form.elements.confirm.value=this.value;">
       <option>1</option>
       <option>2</option>
     </select>
