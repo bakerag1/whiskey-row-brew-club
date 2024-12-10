@@ -82,8 +82,8 @@ date: 2024-12-05
   function pickMember(data) {
     memberData = data;
     const options = pick.getElementsByTagName('option');
-    options[0].innerHTML = data[1].name;
-    options[1].innerHTML = data[2].name;
+    options[1].innerHTML = data[0].name;
+    options[2].innerHTML = data[1].name;
     pick.showModal();
   }
 
