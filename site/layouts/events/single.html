@@ -6,6 +6,9 @@
   {{ dateFormat "Monday, Jan 2, 2006 3:04PM" .Params.startdate }} - {{ dateFormat "3:04PM" .Params.enddate }}
   <br><br>
   {{ .Content }}
+  {{ if .Params.Gallery }}
+    {{ partial "image-gallery" . }}
+  {{ end }}
 </div>
 
 {{- end }}

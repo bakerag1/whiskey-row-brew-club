@@ -377,10 +377,21 @@ schedules:
           - name: Susan
             position: third
       - date: 2024-12-14
-        info: Holiday Party (date subject to change)
+        info: Holiday Party
         style:
           name: Best of Show (declare your style)
         compType: gauntlet
+        entries: 3
+        winners:
+          - name: Andrew
+            position: first
+            category: Saison
+          - name: Wes
+            position: second
+            category: Best Bitter
+          - name: Susan
+            position: third
+            category: Fruit and spice mead
   - year: 2023
     comps:
       - compType: gauntlet
