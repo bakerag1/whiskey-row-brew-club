@@ -1,7 +1,7 @@
 ---
 title: 2024 Holiday Party
 date: 2024-11-08
-gallery: false
+gallery: true
 event_type: club
 event: true
 startDate: 2024-12-14 14:00:00  -0700 MST
