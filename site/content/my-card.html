@@ -104,8 +104,9 @@ date: 2024-12-05
           for (let i = 0; i < element.valid_dates.length; i++) {
             const element = array[index];
             if (element.valid_dates[i].term_name === "2025"){
-              localStorage.setItem("wrbc2025", true);
-              break;
+              localStorage.setItem("wrbc2025", "true");
+              window.location.href = `/members/${element.id}`;
+              return;
             }
             if (i === element.valid_dates.length - 1){
               document.getElementById("membershipResult").innerHTML =
@@ -114,7 +115,6 @@ date: 2024-12-05
             }
           } 
         }
-        window.location.href = `/members/${element.id}`;
       }
     });
   });
