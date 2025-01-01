@@ -30,7 +30,7 @@ date: 2024-12-05
     console.log("Encoded JWT ID token: " + response.credential);
   }
   window.onload = function () {
-    if (localStorage.getItem("wrbcMemberId")){
+    if (localStorage.getItem("wrbcMemberId") && localStorage.getItem("wrbc2025") === "true"){
       window.location.href = `/members/${localStorage.getItem("wrbcMemberId")}`;
     } else {
       google.accounts.id.initialize({
@@ -99,7 +99,21 @@ date: 2024-12-05
     console.log(`closing - ${pick.returnValue}`);
     memberData.forEach(element => {
       if (element.name === pick.returnValue) {
-        localStorage.setItem("wrbcMemberId", element.id)
+        localStorage.setItem("wrbcMemberId", element.id);
+        if ( element.valid_dates && element.valid_dates.length > 1 ){
+          for (let i = 0; i < element.valid_dates.length; i++) {
+            const element = array[index];
+            if (element.valid_dates[i].term_name === "2025"){
+              localStorage.setItem("wrbc2025", true);
+              break;
+            }
+            if (i === element.valid_dates.length - 1){
+              document.getElementById("membershipResult").innerHTML =
+    "Your membership is currently not valid, please renew at <a href='/join-the-club'>Join the Club</a>.<br>If you feel this is an error, please send a message to whiskeyrowbrewclub@gmail.com";
+              return;
+            }
+          } 
+        }
         window.location.href = `/members/${element.id}`;
       }
     });
