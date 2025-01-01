@@ -61,9 +61,23 @@ date: 2024-12-05
             return;
           }
           if (data.length === 1) {
-            localStorage.setItem("wrbcMemberId", data[0].id)
-            window.location.href = `/members/${data[0].id}`;
-            return;
+            if (data[0].valid_dates){
+              const array = data[0].valid_dates;
+              for (let i = 0; i < array.length; i++) {
+                const e = array[i];
+                if (e.term_name === "2025"){
+                  localStorage.setItem("wrbcMemberId", data[0].id);
+                  localStorage.setItem("wrbc2025", "true");
+                  window.location.href = `/members/${data[0].id}`;
+                  return;
+                }
+                if (i === array.length - 1){
+                  document.getElementById("membershipResult").innerHTML =
+                  "Your membership is currently not valid, please renew at <a href='/join-the-club'>Join the Club</a>.<br>If you feel this is an error, please send a message to whiskeyrowbrewclub@gmail.com";
+                  return;
+                }
+              }
+            }
           } else if (data.length === 2) {
             const member = pickMember(data);
             return;
