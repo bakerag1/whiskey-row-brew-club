@@ -7,6 +7,8 @@ author = "bakerag"
 aliases = ['/p/membership.html']
 +++
 
+Already a member? [View your digital membership card](/my-card)
+
 <p>Club dues are $35 for an individual, $50 for a couple per calendar year. You do not have to buy before you try, come to a meeting or event and check it out!</p><p>
 <form action="/join-the-club">
     <input type="submit" value="Join Now!" style="font-size: 20pt; border:8px; border-radius: 10px; background-color: lime;"/>
