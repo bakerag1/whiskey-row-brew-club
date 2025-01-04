@@ -1,7 +1,6 @@
 ---
 title: WRBC App Now Live
 date: 2025-01-04
-draft: true
 ---
 
 Our club website is now available as a mobile app! Using it as an app has some
