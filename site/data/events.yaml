@@ -20,6 +20,12 @@ club:
     url: /events/2024-12-holiday-party/
     info: 2-8pm December 14, see links for details
     date: 2024-12-14
+  - name: Highway Cleanup
+    info: 11am Old Stage Stop, clean up our mile & find some beer
+    date: 2025-01-18
+  - name: Sloshball
+    info: date TBD kickball and beer!
+    date: 2025-03-29
 beer:
   - name: Williams Labor Daze
     info: Williams - Grand Canyon Brewing
@@ -58,8 +64,10 @@ meetings:
     education: Port tasting and ed
   - date: 2025-02-20
     location: Cocky's Chicken & Brew
+    education: Yeast Selection
   - date: 2025-03-20
     location: Cocky's Chicken & Brew
+    education: Sensory Training - Oxidation
   - date: 2025-04-17
     location: Cocky's Chicken & Brew
   - date: 2025-05-15
