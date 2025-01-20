@@ -68,7 +68,7 @@ type Member struct {
 
 func (m *members) getMembers() *members {
 
-	yamlFile, err := ioutil.ReadFile("../data/members.yaml")
+	yamlFile, err := ioutil.ReadFile("../../wrbc-members/members.yaml")
 	if err != nil {
 		log.Printf("yamlFile.Get err   #%v ", err)
 	}
