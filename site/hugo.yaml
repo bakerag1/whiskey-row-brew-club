@@ -34,9 +34,12 @@ Menus:
     - Weight: 20
       Name: Membership
       Url: /membership
-    - Weight: 30
+    - Weight: 25
       Name: Brewer Of The Year
       Url: /brewer-of-the-year
+    - weight: 27
+      Name: Gauntlets
+      Url: /brewer-of-the-year/gauntlets
     - Weight: 30
       Name: Lazy G Competition
       Url: /lazy-g-club-only-competition

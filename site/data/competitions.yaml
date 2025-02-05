@@ -61,6 +61,13 @@ schedules:
           guide: BJCP
           guideYear: 2021
           category: 13B
+        winners:
+          - name: Andrew
+            position: first
+          - name: Susan
+            position: third
+          - name: Wes
+            position: second
       - date: 2025-04-17
         compType: gauntlet
         style: 
