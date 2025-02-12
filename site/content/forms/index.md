@@ -9,3 +9,4 @@ Here are some forms we have made to serve our club's needs.
 
 * [festival table scores](festival-table-scores.pdf)
 * [tiny ballots](gauntlet-ballots.pdf)
+* [bottle labels](bottle-labels.pdf)

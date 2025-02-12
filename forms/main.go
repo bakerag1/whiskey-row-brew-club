@@ -17,6 +17,7 @@ func main() {
 	paths := []string{
 		"competition/festival-table-scores.tmpl",
 		"competition/gauntlet-ballots.tmpl",
+		"competition/bottle-labels.tmpl",
 	}
 
 	for _, v := range paths {
@@ -37,11 +38,15 @@ func writePdf(path string) {
 		Url             string
 		GauntletRows    []struct{}
 		GauntletColumns []struct{}
+		BottleRows      []struct{}
+		BottleColumns   []struct{}
 	}{
 		QRCode:          base64.StdEncoding.EncodeToString(png),
 		Url:             url,
 		GauntletRows:    make([]struct{}, 9),
 		GauntletColumns: make([]struct{}, 4),
+		BottleRows:      make([]struct{}, 3),
+		BottleColumns:   make([]struct{}, 2),
 	}
 
 	basename := strings.Split(strings.Split(path, ".")[0], "/")[1]

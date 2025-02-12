@@ -1,0 +1,128 @@
+<html>
+
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <style type="text/css">
+     
+    table td,
+    table th {
+      padding: 0
+    }
+
+     .parent {
+      text-align: center;
+    }
+
+    .child {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .outer-cell {
+      border-style: solid;
+      padding: 5pt;
+      border-color: #000000;
+      border-width: 1pt;
+      vertical-align: top;
+      width: 25%;
+    }
+
+    .c1 {
+      border-right-style: solid;
+      padding: 5pt 5pt 5pt 5pt;
+      border-bottom-color: #000000;
+      border-top-width: 1pt;
+      border-right-width: 1pt;
+      border-left-color: #000000;
+      vertical-align: top;
+      border-right-color: #000000;
+      border-left-width: 1pt;
+      border-top-style: solid;
+      border-left-style: solid;
+      border-bottom-width: 1pt;
+      width: 91pt;
+      border-top-color: #000000;
+      border-bottom-style: solid
+    }
+
+    .c2 {
+      color: #000000;
+      font-weight: 400;
+      text-decoration: none;
+      vertical-align: baseline;
+      font-size: 11pt;
+      font-family: "Arial";
+      font-style: normal
+    }
+
+    .c8 {
+      padding-top: 0pt;
+      padding-bottom: 0pt;
+      line-height: 1.15;
+      orphans: 2;
+      widows: 2;
+      text-align: left
+    }
+
+    .c5 {
+      padding-top: 0pt;
+      padding-bottom: 0pt;
+      line-height: 1.0;
+      text-align: right
+    }
+
+    .c0 {
+      padding-top: 0pt;
+      padding-bottom: 0pt;
+      line-height: 1.0;
+      text-align: left
+    }
+
+    .c3 {
+      height: 11pt
+    }
+
+    .c4 {
+      height: 0pt
+    }
+
+    p {
+      margin: 0;
+      color: #000000;
+      font-size: 11pt;
+      font-family: "Arial"
+    }
+
+    input {
+      border:0;
+      outline:0;
+    }
+
+  </style>
+</head>
+
+<body>
+  <table>
+
+{{ range $idx, $e := .BottleRows }}
+    <tr class="c4">
+    {{ range $idx, $e := $.BottleColumns }}
+      <td class="outer-cell" colspan="1" rowspan="1">
+      <form>
+        <label>Name: </label><input></input><br><br>
+        <label>AHA Member ID: </label><input></input><br><br>
+        <label>Email: </label><input></input><br><br>
+        <label>Phone: </label><input></input><br><br>
+        <label>Beer Name: </label><input></input><br><br>
+        <label>Beer Style: </label><input></input><br><br>
+      </form>
+    {{ end }}
+    </tr>
+{{ end }}
+  </table>
+</body>
+  <div class="parent">
+    <div class="child">Whiskey Row Brew Club form: Bottle Labels</div>
+    <div class="child"><img alt="{{.Url}}" style="width: 64px; height: 64px;" src="data:image/png;base64,{{.QRCode}}"></div>
+  </div>
+</html>
