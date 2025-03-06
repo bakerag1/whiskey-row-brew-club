@@ -90,13 +90,13 @@ schedules:
         winners:
           - name: Andrew
             position: first
-            style: Kölsch
+            category: Kölsch
           - name: Andrew
             position: third
-            style: Mexican Lager
+            category: Mexican Lager
           - name: Conrad
             position: second
-            style: Brown Ale
+            category: Brown Ale
       - date: 2025-05-20
         compType: club
         info: Lazy-G Pro-Am Competition
