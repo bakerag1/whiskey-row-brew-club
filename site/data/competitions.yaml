@@ -87,6 +87,16 @@ schedules:
         info: Lazy-G Pro-Am Competition Prep
         style:
           name: Kölsch, Brown Ale, and Mexican Lager
+        winners:
+          - name: Andrew
+            position: first
+            style: Kölsch
+          - name: Andrew
+            position: third
+            style: Mexican Lager
+          - name: Conrad
+            position: second
+            style: Brown Ale
       - date: 2025-05-20
         compType: club
         info: Lazy-G Pro-Am Competition
