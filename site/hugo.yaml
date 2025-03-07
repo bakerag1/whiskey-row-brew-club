@@ -43,6 +43,9 @@ Menus:
     - Weight: 30
       Name: Lazy G Competition
       Url: /lazy-g-club-only-competition
+    - Weight: 35
+      Name: Ghosts of the West
+      Url: /ghosts-of-the-west
     - Weight: 40
       Name: Education Topics
       Url: /education-topics

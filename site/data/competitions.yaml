@@ -55,6 +55,7 @@ schedules:
   - year: 2025
     comps:
       - date: 2025-01-16
+        entries: 3
         compType: gauntlet
         style: 
           name: British Brown Ale
@@ -85,6 +86,7 @@ schedules:
       - date: 2025-02-20
         compType: gauntlet
         info: Lazy-G Pro-Am Competition Prep
+        entries: 3
         style:
           name: Kölsch, Brown Ale, and Mexican Lager
         winners:
