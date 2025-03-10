@@ -33,7 +33,7 @@ type Comp struct {
 	Winners []Winner    `yaml:"winners"`
 	Type    string      `yaml:"compType"`
 	Info    string      `yaml:"info"`
-	Link    string      `yaml:"link"`
+	Url     string      `yaml:"url"`
 	Date    string      `yaml:"date"`
 	Style   interface{} `yaml:"style"`
 	Entries int         `yaml:"entries"`
