@@ -65,10 +65,10 @@ schedules:
         winners:
           - name: Andrew
             position: first
-          - name: Susan
-            position: third
           - name: Wes
             position: second
+          - name: Susan
+            position: third
       - date: 2025-04-17
         compType: gauntlet
         style: 
@@ -97,12 +97,12 @@ schedules:
           - name: Andrew
             position: first
             category: Kölsch
-          - name: Andrew
-            position: third
-            category: Mexican Lager
           - name: Conrad
             position: second
             category: Brown Ale
+          - name: Andrew
+            position: third
+            category: Mexican Lager
       - date: 2025-05-20
         compType: club
         info: Lazy-G Pro-Am Competition
