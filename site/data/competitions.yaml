@@ -76,6 +76,10 @@ schedules:
           guide: BJCP
           guideYear: 2021
           category: 21B
+      - date: 2025-04-16
+        info: ASH Cactus Classic
+        url: https://beerawardsplatform.com/2025-ash-cactus-classic
+        compType: AZ-BJCP
       - date: 2025-03-20
         compType: gauntlet
         style: 
@@ -102,9 +106,15 @@ schedules:
       - date: 2025-05-20
         compType: club
         info: Lazy-G Pro-Am Competition
-        link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
+        url: /lazy-g-club-only-competition/
         style:
           name: Kölsch, Brown Ale, and Mexican Lager
+      - date: 2025-07-21
+        compType: AZ-BJCP
+        info: Ghosts of the West
+        url: /ghosts-of-the-west
+        style:
+          name: British Styles
       - date: 2025-05-15
         compType: gauntlet
         style: 
@@ -200,7 +210,7 @@ schedules:
             position: third
       - date: 2024-04-07
         info: ASH Cactus Classic
-        link: https://beerawardsplatform.com/2024-ash-cactus-classic
+        url: https://beerawardsplatform.com/2024-ash-cactus-classic
         compType: AZ-BJCP
         winners:
           - name: Andrew
@@ -230,7 +240,7 @@ schedules:
       - date: 2024-04-18
         entries: 5
         info: Lazy-G Pro-Am Competition
-        link: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
+        url: https://whiskeyrowbrewclub.com/lazy-g-club-only-competition/
         style:
           name: American Pale Ale
           guide: bjcp
@@ -289,7 +299,7 @@ schedules:
             category: Brut IPA
       - date: 2024-07-01
         info: National Homebrew Competition - first round
-        link: https://www.homebrewersassociation.org/news/get-ready-registration-opens-in-1-week/
+        url: https://www.homebrewersassociation.org/news/get-ready-registration-opens-in-1-week/
         compType: NHC-first-round
         winners:
           - name: Andrew
@@ -336,7 +346,7 @@ schedules:
             position: first
       - date: 2024-10-10
         info: National Homebrew Competition - final round
-        link: https://www.homebrewersassociation.org/national-homebrew-competition/
+        url: https://www.homebrewersassociation.org/national-homebrew-competition/
       - date: 2024-10-17
         style:
           name: British Strong
@@ -354,7 +364,7 @@ schedules:
             position: second
       - date: 2024-10-01
         info: ASH Copper State Cup registration begins 8/16
-        link: https://beerawardsplatform.com/2024-ash-copper-state-cup
+        url: https://beerawardsplatform.com/2024-ash-copper-state-cup
         compType: AZ-BJCP
         winners:
           - name: Susan
@@ -368,7 +378,7 @@ schedules:
             position: third
       - date: 2024-10-06
         info: AZ Mead & Cider Competition registration open until 9/20
-        link: https://meadfest.mountaintopmashers.net/
+        url: https://meadfest.mountaintopmashers.net/
         compType: AZ-BJCP
         winners:
           - name: Susan

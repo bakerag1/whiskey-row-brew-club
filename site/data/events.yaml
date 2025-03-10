@@ -23,8 +23,11 @@ club:
   - name: Highway Cleanup
     info: 11am Old Stage Stop, clean up our mile & find some beer
     date: 2025-01-18
+  - name: Highway Cleanup
+    info: 11am Old Stage Stop, clean up our mile & find some beer
+    date: 2025-03-15
   - name: Sloshball
-    info: date TBD kickball and beer!
+    info: kickball and beer!
     date: 2025-03-29
 beer:
   - name: Williams Labor Daze
@@ -46,6 +49,19 @@ beer:
   - name: BJCP Tasting Exam
     info: hosted by ASH in Tempe, email harveycheyne@gmail.com for details
     date: 2025-04-19
+  - name: Flagstaff Beer Festival
+    info: 1-5pm at the fairgrounds
+    date: 2025-06-21
+    url: https://www.ruggednatureproductions.com/general-1
+  - name: Rhythm & Brews
+    info: Music and beer fest in Williams date TBD
+    date: 2025-06-08
+  - name: Whiskey Row Brew Fest
+    info: Downtown Prescott Beer fest, date TBD
+    date: 2025-06-07
+  - name: St. Patrick's Day Pub Crawl
+    url: https://prescott-now.com/2024-st-patricks-day-pub-crawl/
+    date: 2025-03-17
 meetings:
   - date: 2024-08-15
     location: Cocky's Chicken & Brew
@@ -73,8 +89,10 @@ meetings:
     education: Sensory Training - Oxidation
   - date: 2025-04-17
     location: Cocky's Chicken & Brew
+    education: SRM - Getting Homebrew Color Right
   - date: 2025-05-15
     location: Cocky's Chicken & Brew
+    education: Sensory Training - Phenolic
   - date: 2025-06-19
     location: Cocky's Chicken & Brew
   - date: 2025-07-17
@@ -85,5 +103,6 @@ meetings:
     location: Cocky's Chicken & Brew
   - date: 2025-10-16
     location: Cocky's Chicken & Brew
+    education: Spooky Powders - homebrew additives
   - date: 2025-11-20
     location: Cocky's Chicken & Brew
