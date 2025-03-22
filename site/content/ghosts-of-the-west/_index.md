@@ -3,6 +3,7 @@ title: "Ghosts of the West"
 linkTitle: "home"
 author: "bakerag"
 type: "landing"
+logo: "GOTW3.png"
 description: "An Arizona-only, British styles homebrew competition"
 ---
 

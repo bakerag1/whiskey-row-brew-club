@@ -76,7 +76,7 @@ schedules:
           guide: BJCP
           guideYear: 2021
           category: 21B
-      - date: 2025-04-16
+      - date: 2025-03-16
         info: ASH Cactus Classic
         url: https://beerawardsplatform.com/2025-ash-cactus-classic
         compType: AZ-BJCP

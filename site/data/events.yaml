@@ -29,6 +29,9 @@ club:
   - name: Sloshball
     info: kickball and beer!
     date: 2025-03-29
+  - name: Brew Day
+    info: brew day at Wren House
+    date: 2025-05-04
 beer:
   - name: Williams Labor Daze
     info: Williams - Grand Canyon Brewing
@@ -58,7 +61,7 @@ beer:
     date: 2025-06-08
   - name: Whiskey Row Brew Fest
     info: Downtown Prescott Beer fest, date TBD
-    date: 2025-06-07
+    date: 2025-06-14
   - name: St. Patrick's Day Pub Crawl
     url: https://prescott-now.com/2024-st-patricks-day-pub-crawl/
     date: 2025-03-17
