@@ -5,6 +5,9 @@
   {{ range .CurrentSection.Pages }}
      | <a href="{{ .RelPermalink}}">{{ .LinkTitle }}</a>
   {{ end }}
+  {{ range .Page.Params.HeaderLinks }}
+     | <a href="{{ .link}}">{{ .linkTitle }}</a>
+  {{ end }}
 </nav>
 <div class="post">
   <h1>{{ .Title }}</h1>

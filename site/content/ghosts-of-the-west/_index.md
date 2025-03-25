@@ -5,6 +5,9 @@ author: "bakerag"
 type: "landing"
 logo: "GOTWcover3.png"
 description: "An Arizona-only, British styles homebrew competition"
+headerLinks:
+  - linkTitle: Registration
+    link: https://beerawardsplatform.com/ghosts-of-the-west
 ---
 
 The inaugural edition of the Ghosts of the West homebrew competition is coming in 2025!
