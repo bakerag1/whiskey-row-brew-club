@@ -82,11 +82,17 @@ schedules:
         compType: AZ-BJCP
       - date: 2025-03-20
         compType: gauntlet
+        entries: 2
         style: 
           name: Oatmeal Stout
           guide: BJCP
           guideYear: 2021
           category: 16B
+        winners:
+          - name: Tom
+            position: first
+          - name: Andrew
+            position: second
       - date: 2025-02-20
         compType: gauntlet
         info: Lazy-G Pro-Am Competition Prep
