@@ -26,12 +26,19 @@ club:
   - name: Highway Cleanup
     info: 11am Old Stage Stop, clean up our mile & find some beer
     date: 2025-03-15
+  - name: Highway Cleanup
+    info: 11am Old Stage Stop, clean up our mile & find some beer
+    date: 2025-05-17
   - name: Sloshball
     info: kickball and beer!
     date: 2025-03-29
   - name: Brew Day
     info: brew day at Wren House
+    url: /events/2025-05-brewday
     date: 2025-05-04
+  - name: Horseshoes & Homebrews
+    date: 2025-07-24
+    url: /events/2025-07-horseshoesAndHomebrews
 beer:
   - name: Williams Labor Daze
     info: Williams - Grand Canyon Brewing

@@ -5,6 +5,7 @@ startDate: 2025-05-04 10:00:00 -0700 MST
 endDate:  2025-05-04 16:00:00 -0700 MST
 location: Wren House Prairie Patio
 event: true
+rsvp: https://forms.gle/QPXwUFDLaEnjkLWq5
 ---
 
 ![image](NHBD25.png)
