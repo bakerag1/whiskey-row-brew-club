@@ -23,4 +23,25 @@ board:
   - position: General Secretary
     name: Stephanie Baker 
   - position: At-Large
+    name: Ryan Hawkins; Susan Jimenez
+  - position: Ex-President
+    name: Tuk Jacobson; Wes Meuller
+board-2024:
+  - position: President/Web Admin
+    name: Andrew Baker 
+  - position: Vice President
+    name: John Allen
+  - position: Treasurer
+    name: Greg Gannon
+  - position: Merchandise
+    name: Jodi and Mike Maas 
+  - position: Education
+    name: Seth Kuhnke 
+  - position: Events
+    name: Ashley Kuhnke
+  - position: Membership
+    name: Shelley Deardorff
+  - position: General Secretary
+    name: Stephanie Baker 
+  - position: At-Large
     name: Tuk Jacobson; Ryan Hawkins; Janine Kauffmann; Wes Meuller
