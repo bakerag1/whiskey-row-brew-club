@@ -211,9 +211,9 @@
 
 <div style="text-align: center;">
   <h2>Board of Directors</h2><br>
-  {{ range $i, $e := $.Site.Data.newsConfig.board }}
+  {{ range index $.Site.Data.newsConfig.board (time.Format "2006" .Date) }}
   <a>
-    <b>{{ $e.position }}:</b> {{ $e.name }}
+    <b>{{ .position }}:</b> {{ .name }}
     <br>
     {{ end }}
     <div>
