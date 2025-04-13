@@ -85,16 +85,16 @@ schedules:
             position: bos 
             category: Mead & Cider
           - name: Susan
-            postion: first
+            position: first
             category: Specialty Beer
           - name: Susan
-            postion: first
+            position: first
             category: Spice Mead and Specialty Mead
           - name: Susan
-            postion: second
+            position: second
             category: Spice Mead and Specialty Mead
           - name: Susan
-            postion: third
+            position: third
             category: Standard Cider & Perry
           - name: Andrew
             position: third
