@@ -1,15 +1,15 @@
 - place: 1st
-  name: Andrew
-  points: 9
+  name: Susan
+  points: 11
 - place: 2nd
+  name: Andrew
+  points: 10
+- place: 3rd
   name: Tom
   points: 3
-- place: 3rd
+- place: 4th
   name: Wes
   points: 2
-- place: 3rd
+- place: 4th
   name: Conrad
   points: 2
-- place: 4th
-  name: Susan
-  points: 1
