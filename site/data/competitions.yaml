@@ -50,7 +50,7 @@ compTypes:
       first: 3
       second: 2
       third: 1
-      bos: 4
+      bos: 1
 schedules:
   - year: 2025
     comps:
@@ -80,6 +80,25 @@ schedules:
         info: ASH Cactus Classic
         url: https://beerawardsplatform.com/2025-ash-cactus-classic
         compType: AZ-BJCP
+        winners:
+          - name: Susan
+            position: bos 
+            category: Mead & Cider
+          - name: Susan
+            postion: first
+            category: Specialty Beer
+          - name: Susan
+            postion: first
+            category: Spice Mead and Specialty Mead
+          - name: Susan
+            postion: second
+            category: Spice Mead and Specialty Mead
+          - name: Susan
+            postion: third
+            category: Standard Cider & Perry
+          - name: Andrew
+            position: third
+            category: British Brown Ale
       - date: 2025-03-20
         compType: gauntlet
         entries: 2
