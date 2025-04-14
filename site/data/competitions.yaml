@@ -85,7 +85,7 @@ schedules:
             position: bos 
             category: Mead & Cider
           - name: Susan
-            position: first
+            position: second
             category: Specialty Beer
           - name: Susan
             position: first
