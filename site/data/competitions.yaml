@@ -71,11 +71,19 @@ schedules:
             position: third
       - date: 2025-04-17
         compType: gauntlet
+        entries: 4
         style: 
           name: Red IPA
           guide: BJCP
           guideYear: 2021
           category: 21B
+        winners:
+          - name: Andrew
+            position: first
+          - name: Conrad
+            position: second
+          - name: Mike
+            position: third
       - date: 2025-03-16
         info: ASH Cactus Classic
         url: https://beerawardsplatform.com/2025-ash-cactus-classic
