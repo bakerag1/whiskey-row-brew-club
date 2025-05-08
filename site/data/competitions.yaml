@@ -136,7 +136,7 @@ schedules:
           - name: Andrew
             position: third
             category: Mexican Lager
-      - date: 2025-05-20
+      - date: 2025-05-05
         compType: club
         info: Lazy-G Pro-Am Competition
         url: /lazy-g-club-only-competition/
