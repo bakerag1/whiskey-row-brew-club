@@ -17,6 +17,16 @@ import (
 
 func main() {
 	name := os.Args[1]
+
+	if name == "migrate" {
+		makeNotices()
+		return
+	}
+	makeEvent(name)
+
+}
+
+func makeEvent(name string) {
 	log.Println(name)
 	var mtg Meeting
 	mtg.getMeeting(name)
@@ -26,6 +36,38 @@ func main() {
 	cmd := exec.Command("/bin/bash", "-c",
 		fmt.Sprintf("rm -rf ../site/content/events/%[1]v && cp -pRP out ../site/content/events/%[1]v && rm -rf out", strings.Split(name, ".")[0]))
 	cmd.Run()
+}
+
+func makeNotices() {
+	yamlFile, err := ioutil.ReadFile("../site/data/events.yaml")
+	if err != nil {
+		log.Printf("yamlFile.Get err   #%v ", err)
+	}
+	var c Events
+	err = yaml.Unmarshal(yamlFile, &c)
+	if err != nil {
+		log.Fatalf("Unmarshal: %v", err)
+	}
+	for _, v := range c.Meetings {
+		if v.Date.After(time.Now()) {
+			mtg := Meeting{
+				Start:     v.Date.Add(time.Hour * 18),
+				End:       v.Date.Add(time.Hour * 20),
+				Location:  v.Location,
+				Ed:        v.Education,
+				Notes:     []string{"prospective members welcome"},
+				Gauntlet:  "TBD",
+				Title:     "General Meeting",
+				PostTitle: v.Date.Format("January") + " General Meeting",
+			}
+			os.Mkdir("out", 0777)
+			makeImage(mtg)
+			makePost(mtg)
+			cmd := exec.Command("/bin/bash", "-c",
+				fmt.Sprintf("rm -rf ../site/content/events/%[1]v && cp -pRP out ../site/content/events/%[1]v && rm -rf out", v.Date.Format("2006-01")+"-gm.md"))
+			cmd.Run()
+		}
+	}
 }
 
 func makePost(mtg Meeting) {
@@ -89,4 +131,17 @@ type Post struct {
 	Title   string
 	Content string
 	Date    string
+}
+
+type Event struct {
+	Location  string    `yaml:"location"`
+	Info      string    `yaml:"info"`
+	Date      time.Time `yaml:"date"`
+	Url       string    `yaml:"url"`
+	Education string    `yaml:"education"`
+}
+type Events struct {
+	Meetings []Event `yaml:"meetings"`
+	Club     []Event `yaml:"club"`
+	Beer     []Event `yaml:"beer"`
 }
