@@ -48,6 +48,10 @@ beer:
     info: Williams - Grand Canyon Brewing
     date: 2024-09-01
     url: https://www.grandcanyonbrewery.com/event-details/labor-daze-festival
+  - name: Williams Labor Daze
+    info: Williams - Grand Canyon Brewing
+    date: 2025-08-31
+    url: https://www.grandcanyonbrewery.com/event-details/labor-daze-festival
   - name: Great American Beer Festival
     url: https://www.greatamericanbeerfestival.com/tickets/
     info: Beer fest with some homebrew activities

@@ -34,7 +34,8 @@ awards ceremony: On or after 8/24
 * Open only to current residents of Arizona
 * For each beer entered, submit two twelve-ounce crown cap bottles, with no labels or cap markings with the entry label rubber-banded to each bottle. 
 * Limit 5 entries per brewer
-* Limit 1 entry per subcategory
+* Limit 1 entry per brewer per subcategory
+
 
 
 [Register on BAP](https://beerawardsplatform.com/ghosts-of-the-west)
