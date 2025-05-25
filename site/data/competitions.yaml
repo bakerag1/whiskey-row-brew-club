@@ -91,6 +91,9 @@ schedules:
         info: at Horseshoes and Homebrews
         style:
           name: Session (under 5% ABV, name your style)
+      - date: 2026-08-20
+        compType: gauntlet
+        info: best clone, name your commercial inspiration
   - year: 2025
     comps:
       - date: 2025-01-16
