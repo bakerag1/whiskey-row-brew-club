@@ -51,7 +51,46 @@ compTypes:
       second: 2
       third: 1
       bos: 1
+  - id: duel
+    displayName: Duel
+    points:
+      winner: 2
+      loser: 1
 schedules:
+  - year: 2026
+    comps:
+      - date: 2026-01-15
+        compType: gauntlet
+        info: beer best deserving of the name ""
+      - date: 2026-02-19
+        compType: gauntlet
+        info: fruit beer, name your base style
+      - date: 2026-03-19
+        compType: gauntlet
+        style:
+          name: Irish Red
+      - date: 2026-04-16
+        compType: gauntlet
+        style:
+          name: wood beer
+      - date: 2026-05-21
+        compType: gauntlet
+        style:
+          name: Mead
+      - date: 2026-06-18
+        compType: gauntlet
+        style:
+          name: saison
+      - date: 2026-06-18
+        compType: duel
+        info: Susan vs Andrew
+        style:
+          name: Traditional Mead (dry, standard-strength, AZ honey)
+      - date: 2026-07-25
+        compType: gauntlet
+        info: at Horseshoes and Homebrews
+        style:
+          name: Session (under 5% ABV, name your style)
   - year: 2025
     comps:
       - date: 2025-01-16
@@ -150,11 +189,22 @@ schedules:
           name: British Styles
       - date: 2025-05-15
         compType: gauntlet
+        entries: 4
         style: 
           name: With Flowers (Declare your style)
           guide: BJCP
           guideYear: 2021
           category: 30A
+        winners:
+        - name: Susan
+          category: Metheglin
+          position: first
+        - name: Andrew
+          category: Belgian Blond
+          position: second
+        - name: Andrew
+          category: Belgian Tripel
+          position: third
       - date: 2025-06-19
         compType: gauntlet
         style: 

@@ -4,6 +4,9 @@ type: landing
 logo: "../LGcollabLogo.png"
 ---
 
+## 2025 - Brown Ale, Kölsch, Mexican Lager
+*cancelled due to lack of participation*
+
 ## 2024 - American Pale Ale
 1. Wes Meuller
 2. Tuk Jacobson
