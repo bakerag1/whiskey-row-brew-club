@@ -61,18 +61,29 @@ schedules:
     comps:
       - date: 2026-01-15
         compType: gauntlet
-        info: beer best deserving of the name ""
+        style:
+          name: beer best deserving of the name "Haboob Juice"
       - date: 2026-02-19
         compType: gauntlet
-        info: fruit beer, name your base style
+        style: 
+          name: Fruit Beer
+          guide: BJCP
+          guideYear: 2021
+          category: 29A
       - date: 2026-03-19
         compType: gauntlet
         style:
           name: Irish Red
+          guide: BJCP
+          guideYear: 2021
+          category: 15A
       - date: 2026-04-16
         compType: gauntlet
         style:
-          name: wood beer
+          name: Wood-Aged beer
+          guide: BJCP
+          guideYear: 2021
+          category: 22C
       - date: 2026-05-21
         compType: gauntlet
         style:
@@ -81,6 +92,9 @@ schedules:
         compType: gauntlet
         style:
           name: saison
+          guide: BJCP
+          guideYear: 2021
+          category: 25B
       - date: 2026-06-18
         compType: duel
         info: Susan vs Andrew
