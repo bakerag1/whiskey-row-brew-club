@@ -75,7 +75,8 @@ beer:
     info: Music and beer fest in Williams date TBD
     date: 2025-06-08
   - name: Whiskey Row Brew Fest
-    info: Downtown Prescott Beer fest, date TBD
+    info: Downtown Prescott Beer Fest
+    url: https://prescottevents.ticketspice.com/2025-whiskey-row-brew-fest
     date: 2025-06-14
   - name: St. Patrick's Day Pub Crawl
     url: https://prescott-now.com/2024-st-patricks-day-pub-crawl/
@@ -115,7 +116,10 @@ meetings:
     location: Cocky's Chicken & Brew
     education: Your First Cider
   - date: 2025-07-17
-    location: Cocky's Chicken & Brew
+    location: Fairweather Social Club
+    education: Happy Hour
+  - date: 2025-07-26
+    location: Horseshoes and Homebrews
   - date: 2025-08-21
     location: Cocky's Chicken & Brew
     education: Sensory Training - Indole

@@ -229,7 +229,7 @@ schedules:
           guide: BJCP
           guideYear: 2021
           category: 25A
-      - date: 2025-07-19
+      - date: 2025-07-26
         compType: gauntlet
         style: 
           name: Session (Declare your style)
