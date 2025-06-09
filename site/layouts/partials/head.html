@@ -8,6 +8,10 @@
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-title" content="WRBC" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  
+  {{ if .Params.private }}
+  <meta name="robots" content="noindex,nofollow" />
+  {{ end }}
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js');

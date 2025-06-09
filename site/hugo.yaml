@@ -9,7 +9,7 @@ markup:
       unsafe: true
 
 Params:
-  description: "Homebrewing club based in Prescott, AZ"
+  description: "Whiskey Row Brew Club has been at the heart of the Prescott homebrew scene since 2011. With monthly meetings, annual campouts, parties, brew days, and competitions, WRBC is everything you want and need in your local homebrew community."
   logo: /favicon.png
   themeColor: "theme-base-0f"
   meta:
