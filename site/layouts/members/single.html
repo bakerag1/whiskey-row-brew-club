@@ -48,7 +48,17 @@
     font-family: GentCaller;
   }
 </style>
-<div>
+
+<script>
+  function hideCard(){
+    if (localStorage.getItem("wrbcMemberId") !== window.location.pathname.split('/')[2]){
+      document.getElementById('card').style.display = 'none';
+      document.getElementById('login').value = 'Log In'
+    }
+  }
+  window.onload = hideCard;
+</script>
+<div id="card">
   <div class="card-front">
     {{ $v := .Params.QRCode }}
     <img {{ printf "src=%q" $v | safeHTMLAttr }} />
@@ -66,5 +76,5 @@
   </div>
 </div>
 </div>
-<button onclick="localStorage.removeItem('wrbcMemberId'); window.location.href = '/my-card'">Forget My Card</button>
+<button id="login" onclick="localStorage.removeItem('wrbcMemberId'); window.location.href = '/my-card'">Forget My Card</button>
 {{- end }}
