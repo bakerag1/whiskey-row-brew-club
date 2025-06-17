@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="user-check.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.04"
+     inkscape:cx="442.30769"
+     inkscape:cy="400"
+     inkscape:window-width="3440"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="83"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00c400;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1;fill-opacity:1"
+     d="m 20.023437,16 a 1,1 0 0 0 -0.71289,0.275391 l -3.509766,3.34375 -1.111328,-1.056641 a 1,1 0 0 0 -1.414062,0.0332 1,1 0 0 0 0.03516,1.414063 l 1.798828,1.714843 a 1.0001,1.0001 0 0 0 1.380859,0 l 4.199219,-4 A 1,1 0 0 0 20.724609,16.310547 1,1 0 0 0 20.023437,16 Z"
+     id="path4" />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="m 7.2773437,13.005859 c -0.2250138,-0.01677 -0.4136318,-0.0035 -0.6386718,0.01367 -0.1181315,0.009 -0.2358505,0.02401 -0.3515625,0.04492 -1.6382479,0.296607 -2.9260643,1.584345 -3.2226563,3.22266 C 2.9914944,16.69007 3,17.047994 3,17.683594 v 1.716797 c 0,0.5601 -0.050507,0.979378 0.21875,1.507812 0.1917367,0.376354 0.4971265,0.681451 0.8730469,0.873047 C 4.6202658,22.050537 5.0395594,22 5.5996094,22 H 10.5 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 H 5.5996094 C 5.0395594,20 4.8993511,19.948713 5,20 5.051277,20.100635 5,19.96049 5,19.400391 v -1.716797 c 0,-0.6356 0.00825,-0.912023 0.03125,-1.039063 0.14908,-0.823488 0.7881214,-1.463484 1.6113281,-1.613281 0.037496,-0.0068 0.083134,-0.01261 0.1484375,-0.01758 0.22504,-0.0172 0.2623045,-0.0193 0.3378906,-0.01367 0.1187409,0.0089 0.08288,0.0029 0.1972657,0.03516 -0.038242,-0.01078 0.2645333,0.107029 0.7871094,0.34375 C 8.9937529,15.777746 9.9744869,16 11,16 c 1.025513,0 2.006244,-0.222247 2.886719,-0.621094 0.522473,-0.236688 0.825017,-0.354442 0.787109,-0.34375 0.114421,-0.03232 0.07884,-0.02636 0.197266,-0.03516 0.076,-0.0057 0.112837,-0.0034 0.33789,0.01367 0.06429,0.0049 0.107816,0.01101 0.144532,0.01758 0.233197,0.04194 0.45018,0.122927 0.646484,0.236328 A 1,1 0 0 0 17.365234,14.902344 1,1 0 0 0 17,13.535156 C 16.606704,13.307957 16.170034,13.145763 15.707031,13.0625 15.592747,13.04206 15.476289,13.02843 15.359375,13.01953 15.134028,13.00242 14.947256,12.98912 14.722656,13.00586 14.52868,13.02027 14.318039,13.0565 14.130859,13.109376 13.802951,13.201866 13.583073,13.31993 13.060547,13.556642 12.432822,13.840994 11.737887,14 11,14 10.262113,14 9.5672015,13.841001 8.9394531,13.556641 8.4169692,13.319961 8.1974827,13.201958 7.8691406,13.109375 7.6819866,13.056619 7.4710429,13.020366 7.2773437,13.005859 Z"
+     id="path3" />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="m 11,4 c 1.668651,0 3,1.3313116 3,3 0,1.6686884 -1.331349,3 -3,3 C 9.3312996,10 8,8.6687004 8,7 8,5.3312996 9.3312996,4 11,4 Z"
+     id="path2" />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 11,2 C 8.2504204,2 6,4.2504204 6,7 c 0,2.7495796 2.2504204,5 5,5 2.749549,0 5,-2.2504084 5,-5 0,-2.7495916 -2.250451,-5 -5,-5 z"
+     id="path1" />
+</svg>

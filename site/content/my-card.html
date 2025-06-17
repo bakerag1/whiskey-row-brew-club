@@ -65,8 +65,9 @@ date: 2024-12-05
               const array = data[0].valid_dates;
               for (let i = 0; i < array.length; i++) {
                 const e = array[i];
+                localStorage.setItem("wrbcMemberId", data[0].id);
+                localStorage.setItem("wrbcName", data[0].name)
                 if (e.term_name === "2025"){
-                  localStorage.setItem("wrbcMemberId", data[0].id);
                   localStorage.setItem("wrbc2025", "true");
                   window.location.href = `/members/${data[0].id}`;
                   return;

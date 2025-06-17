@@ -43,7 +43,19 @@
         {{- end }}
       </ul>
     </nav>
-
+    <script>
+      window.onload = function () {
+        if (localStorage.getItem('wrbcName')){
+          document.getElementById('usrimg').title = localStorage.getItem('wrbcName');
+          document.getElementById('usrimg').style.visibility = 'visible';
+        } else {
+          document.getElementById('login').innerHTML = 'Log in';
+        }
+      }
+    </script>
+    <a href="/my-card" id="login">
+      <img id="usrimg" style="visibility: hidden;" width="10%" src="/user-check.svg">
+    </a>
     <p class="hideable">{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}<br>
     <a style="font-size: small; opacity: 80%;" href="/privacy">Privacy Policy</a></p>
   </div>

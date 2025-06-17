@@ -57,7 +57,16 @@
     }
   }
   window.onload = hideCard;
+
+  function hideSoftAsk(){
+    document.getElementById('soft-ask').style.visibility = 'hidden';
+  }
 </script>
+<div id="soft-ask">
+    Stay updated with the latest news directly on your device. Allow notifications?
+    <button onclick="subscribeUser()">Yes</button>
+    <button onclick="hideSoftAsk()">Not now</button>
+</div>
 <div id="card">
   <div class="card-front">
     {{ $v := .Params.QRCode }}
@@ -76,5 +85,5 @@
   </div>
 </div>
 </div>
-<button id="login" onclick="localStorage.removeItem('wrbcMemberId'); window.location.href = '/my-card'">Forget My Card</button>
+<button id="login" onclick="localStorage.removeItem('wrbcMemberId'); localStorage.removeItem('wrbcName'); localStorage.removeItem('wrbc2025'); window.location.href = '/my-card'">Forget My Card</button>
 {{- end }}

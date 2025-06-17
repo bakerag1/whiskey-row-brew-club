@@ -4,7 +4,6 @@ date = 2022-02-08T15:18:00Z
 updated = 2023-10-23T14:12:23Z
 blogimport = true 
 author = "bakerag"
-aliases = ['/p/membership.html']
 +++
 
 Already a member? [View your digital membership card](/my-card)
