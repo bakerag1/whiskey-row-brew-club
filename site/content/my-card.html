@@ -26,9 +26,6 @@ date: 2024-12-05
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jose/5.9.6/index.umd.min.js" async></script>
 
 <script>
-  function handleCredentialResponse(response) {
-    console.log("response received from members api");
-  }
   window.onload = function () {
     if (localStorage.getItem("wrbcMemberId") && localStorage.getItem("wrbc2025") === "true"){
       window.location.href = `/members/${localStorage.getItem("wrbcMemberId")}`;
