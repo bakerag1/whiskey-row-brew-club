@@ -27,7 +27,7 @@ date: 2024-12-05
 
 <script>
   function handleCredentialResponse(response) {
-    console.log("Encoded JWT ID token: " + response.credential);
+    console.log("response received from members api");
   }
   window.onload = function () {
     if (localStorage.getItem("wrbcMemberId") && localStorage.getItem("wrbc2025") === "true"){
