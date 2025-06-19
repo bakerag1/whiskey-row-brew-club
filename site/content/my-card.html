@@ -112,21 +112,21 @@ date: 2024-12-05
     memberData.forEach(element => {
       if (element.name === pick.returnValue) {
         localStorage.setItem("wrbcMemberId", element.id);
-        if ( element.valid_dates && element.valid_dates.length > 1 ){
-          for (let i = 0; i < element.valid_dates.length; i++) {
-            const element = array[index];
-            if (element.valid_dates[i].term_name === "2025"){
-              localStorage.setItem("wrbc2025", "true");
-              window.location.href = `/members/${element.id}`;
-              return;
-            }
-            if (i === element.valid_dates.length - 1){
-              document.getElementById("membershipResult").innerHTML =
-    "Your membership is currently not valid, please renew at <a href='/join-the-club'>Join the Club</a>.<br>If you feel this is an error, please send a message to whiskeyrowbrewclub@gmail.com";
-              return;
-            }
-          } 
+    if (element.valid_dates && element.valid_dates.length > 0) {
+      for (let i = 0; i < element.valid_dates.length; i++) {
+        const validDate = element.valid_dates[i];
+        if (validDate.term_name === "2025") {
+          localStorage.setItem("wrbc2025", "true");
+          window.location.href = `/members/${element.id}`;
+          return;
         }
+        if (i === element.valid_dates.length - 1) {
+          document.getElementById("membershipResult").innerHTML =
+            "Your membership is currently not valid, please renew at <a href='/join-the-club'>Join the Club</a>.<br>If you feel this is an error, please send a message to whiskeyrowbrewclub@gmail.com";
+          return;
+        }
+      }
+    }
       }
     });
   });
