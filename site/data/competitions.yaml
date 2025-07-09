@@ -198,12 +198,6 @@ schedules:
         url: /lazy-g-club-only-competition/
         style:
           name: Kölsch, Brown Ale, and Mexican Lager
-      - date: 2025-07-21
-        compType: AZ-BJCP
-        info: Ghosts of the West
-        url: /ghosts-of-the-west
-        style:
-          name: British Styles
       - date: 2025-05-15
         compType: gauntlet
         entries: 4
@@ -245,6 +239,20 @@ schedules:
         compType: gauntlet
         style: 
           name: German Lagers (declare your style)
+      - date: 2025-07-21
+        compType: AZ-BJCP
+        info: Ghosts of the West
+        url: /ghosts-of-the-west
+        style:
+          name: British Styles
+      - date: 2025-09-14
+        compType: AZ-BJCP
+        info: Copper State Cup (ASH)
+        url: https://beerawardsplatform.com/2025-ash-copper-state-cup
+      - date: 2025-10-10
+        compType: AZ-BJCP
+        info: Arizona Mead & Cider Homebrew Competition (date TBD)
+        url: https://meadfest.mountaintopmashers.net/
       - date: 2025-10-16
         compType: gauntlet
         info: Candy inspired or infused beers
