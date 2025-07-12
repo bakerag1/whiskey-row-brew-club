@@ -1,6 +1,7 @@
 ---
 title: Ghosts of the West Rules
 linkTitle: Rules
+type: landing
 date: 2025-05-11
 ---
 
@@ -75,6 +76,7 @@ All Entries must be one of these styles:
  | 17A | 	British Strong Ale	 | Strong British Ale   | 
  | 17B | 	Old Ale	 | Strong British Ale   | 
  | 17D | 	English Barley Wine | 	Strong British Ale   | 
+ | 27A - 4 | London Brown Ale | Historical Beer |
 
 ## Judging Dates (subject to change, times TBD)
 
