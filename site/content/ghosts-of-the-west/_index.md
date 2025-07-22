@@ -28,7 +28,7 @@ awards ceremony: On or after 8/24
 * award categories will be determined based on number of entries
 * Medals will be awarded for first, second, and third in each category
 * First place in each category will be judged for Best of Show (provided sufficient bottles are available)
-* Best of Show winner will receive a special award
+* Best of Show winner will receive a trophy, a $100 LazyG gift card, and more!
 
 **Rules:**  
 * Open only to current residents of Arizona
