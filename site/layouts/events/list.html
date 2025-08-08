@@ -15,6 +15,7 @@ Also available in <a href="https://calendar.google.com/calendar/embed?src=whiske
   <li style="padding:5;list-style-type:none">
     <span><time class="pull-right post-list" datetime="2006-01-02T15:04:05Z">{{ $start.Format "Jan 2, 2006 3:04pm (Monday)"}}</time> 
       <br>&emsp;<a href="{{ .Permalink }}">{{ .Title }}</a> 
+      {{ with .Params.event_type -}} {{ if  (and (ne . "club") (ne . "meeting")) -}} (non-club event)  {{- end }}{{- end }}
       {{ with .Params.rsvp }} &emsp; <a style="color: green;" href="{{ . }}">RSVP</a>{{ end }}
     </span>
   </li>
@@ -22,15 +23,14 @@ Also available in <a href="https://calendar.google.com/calendar/embed?src=whiske
 {{- end }}
 
 <h2>Old events</h2>
-<button onclick="document.getElementById('oldies').style.display = 'block'; this.style.display ='none';">show old events</button>
+<button onclick="document.getElementsByName('oldies').forEach(e => e.style.display = 'block'); this.style.display ='none';">show old events</button>
 {{ range $pages -}}
   {{ $start := (time.AsTime .Params.startdate) }}
   {{ $minus1d := time.ParseDuration "-24h"}}
   {{ $now := (time.Now.Add $minus1d) }}
   {{ if ($start.Before $now) }}
-  <li id="oldies" style="padding:5;list-style-type:none;display:none">
-    <span><time class="pull-right post-list" datetime="2006-01-02T15:04:05Z">{{ $start.Format "Jan 2, 2006 3:04pm (Monday)"}}</time> 
-      <br>&emsp;<a href="{{ .Permalink }}">{{ .Title }}</a> 
+  <li name="oldies" style="padding:5;list-style-type:none;display:none">
+    <span><a href="{{ .Permalink }}">{{ .Title }}</a>&nbsp;&nbsp;<time class="pull-right post-list" datetime="2006-01-02T15:04:05Z">{{ $start.Format "Jan 2, 2006"}}</time> 
     </span>
   </li>
   {{ end }}

@@ -4,6 +4,7 @@ date: 2025-04-06T13:09:03Z
 startDate: 2025-07-24 10:00:00 -0700 MST
 endDate:  2025-07-27 12:00:00 -0700 MST
 rsvp: https://forms.gle/wZ5FCAokaAwdDHtw8
+event_type: club
 event: true
 ---
 

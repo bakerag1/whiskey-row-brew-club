@@ -3,6 +3,7 @@ title: Whiskey Row Brew Club - Learn to Brew Day
 date: 2024-08-13
 gallery: false
 event: true
+event_type: club
 startDate: 2024-11-03 10:00:00  -0700 MST
 endDate: 2024-11-03 16:00:00  -0700 MST
 rsvp: https://forms.gle/XUsCrhQhqVdkrbgY9

@@ -5,6 +5,7 @@ startDate: 2024-11-21 18:00:00 -0700 MST
 endDate:  2024-11-21 20:00:00 -0700 MST
 location: Cocky's Chicken+Brew
 event: true
+event_type: meeting
 ---
 
 ![image](event.png)

@@ -5,6 +5,7 @@ startDate: 2025-03-29 14:00:00 -0700 MST
 endDate:  2025-02-20 18:00:00 -0700 MST
 location: Prescott Area
 event: true
+event_type: club
 ---
 
 We're going to play kickball, but you have to have a beer in your hand!

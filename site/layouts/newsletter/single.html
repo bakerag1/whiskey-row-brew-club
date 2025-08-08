@@ -96,19 +96,19 @@
   <hr>
   <div class="event-group">
     <div class="events">
+      {{ $events := where .Site.Pages "Section" "events" }}
+      {{ $club := where $events "Params.event_type" "club" }}
+      {{ $meetings := where $events "Params.event_type" "meeting" }}
+      {{ $beer := where $events "Params.event_type" "beer" }}
       <ul aria-label="Club Events">
-        {{range sort .Site.Data.events.club "date"}}
-        {{ if  and (gt (time.AsTime .date) $.Date) 
-          (lt (time.AsTime .date) 
+        {{range sort $club "Params.startDate"}}
+        {{ if  and (gt (time.AsTime .Params.startDate) $.Date) 
+          (lt (time.AsTime .Params.startDate) 
           ($.Date.AddDate 0 4 0))}}
         <li>
-          {{if .url}}
-          <a href="{{.url}}">{{.name}}</a> - {{time.Format "1/2" .date}}
-          {{else}}
-          {{.name}} - {{time.Format "1/2" .date}}
-          {{end}}
-          {{if .info}}
-          <p style="font-style: italic;">{{ .info }}</p>
+          <a href="{{.Permalink}}">{{.Title}}</a> - {{time.Format "1/2" .Params.startDate}}
+          {{if .Params.info}}
+          <p style="font-style: italic;">{{ .Params.info }}</p>
           {{end}}
         </li>
         {{end}}
@@ -119,17 +119,13 @@
 
     <div class="events">
       <ul aria-label="Beer Events">
-        {{range sort .Site.Data.events.beer "date"}}
-        {{ if  and (gt (time.AsTime .date) $.Date) 
-          (lt (time.AsTime .date) 
+        {{range sort $beer "Params.startDate"}}
+        {{ if  and (gt (time.AsTime .Params.startDate) $.Date) 
+          (lt (time.AsTime .Params.startDate) 
           ($.Date.AddDate 0 6 0))}}
         <li>
-          {{if .url}}
-          <a href="{{.url}}">{{.name}}</a> - {{time.Format "1/2" .date}}
-          {{else}}
-          {{.name}} - {{time.Format "1/2" .date}}
-          {{end}}
-          {{if .info}}
+          <a href="{{.Permalink}}">{{.Title}}</a> - {{time.Format "1/2" .Params.startDate}}
+          {{if .Params.info}}
           <ul style="font-style: italic;list-style-type: none;">
             <li>{{.info}}</li>
           </ul>
@@ -149,11 +145,8 @@
           (lt (time.AsTime .date) 
           ($.Date.AddDate 0 6 0))}}
         <li>
-          {{if .url}}
           <a href="{{.url}}">{{.info}}</a> - {{time.Format "1/2" .date}}
-          {{else}}
-          {{.info}} - {{time.Format "1/2" .date}}
-          {{end}}<br>
+          <br>
           {{ with .style.name}}
           <i>{{.}}</i>
           {{ end }}
@@ -176,18 +169,18 @@
     <th class="meetings">gauntlet</th>
     <th class="meetings">education</th>
   </thead>
-  {{ range sort .Site.Data.events.meetings "date"}}
-  {{ if  and (gt (time.AsTime .date) $.Date) 
-    (lt (time.AsTime .date) 
-    ($.Date.AddDate 0 3 0))}}
-    {{ $mtgDate := .date }}
-      {{ $loc := .location}}
-      {{ $ed := .education }}
+  {{ range sort $meetings "Params.startDate"}}
+  {{ $startDate := (time.AsTime .Params.startDate) }}
+  {{ if  and (gt $startDate $.Date) 
+    (lt $startDate ($.Date.AddDate 0 3 0))}}
+    {{ $mtgDate := $startDate.Format  "2006-01-02" }}
+      {{ $loc := .Params.location}}
+      {{ $ed := .Params.meeting.ed }}
       <tr>
         <td class="meetings">{{ $mtgDate }}<br>{{ $loc }}</td>
         <td class="meetings">
       {{ range $.Site.Data.competitions.schedules }}
-        {{ if ge (.Date.Format .date "2006-01-02") (.Date.Format $mtgDate "2006-01-02") }}
+        {{ if ge (.Date.Format .date "2006-01-02") $mtgDate }}
           {{ range .comps }}
             {{ if eq .compType "gauntlet" }}
               {{ if eq .date $mtgDate }}

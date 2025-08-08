@@ -6,6 +6,7 @@ endDate:  2025-05-10 16:00:00 -0700 MST
 location: Wren House Prairie Patio
 event: true
 rsvp: https://forms.gle/QPXwUFDLaEnjkLWq5
+event_type: club
 ---
 
 ## Rescheduled for weather!

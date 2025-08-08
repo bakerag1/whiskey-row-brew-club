@@ -5,6 +5,9 @@ startDate: 2025-09-18 18:00:00 +0000 UTC
 endDate:  2025-09-18 20:00:00 +0000 UTC
 location: Cocky's Chicken & Brew
 event: true
+event_type: meeting
+meeting:
+  ed: Hops 101
 ---
 
 ![image](event.png)

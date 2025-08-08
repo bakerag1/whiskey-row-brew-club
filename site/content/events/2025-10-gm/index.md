@@ -4,7 +4,10 @@ date: 2025-04-11T12:46:53Z
 startDate: 2025-10-16 18:00:00 +0000 UTC
 endDate:  2025-10-16 20:00:00 +0000 UTC
 location: Cocky's Chicken & Brew
+event_type: meeting
 event: true
+meeting:
+  ed: TBD off-flavor
 ---
 
 ![image](event.png)

@@ -5,6 +5,7 @@ startDate: 2025-07-17 18:00:00 +0000 UTC
 endDate:  2025-07-17 20:00:00 +0000 UTC
 location: Cocky's Chicken & Brew
 event: true
+event_type: meeting
 ---
 
 ![image](event.png)

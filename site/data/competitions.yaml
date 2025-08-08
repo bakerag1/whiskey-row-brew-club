@@ -87,7 +87,7 @@ schedules:
       - date: 2026-05-21
         compType: gauntlet
         style:
-          name: Mead
+          name: Mead, Cider, Perry
       - date: 2026-06-18
         compType: gauntlet
         style:
@@ -107,7 +107,26 @@ schedules:
           name: Session (under 5% ABV, name your style)
       - date: 2026-08-20
         compType: gauntlet
-        info: best clone, name your commercial inspiration
+        style:
+          name: best clone, name your commercial inspiration
+      - date: 2026-09-18
+        compType: gauntlet
+        style:
+          name: Malt Liquor
+      - date: 2026-10-16
+        compType: gauntlet
+        style:
+          name: Pumpkin Spice (declare base style)
+      - date: 2026-11-20
+        compType: gauntlet
+        style: 
+          name: Belgian Dark Strong
+      - date: 2026-12-20
+        compType: gauntlet
+        info: date TBD Holiday Party
+        style:
+          name: Best of Show (whatever you want)
+
   - year: 2025
     comps:
       - date: 2025-01-16
@@ -218,16 +237,35 @@ schedules:
           position: third
       - date: 2025-06-19
         compType: gauntlet
+        entries: 4
         style: 
           name: Belgian Blond
           guide: BJCP
           guideYear: 2021
           category: 25A
+        winners:
+          - name: Andrew
+            position: first
+          - name: Susan
+            position: second
+          - name: Conrad
+            position: third
       - date: 2025-07-26
         compType: gauntlet
         style: 
           name: Session (Declare your style)
         info: less than 5% ABV
+        entries: 4
+        winners: 
+          - name: Susan
+            position: first
+            category: Peach Mead
+          - name: Andrew
+            position: second
+            category: Session IPA
+          - name: Andrew
+            position: second
+            category: Lichtenheiner 
       - date: 2025-08-21
         compType: gauntlet
         style: 
@@ -249,9 +287,9 @@ schedules:
         compType: AZ-BJCP
         info: Copper State Cup (ASH)
         url: https://beerawardsplatform.com/2025-ash-copper-state-cup
-      - date: 2025-10-10
+      - date: 2025-08-30
         compType: AZ-BJCP
-        info: Arizona Mead & Cider Homebrew Competition (date TBD)
+        info: Arizona Mead & Cider Homebrew Competition
         url: https://meadfest.mountaintopmashers.net/
       - date: 2025-10-16
         compType: gauntlet

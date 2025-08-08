@@ -5,6 +5,7 @@ startDate: 2025-06-19 18:00:00 -0700 MST
 endDate:  2025-06-19 20:00:00 -0700 MST
 location: Cocky's Chicken+Brew
 event: true
+event_type: meeting
 ---
 
 ![image](event.png)
