@@ -43,6 +43,10 @@ club:
     date: 2025-05-17
     info: brew fest after the highway cleanup
     url: https://www.smeltertownbrewery.com/_files/ugd/41c998_c85adc7acfff4f1d87b0b46ee11b0fb5.pdf
+  - name: Women's Brew Day
+    date: 2025-10-19
+    url: /events/2025-10-19-womens-brew-day
+    info: Women led brew day at the Maas's
 beer:
   - name: Williams Labor Daze
     info: Williams - Grand Canyon Brewing

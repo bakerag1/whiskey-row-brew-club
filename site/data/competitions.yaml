@@ -239,7 +239,7 @@ schedules:
         compType: gauntlet
         style: 
           name: German Lagers (declare your style)
-      - date: 2025-07-21
+      - date: 2025-08-15
         compType: AZ-BJCP
         info: Ghosts of the West
         url: /ghosts-of-the-west
