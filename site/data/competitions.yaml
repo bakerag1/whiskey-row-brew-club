@@ -264,7 +264,7 @@ schedules:
             position: second
             category: Session IPA
           - name: Andrew
-            position: second
+            position: third
             category: Lichtenheiner 
       - date: 2025-08-21
         compType: gauntlet
