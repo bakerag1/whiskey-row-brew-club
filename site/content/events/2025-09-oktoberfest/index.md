@@ -19,4 +19,5 @@ rsvp: https://forms.gle/4oWnuj2kU1KPvCAZ8
 * There’ll be Cornhole and KegJam- feel free to bring other games
 * German/Oktoberfest attire encouraged
 
+[more details](https://docs.google.com/document/d/1pSD9S3-W3KO2KD9YLyAtiy6R80eKOCeAnz1kFyCRqzg/preview)  for members only
 ![dancing](dancing.jpg)
