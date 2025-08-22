@@ -1,0 +1,166 @@
+{{ define "main" -}}
+<style>
+  ul {
+    padding-left: 0;
+    list-style-type: none;
+    margin-top: 0;
+  }
+
+  ul:before {
+    content: attr(aria-label);
+    font-size: 120%;
+    font-weight: bold;
+  }
+table.meetings {
+    display: inline-table;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%
+  }
+
+  th.meetings {
+    text-align: center;
+    background-color: rgb(44, 190, 190);
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  td.meetings {
+    border: 1px solid black;
+    border-collapse: collapse;
+    min-width: 150px;
+  }
+
+  .event-group {
+    display: flex;
+    text-align: center;
+  }
+
+  .events {
+    width: calc(100% / 3);
+    text-align: left;
+    margin: 10px 10px;
+  }
+</style>
+{{ $events := where .Site.Pages "Section" "events" }}
+{{ $club := where $events "Params.event_type" "club" }}
+{{ $meetings := where $events "Params.event_type" "meeting" }}
+{{ $beer := where $events "Params.event_type" "beer" }}
+
+<h2>Upcoming Meetings</h2>
+<table class="meetings">
+  <thead>
+    <th class="meetings">date & location</th>
+    <th class="meetings">gauntlet</th>
+    <th class="meetings">education</th>
+  </thead>
+  {{ range sort $meetings "Params.startDate"}}
+  {{ $startDate := (time.AsTime .Params.startDate) }}
+  {{ if  and (gt $startDate $.Date) 
+    (lt $startDate ($.Date.AddDate 0 2 0))}}
+    {{ $mtgDate := $startDate.Format  "2006-01-02" }}
+      {{ $loc := .Params.location}}
+      {{ $ed := .Params.meeting.ed }}
+      <tr>
+        <td class="meetings">{{ $mtgDate }}<br>{{ $loc }}</td>
+        <td class="meetings">
+      {{ range $.Site.Data.competitions.schedules }}
+        {{ if ge (.Date.Format .date "2006-01-02") $mtgDate }}
+          {{ range .comps }}
+            {{ if eq .compType "gauntlet" }}
+              {{ if eq .date $mtgDate }}
+                {{ with .style }}
+                  {{ if and (eq .guide "bjcp" ) (eq .guideYear 2021 ) .category}} 
+                    <a href="/styles/bjcp/2021/{{.category}}">{{ .category }}. {{ .name }}</a><br>
+                    {{ else }}{{if .name }}{{ .name }}{{ end }}
+                  {{ end}}
+                  {{ end }}
+                  {{end}}
+                  {{end}}
+                  {{end}}
+                  {{end}}
+                  {{end}}
+                </td>
+                <td class="meetings">{{ $ed }}</td>
+              </tr>
+    {{end}}
+  {{end}}
+</table>
+
+<div class="event-group">
+    <div class="events">
+      <ul aria-label="Club Events">
+        {{range sort $club "Params.startDate"}}
+        {{ if  and (gt (time.AsTime .Params.startDate) $.Date) 
+          (lt (time.AsTime .Params.startDate) 
+          ($.Date.AddDate 0 4 0))}}
+        <li>
+          <a href="{{.Permalink}}">{{.Title}}</a> - {{time.Format "1/2" .Params.startDate}}
+          {{if .Params.info}}
+          <p style="font-style: italic;">{{ .Params.info }}</p>
+          {{end}}
+        </li>
+        {{end}}
+        {{end}}
+      </ul>
+      </td>
+    </div>
+
+    <div class="events">
+      <ul aria-label="Beer Events">
+        {{range sort $beer "Params.startDate"}}
+        {{ if  and (gt (time.AsTime .Params.startDate) $.Date) 
+          (lt (time.AsTime .Params.startDate) 
+          ($.Date.AddDate 0 6 0))}}
+        <li>
+          <a href="{{.Permalink}}">{{.Title}}</a> - {{time.Format "1/2" .Params.startDate}}
+          {{if .Params.info}}
+          <ul style="font-style: italic;list-style-type: none;">
+            <li>{{.info}}</li>
+          </ul>
+          {{end}}
+        </li>
+        {{end}}
+        {{end}}
+      </ul>
+    </div>
+    <div class="events">
+      <ul aria-label="Competitions">
+        {{range sort $.Site.Data.competitions.schedules "date"}}
+        {{ if ge .year (.Date.Format .date "2006") }}
+        {{ range .comps }}
+        {{ if ne .compType "gauntlet" }}
+        {{ if  and (gt (time.AsTime .date) $.Date) 
+          (lt (time.AsTime .date) 
+          ($.Date.AddDate 0 6 0))}}
+        <li>
+          <a href="{{.url}}">{{.info}}</a> - {{time.Format "1/2" .date}}
+          <br>
+          {{ with .style.name}}
+          <i>{{.}}</i>
+          {{ end }}
+        </li>
+        {{ end }}
+        {{ end }}
+        {{end}}
+        {{end}}
+        {{end}}
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<h1>Recent Posts</h1>
+{{ range (where .Site.RegularPages.ByDate.Reverse "Section" "posts") -}}
+  {{ if gt .Date (time.Now.AddDate 0 0 -45) -}}
+    <article class="post">
+      <h2 class="post-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+    </article>
+  {{- end }}
+{{- end }}
+<a href="/posts">All Posts</a>
+{{- end }}

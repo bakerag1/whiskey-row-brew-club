@@ -15,8 +15,8 @@ event: true
 General Meeting  
 August 21 6pm  
 Cocky's Chicken & Brew  
-Gauntlet: TBD  
-Ed Topic:   
+Gauntlet: Chile Beer  
+Ed Topic: indole spike
   
 Notes:  
   

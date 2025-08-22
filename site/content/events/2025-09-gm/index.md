@@ -15,8 +15,8 @@ meeting:
 General Meeting  
 September 18 6pm  
 Cocky's Chicken & Brew  
-Gauntlet: TBD  
-Ed Topic:   
+Gauntlet: German Lager   
+Ed Topic: Hops 101  
   
 Notes:  
   
