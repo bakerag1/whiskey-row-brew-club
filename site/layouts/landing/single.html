@@ -8,6 +8,9 @@
     {{ range .Page.Params.HeaderLinks }}
      | <a href="{{ .Link}}">{{ .LinkTitle }}</a>
     {{ end }}
+    {{ range .Page.Sections }}
+      | <a href="{{ .Link}}">{{ .LinkTitle }}</a>
+    {{ end }}
 </nav>
 <div class="post">
   <h1>{{ .Title }}</h1>
