@@ -268,11 +268,19 @@ schedules:
             category: Lichtenheiner 
       - date: 2025-08-21
         compType: gauntlet
+        entries: 3
         style: 
           name: Chili Beer (declare your style)
           guide: BJCP
           guideYear: 2021
           category: 30A
+        winners:
+          - name: Susan
+            position: first
+          - name: Andrew
+            position: second
+          - name: Eric
+            position: third
       - date: 2025-09-18
         compType: gauntlet
         style: 
@@ -283,6 +291,13 @@ schedules:
         url: /ghosts-of-the-west
         style:
           name: British Styles
+        winners:
+          - name: Susan
+            position: third
+            category: Strong and Brown
+          - name: Susan
+            position: third
+            category: Porter and Stout
       - date: 2025-09-14
         compType: AZ-BJCP
         info: Copper State Cup (ASH)
