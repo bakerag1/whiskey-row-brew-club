@@ -306,6 +306,13 @@ schedules:
         compType: AZ-BJCP
         info: Arizona Mead & Cider Homebrew Competition
         url: https://meadfest.mountaintopmashers.net/
+        winners:
+          - name: Susan
+            position: first
+            category: "Category C1: Standard Cider and Perry"
+          - name: Susan
+            position: first
+            category: "Category M2: Fruit Mead"
       - date: 2025-10-16
         compType: gauntlet
         info: Candy inspired or infused beers
