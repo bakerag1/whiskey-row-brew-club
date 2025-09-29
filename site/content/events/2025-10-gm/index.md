@@ -7,7 +7,7 @@ location: Cocky's Chicken & Brew
 event_type: meeting
 event: true
 meeting:
-  ed: TBD off-flavor
+  ed: Spooky Powders
 ---
 
 ![image](event.png)
