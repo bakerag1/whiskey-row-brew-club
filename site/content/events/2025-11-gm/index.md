@@ -6,17 +6,16 @@ endDate:  2025-11-20 20:00:00 +0000 UTC
 location: Cocky's Chicken & Brew
 event_type: meeting
 meeting:
-  ed: Vinegar Making
+  ed: Survey & Election
 event: true
 ---
 
-![image](event.png)
  
 General Meeting  
 November 20 6pm  
 Cocky's Chicken & Brew  
-Gauntlet: TBD  
-Ed Topic:   
+Gauntlet: Nut Beer  
+Ed Topic: Survey & Election
   
 Notes:  
   

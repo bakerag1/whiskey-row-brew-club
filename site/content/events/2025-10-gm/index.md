@@ -7,16 +7,15 @@ location: Cocky's Chicken & Brew
 event_type: meeting
 event: true
 meeting:
-  ed: Spooky Powders
+  ed: Butyric Acid
 ---
 
-![image](event.png)
  
 General Meeting  
 October 16 6pm  
 Cocky's Chicken & Brew  
-Gauntlet: TBD  
-Ed Topic: Spooky Powders - homebrew additives  
+Gauntlet: Trick or Treat (name your candy and style)  
+Ed Topic: Butyric Acid
   
 Notes:  
   
