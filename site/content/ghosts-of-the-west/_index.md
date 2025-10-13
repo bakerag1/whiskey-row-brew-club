@@ -18,6 +18,7 @@ we have, but to create a competition to honor this heritage!
 
 
 **Details:**
+* Late summer/early fall
 * award categories will be determined based on number of entries
 * Medals will be awarded for first, second, and third in each category
 * First place in each category will be judged for Best of Show (provided sufficient bottles are available)
