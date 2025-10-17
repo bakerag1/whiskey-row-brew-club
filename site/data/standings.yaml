@@ -1,21 +1,21 @@
 - place: 1st
   name: Susan
-  points: 30
+  points: 44
 - place: 2nd
   name: Andrew
-  points: 29
+  points: 33
 - place: 3rd
   name: Conrad
   points: 5
 - place: 4th
+  name: Mike
+  points: 4
+- place: 5th
   name: Tom
   points: 3
-- place: 5th
+- place: 6th
   name: Wes
   points: 2
-- place: 6th
-  name: Mike
-  points: 1
-- place: 6th
+- place: 7th
   name: Eric
   points: 1
