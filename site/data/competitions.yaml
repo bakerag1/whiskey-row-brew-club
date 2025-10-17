@@ -311,25 +311,24 @@ schedules:
         info: Copper State Cup (ASH)
         url: https://beerawardsplatform.com/2025-ash-copper-state-cup
         winners:
-          winners:
-            - name: Susan
-              position: first
-              category: "Common Cider"
-            - name: Susan
-              position: first
-              category: Fruit Mead
-            - name: Susan
-              position: first
-              category: Fruit, Spice, Herb, Vegetable Beer
-            - name: Andrew
-              position: first
-              category: Smoked & Wood-Aged Beer
-            - name: Susan
-              position: second
-              category: Traditional, Historical, and Spiced Mead
-            - name: Susan
-              position: third
-              category: Traditional, Historical, and Spiced Mead
+          - name: Susan
+            position: first
+            category: "Common Cider"
+          - name: Susan
+            position: first
+            category: Fruit Mead
+          - name: Susan
+            position: first
+            category: Fruit, Spice, Herb, Vegetable Beer
+          - name: Andrew
+            position: first
+            category: Smoked & Wood-Aged Beer
+          - name: Susan
+            position: second
+            category: Traditional, Historical, and Spiced Mead
+          - name: Susan
+            position: third
+            category: Traditional, Historical, and Spiced Mead
       - date: 2025-08-30
         compType: AZ-BJCP
         info: Arizona Mead & Cider Homebrew Competition
