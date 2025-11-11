@@ -4,7 +4,9 @@ magick -size 1080x1080 gradient:SpringGreen4-LightGreen site/assets/Mar-base.png
 magick -size 1080x1080 gradient:orchid2-plum1 site/assets/Apr-base.png
 magick -size 1080x1080 gradient:green4-lime site/assets/May-base.png
 magick -size 1080x1080 gradient:green3-lime site/assets/Jun-base.png
+magick -size 1080x1080 gradient:green3-lime site/assets/Jul-base.png
 magick -size 1080x1080 gradient:chartreuse-OliveDrab site/assets/Aug-base.png
 magick -size 1080x1080 gradient:bisque4-wheat1 site/assets/Sep-base.png
 magick -size 1080x1080 gradient:black-orange site/assets/Oct-base.png
 magick -size 1080x1080 gradient:DarkGoldenrod4-orange2 site/assets/Nov-base.png
+magick -size 1080x1080 gradient:white-CadetBlue1 site/assets/Dec-base.png
