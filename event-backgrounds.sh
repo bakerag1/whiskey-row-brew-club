@@ -1,4 +1,4 @@
-magick -size 1080x1080 gradient:white-CadetBlue1 site/assets/Jan-base.png
+magick -size 1080x1080 gradient:CadetBlue1-white site/assets/Jan-base.png
 magick -size 1080x1080 gradient:PaleVioletRed1-white site/assets/Feb-base.png
 magick -size 1080x1080 gradient:SpringGreen4-LightGreen site/assets/Mar-base.png
 magick -size 1080x1080 gradient:orchid2-plum1 site/assets/Apr-base.png
