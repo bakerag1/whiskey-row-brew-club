@@ -109,15 +109,15 @@ schedules:
         compType: gauntlet
         style:
           name: best clone, name your commercial inspiration
-      - date: 2026-09-18
+      - date: 2026-09-17
         compType: gauntlet
         style:
           name: Malt Liquor
-      - date: 2026-10-16
+      - date: 2026-10-15
         compType: gauntlet
         style:
           name: Pumpkin Spice (declare base style)
-      - date: 2026-11-20
+      - date: 2026-11-19
         compType: gauntlet
         style: 
           name: Belgian Dark Strong

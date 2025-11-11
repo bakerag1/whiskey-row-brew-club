@@ -40,3 +40,6 @@ public/
 */public
 */.hugo_build.lock
 resources/
+
+# vscode
+.vscode/

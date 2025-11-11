@@ -1,10 +1,9 @@
 /*
 Copyright © 2024 NAME HERE <EMAIL ADDRESS>
-
 */
 package main
 
-import "whiskeyrowbrewclub.com/cmd"
+import "wrbc/cmd"
 
 func main() {
 	cmd.Execute()

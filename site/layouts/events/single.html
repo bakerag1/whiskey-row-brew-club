@@ -2,12 +2,161 @@
 <div class="post">
   <h1>{{ .Title }}</h1>
   {{ with .Params.rsvp }}<a href="{{ . }}">RSVP</a>{{ end }}
-<br>
+  <br>
   {{ dateFormat "Monday, Jan 2, 2006 3:04PM" .Params.startdate }} - {{ dateFormat "3:04PM" .Params.enddate }}
   <br><br>
+  {{ with .Params }}
+    {{ with .Location }}location: {{.}}<br>{{end}} 
+  {{ end }}
+  <br>
   {{ .Content }}
+  
+  {{ if eq .Params.event_type "meeting" }}
+  {{ with .Params }}
+  {{ $gauntlet := "" }}
+  {{ $mtgDate := time.Format "2006-01-02" .startDate }}
+
+    {{ range $.Site.Data.competitions.schedules }}
+        {{ if ge (.Date.Format .date "2006-01-02") $mtgDate }}
+          {{ range .comps }}
+            {{ if eq .compType "gauntlet" }}
+              {{ if eq .date $mtgDate }}
+              {{ with .style }}
+                 {{ $gauntlet = .name }}
+                {{ end}}
+              {{ end }}
+            {{end}}
+          {{end}}
+        {{end}}
+      {{end}}
+
+      {{ $base := resources.Get "VioletRedWhite-base.png" }}
+      {{ $base := resources.Get (printf "%s%s" (time.Format "Jan" .startDate) "-base.png") }}
+
+      {{ $fontPath := "gentlemancaller.ttf"}}
+      {{ $font := "" }}
+      {{ with try (resources.Get $fontPath) }}
+        {{ with .Err }}
+          {{ printf "%s" . }}
+        {{ else with .Value }}
+          {{ $font = . }}
+        {{ else }}
+          {{ printf "Unable to get resource %s %v" $fontPath . }}
+        {{ end }}
+      {{ end }}
+      {{ $img := images.Filter (images.Text .title (dict
+        "color" "#000000"
+        "size" 110
+        "linespacing" 2
+        "alignx" "center"
+        "x" 540
+        "y" 100
+        "font" $font
+      )) $base }}
+      {{ $img := images.Filter (images.Text .title (dict
+        "color" "#ffffff"
+        "size" 110
+        "linespacing" 2
+        "alignx" "center"
+        "x" 539
+        "y" 97
+        "font" $font
+      )) $img }}
+
+      {{ with .meeting }}
+        {{ $img = images.Filter (images.Text .ed (dict
+          "color" "#ffffff"
+          "size" 64
+          "linespacing" 2
+          "x" 540
+          "y" 540
+          "alignx" "center"
+          "aligny" "center"
+          "font" $font
+        )) $img }}
+        {{ $img = images.Filter (images.Text .ed (dict
+          "color" "#000000"
+          "size" 64
+          "linespacing" 2
+          "x" 539
+          "y" 537
+          "alignx" "center"
+          "aligny" "center"
+          "font" $font
+        )) $img }}
+      {{ end }}
+
+      {{ $img = images.Filter (images.Text $gauntlet (dict
+        "color" "#ffffff"
+        "size" 64
+        "linespacing" 2
+        "x" 540
+        "y" 640
+        "alignx" "center"
+        "aligny" "center"
+        "font" $font
+      )) $img }}
+      {{ $img = images.Filter (images.Text $gauntlet (dict
+        "color" "#000000"
+        "size" 64
+        "linespacing" 2
+        "x" 539
+        "y" 637
+        "alignx" "center"
+        "aligny" "center"
+        "font" $font
+      )) $img }}
+
+      {{ $img = images.Filter (images.Text .location (dict
+        "color" "#ffffff"
+        "size" 64
+        "linespacing" 2
+        "x" 540
+        "y" 840
+        "alignx" "center"
+        "aligny" "center"
+        "font" $font
+      )) $img }}
+      {{ $img = images.Filter (images.Text .location (dict
+        "color" "#000000"
+        "size" 64
+        "linespacing" 2
+        "x" 539
+        "y" 837
+        "alignx" "center"
+        "aligny" "center"
+        "font" $font
+      )) $img }}
+
+      {{ $start := ( time.Format "1/2 - 3:04pm" .startDate )}}
+      {{ $img = images.Filter (images.Text $start (dict
+        "color" "#ffffff"
+        "size" 64
+        "linespacing" 2
+        "x" 540
+        "y" 940
+        "alignx" "center"
+        "aligny" "center"
+        "font" $font
+      )) $img }}
+      {{ $img = images.Filter (images.Text $start (dict
+        "color" "#000000"
+        "size" 64
+        "linespacing" 2
+        "x" 541
+        "y" 941
+        "alignx" "center"
+        "aligny" "center"
+        "font" $font
+      )) $img }}
+
+       {{ with $img }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+  {{ end }}
   {{ if .Params.Gallery }}
-    {{ partial "image-gallery" . }}
+  {{ partial "image-gallery" . }}
   {{ end }}
 </div>
 

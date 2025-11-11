@@ -9,13 +9,6 @@ meeting:
   ed: Survey & Election
 event: true
 ---
-
- 
-General Meeting  
-November 20 6pm  
-Cocky's Chicken & Brew  
-Gauntlet: Nut Beer  
-Ed Topic: Survey & Election
   
 Notes:  
   

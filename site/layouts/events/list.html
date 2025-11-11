@@ -24,6 +24,7 @@ Also available in <a href="https://calendar.google.com/calendar/embed?src=whiske
 
 <h2>Old events</h2>
 <button onclick="document.getElementsByName('oldies').forEach(e => e.style.display = 'block'); this.style.display ='none';">show old events</button>
+{{ $pages := collections.Sort $pages "Params.startdate" "desc"}}
 {{ range $pages -}}
   {{ $start := (time.AsTime .Params.startdate) }}
   {{ $minus1d := time.ParseDuration "-24h"}}
